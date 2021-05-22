@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>{{ site.title }}</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  
+  {% include favico.html %}
+
+  <link href="https://fonts.googleapis.com/css?family=DM+Sans%3A400%7CStaatliches%3A400%7CDM+Sans%3A700&#038;subset=latin%2Clatin%2Clatin" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/template/elementor-frontend.css">
+  <link rel="stylesheet" href="assets/css/template/elementor-post-15.css">
+  <link rel="stylesheet" href="assets/css/template/magnific-popup.css">
+  <link rel="stylesheet" href="assets/css/template/elementor-post-854.css"> 
+  <link rel="stylesheet" href="assets/css/template/wp-block-library.css"> 
+  <link rel="stylesheet" href="assets/css/template/contact-form-7.css">
+  <link rel="stylesheet" href="assets/css/template/spker-style.css">
+  <link rel="stylesheet" href="assets/css/template/rs-plugin-settings.css">
+  <link rel="stylesheet" href="assets/css/template/bodhi-svgs-attachment.css">
+  <link rel="stylesheet" href="assets/css/template/elementor-icons.css">
+  <link rel="stylesheet" href="assets/css/template/elementor-animations.css"> 
+  <link rel="stylesheet" href="assets/css/template/font-awesome-5-all.css">
+  <link rel="stylesheet" href="assets/css/template/font-awesome-4-shim.css">
+  <link rel="stylesheet" href="assets/css/template/elementor-global.css">
+  <link rel="stylesheet" href="assets/css/template/elementor-post-9.css">
+  <link rel="stylesheet" href="assets/css/template/spkder-style.css">
+  <link rel="stylesheet" href="assets/css/template/otf-fonts.css">
+  <link rel="stylesheet" href="assets/css/template/elementor-icons-shared-0.css">
+  <link rel="stylesheet" href="assets/css/template/elementor-icons-fa-brands.css">
+  <link rel="stylesheet" href="assets/css/template.css">
+  <link rel="stylesheet" href="assets/css/style.css">
+
+  <script src="assets/js/jquery.js"></script>
+  
+  {% seo %}
+</head>
+
+<body class="{% if page.url == '/' %}home{% endif %} page-template page-template-page-elementor page-template-page-elementor-php page page-id-9 custom-background wp-custom-logo opal-style chrome platform-windows opal-layout-wide opal-page-title-right-left opal-footer-skin-light spkder-front-page opal-has-menu-top opal-header-absolute elementor-default elementor-page elementor-page-9">
+  <div id="wptime-plugin-preloader"></div>
+  <div class="opal-wrapper">
+    <div id="page" class="site">
+      <header id="masthead" class="site-header">
+        <div class="site-header">
+          <div data-elementor-type="post" data-elementor-id="15" class="elementor elementor-15"
+            data-elementor-settings="[]">
+            <div class="elementor-inner">
+              <div class="elementor-section-wrap">
+                {% include nav.html %}
+              </div>
+            </div>
+          </div>
+        </div>
+      </header>
+      <div id="page-title-bar" class="page-title-bar">
+        <div class="container">
+          <div class="wrap w-100 d-flex align-items-center">
+            <div class="page-title-bar-inner d-flex flex-column align-items-center w-100">
+              <div class="page-header">
+                <h1 class="page-title typo-heading">{{page.title}}</h1>
+              </div>
+              <div class="breadcrumb">
+                <span property="itemListElement" typeof="ListItem">
+                  <a property="item" typeof="WebPage" title="Home" href="./" class="home"><span property="name">Home</span></a><meta property="position" content="1">
+                </span> &gt; <span class="post post-page current-item">{{page.title}}</span></div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="site-content-contain">
+        <div id="content" class="site-content">
+          <div id="primary" class="content-area">
+            <main id="main" class="site-main">
+              <div data-elementor-type="post" data-elementor-id="9" class="elementor elementor-9"
+                data-elementor-settings="[]">
+                <div class="elementor-inner">
+                  <div class="elementor-section-wrap">
+
+                    {{ content }}
+                    
+                  </div>
+                </div>
+              </div>
+            </main>
+          </div>
+        </div>
+      </div>
+      {% include footer.html %}
+    </div>
+    
+  </div>
+
+  <a href="#" class="scrollup"><span class="icon fa fa-angle-up"></span></a>
+  <div class="body-background">
+    <div class="body-background-inner" style="background-image: url(/assets/images/body-background-inner.svg); transform: translate(-50%, -50%) scale(1);"> </div>
+  </div>
+  
+  <!--link data-minify="1" rel='stylesheet' property='stylesheet' id='rs-icon-set-fa-icon-css'
+    href='https://demo2wpopal.b-cdn.net/spker/wp-content/cache/min/1/spker/wp-content/plugins/revslider/public/assets/fonts/font-awesome/css/font-awesome-c815e7a37677ace6b2e1cf55c582c69f.css'
+    media='all' />
+  <link rel='stylesheet' id='tooltipster-bundle-css'
+    href='https://demo2wpopal.b-cdn.net/spker/wp-content/plugins/spker-core/assets/css/tooltipster.bundle.min.css?ver=1.0.0'
+    media='all' />
+  <script
+    id='contact-form-7-js-extra'>/* <![CDATA[ */ var wpcf7 = { "apiSettings": { "root": "https:\/\/demo2.wpopal.com\/spker\/wp-json\/contact-form-7\/v1", "namespace": "contact-form-7\/v1" }, "cached": "1" }; /* ]]> */</script>
+  <script
+    id='wp-util-js-extra'>/* <![CDATA[ */ var _wpUtilSettings = { "ajax": { "url": "\/spker\/wp-admin\/admin-ajax.php" } }; /* ]]> */</script-->
+  <script id='elementor-frontend-js-before'>
+    var elementorFrontendConfig = { 
+      "environmentMode": { "edit": false, "wpPreview": false }, 
+      "settings": { "page": [], "general": { "elementor_stretched_section_container": "body", "elementor_global_image_lightbox": "yes", "elementor_enable_lightbox_in_editor": "yes" } },
+    };
+  </script>
+  <script src="assets/js/template.js"></script>
+</body>
+
+</html>

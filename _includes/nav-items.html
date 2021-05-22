@@ -1,0 +1,20 @@
+{% assign current_url = page.url | downcase | replace: './', '' | replace: '/', '' %}
+{% for item in site.data.nav %}
+  {% if item.items == nil %}
+    {% assign current = item.url | downcase | replace: './', '' | replace: '/', '' %}
+    <li class="menu-item menu-item-type-post_type menu-item-object-page">
+      <a href="{{item.url}}" class="elementor-item {% if current_url == current %}elementor-item-active{% endif %}" target="{{item.target}}">{{item.name}}</a>
+    </li>
+  {% else %}
+    <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children">
+      <a href="#" class="elementor-item">{{item.name}}</a>
+      <ul class="sub-menu elementor-nav-menu--dropdown">
+        {% for subitem in item.items %}
+          <li class="menu-item menu-item-type-post_type menu-item-object-page">
+            <a href="{{subitem.url}}" class="elementor-sub-item" target="{{subitem.target}}">{{subitem.name}}</a>
+          </li>
+        {% endfor %}
+      </ul>
+    </li>
+  {% endif %}
+{% endfor %}

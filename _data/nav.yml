@@ -1,0 +1,29 @@
+- name: Home
+  url: ./
+
+- name: WBMA
+  url: wbma
+
+- name: Test
+  url: test
+
+- name: Edições Anteriores
+  items: 
+    - name: Agile Brazil 2020
+      url: https://www.agilebrazil.com/2020/
+      target: _blank
+    - name: Agile Brazil 2019
+      url: https://www.agilebrazil.com/2019/
+      target: _blank
+    - name: Agile Brazil 2018
+      url: https://www.agilebrazil.com/2018/
+      target: _blank
+    - name: Agile Brazil 2017
+      url: https://www.agilebrazil.com/2017/
+      target: _blank
+    - name: Agile Brazil 2016
+      url: https://www.agilebrazil.com/2016/
+      target: _blank
+    - name: Agile Brazil 2015
+      url: https://www.agilebrazil.com/2015/
+      target: _blank
