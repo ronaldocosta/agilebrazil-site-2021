@@ -1288,8 +1288,8 @@ a:hover {
 }
 .effect-thumbnail .post-thumbnail a {
   display: block;
-  background-image: linear-gradient(left, #fd4c66, #022);
-  background-image: -webkit-linear-gradient(left, #fd4c66, #022);
+  background-image: linear-gradient(left, #43AC4B, #022);
+  background-image: -webkit-linear-gradient(left, #43AC4B, #022);
 }
 .effect-thumbnail .post-thumbnail a:before {
   position: absolute;
@@ -1450,7 +1450,7 @@ a:hover {
 }
 .site-header .mainmenu-container .top-menu > li.current-menu-item > a,
 .site-header .mainmenu-container .top-menu > li:hover > a {
-  color: #fd4c66;
+  color: #43AC4B;
 }
 @media (min-width: 768px) and (max-width: 991px) {
   .site-header .mainmenu-container .top-menu > li {
@@ -5033,7 +5033,7 @@ object {
   font-size: 20px;
   font-size: 1.25rem;
   opacity: 0;
-  color: #fd4c66;
+  color: #43AC4B;
   display: inline-block;
 }
 .modal-user .opal-loader-inner label:nth-child(6) {
