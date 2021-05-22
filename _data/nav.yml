@@ -1,6 +1,9 @@
 - name: Home
   url: ./
 
+- name: Código de Conduta
+  url: codigo-de-conduta
+
 - name: WBMA
   url: wbma
 

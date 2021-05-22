@@ -7,3 +7,50 @@ body.custom-background { background-color: #f4f4fb; }
 .elementor-image.logo img {
   max-height: 57px !important;
 }
+
+.site-main {
+  margin-top: 2em;
+  margin-bottom: 4em;
+}
+
+.code-of-conduct {
+  .mensagem-principal {
+    color: #b7b7b7;
+    font-size: 7vw;
+    text-align: center;
+    padding-bottom: 1.5em;
+  }
+
+  .mensagem-principal em {
+    color: #999;
+    font-style: normal;
+  }
+  
+  h1 {
+    padding-top: 0;
+    margin-bottom: 0;
+    line-height: 0.8;
+  }
+
+  .autoria {
+    color: #999;
+    display: block;
+    font-size: 150%;
+    padding-bottom: 1em;
+  }
+  
+  @media (min-width:576px) {
+    .mensagem-principal {
+      font-size: 5.4vw;
+    }
+  }
+  @media (min-width:992px) {
+    .mensagem-principal {
+      float: right;
+      font-size: 60px;
+      font-size: 3.75rem;
+      text-align: right;
+      padding-bottom: 0;
+    }
+  }
+}
