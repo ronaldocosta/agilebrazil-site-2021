@@ -1,5 +1,11 @@
 {% assign current_url = page.url | downcase | replace: './', '' | replace: '/', '' %}
-{% for item in site.data.nav %}
+
+{% assign nav = site.data.nav %}
+{% if jekyll.environment == 'production' %}
+  {% assign nav = nav | where: "production", true %}
+{% endif %}
+
+{% for item in nav %}
   {% if item.items == nil %}
     {% assign current = item.url | downcase | replace: './', '' | replace: '/', '' %}
     <li class="menu-item menu-item-type-post_type menu-item-object-page">
