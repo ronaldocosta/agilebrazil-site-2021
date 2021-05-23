@@ -92,3 +92,47 @@ body.custom-background { background-color: #f4f4fb; }
     }
   }
 }
+
+.register-section {
+  &.tickets {
+
+    .elementor-element-populated {
+      transition: background 0s,border .3s,border-radius .3s,box-shadow .3s;
+      margin: 0 15px 30px;
+    }
+    
+    .elementor-price-table__currency,
+    .elementor-price-table__decimal-part {
+      font-size: 30px;
+    }
+
+    .bg-white {
+      background-color: white;
+      background-image: none;
+      
+      .elementor-price-table__heading,
+      .elementor-price-table__features-list span {
+        color: #696a87;
+      }
+      .elementor-price-table__price span {
+        color: #000;
+      }
+    }
+  }
+
+  &.faq {
+    margin-top: 7em;
+
+    .elementor-accordion .elementor-accordion-item {
+      border: none;
+    }
+
+    span.question {
+      margin-left: 20px;
+    }
+
+    p.answer {
+      margin-left: 30px;
+    }
+  }
+}

@@ -1,0 +1,20 @@
+
+- name: 1º Lote
+  price: "129,90"
+  start: 2021-05-31
+  end: 2021-06-21
+
+- name: 2º Lote
+  price: "179,90"
+  start: 2021-06-22
+  end: 2021-08-15
+
+- name: 3º Lote
+  price: "229,90"
+  start: 2021-08-16
+  end: 2021-10-05
+
+- name: Estudante
+  price: "99,90"
+  start: 2021-05-31
+  end: 2021-10-05

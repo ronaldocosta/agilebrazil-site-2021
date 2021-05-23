@@ -1,6 +1,9 @@
 - name: Home
   url: ./
 
+- name: Incrições
+  url: register
+
 - name: Código de Conduta
   url: codigo-de-conduta
 
