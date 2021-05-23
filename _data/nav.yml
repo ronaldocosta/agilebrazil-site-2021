@@ -4,12 +4,6 @@
 - name: Código de Conduta
   url: codigo-de-conduta
 
-- name: WBMA
-  url: wbma
-
-- name: Test
-  url: test
-
 - name: Edições Anteriores
   items: 
     - name: Agile Brazil 2020

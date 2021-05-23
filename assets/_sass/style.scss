@@ -5,10 +5,18 @@ $logo-yellow: #ffa506;
 
 $background-header: #16252E;
 
+.elementor-widget-heading .elementor-heading-title {
+  padding-left: 35px;
+}
+
 body.custom-background { background-color: #f4f4fb; }
 
 .site-header {
   background-color: $background-header;
+  
+  .elementor-image.logo img {
+    max-height: 57px !important;
+  }  
 }
 
 .page-title-bar {
@@ -22,13 +30,25 @@ body.custom-background { background-color: #f4f4fb; }
   }
 }
 
-.elementor-image.logo img {
-  max-height: 57px !important;
-}
-
 .site-main {
   margin-top: 2em;
   margin-bottom: 4em;
+}
+
+.bg-gradient {
+  background-image: linear-gradient(to right, $logo-dark-green 0%, $logo-light-green 100%) !important;
+}
+
+.home-section {
+
+  .about-info {
+    background-color: #fff;
+    padding: 20px;
+  }
+
+  .about-details {
+    background-color: $logo-dark-blue;
+  }
 }
 
 .code-of-conduct {
