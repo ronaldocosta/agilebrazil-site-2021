@@ -30,7 +30,7 @@ jobs:
   production:
     name: Publish website
     runs-on: ubuntu-latest
-    needs: functionalTestsStaging
+    needs: jekyll
     environment:
       name: production
     steps:
