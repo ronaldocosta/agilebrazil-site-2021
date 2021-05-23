@@ -3,10 +3,23 @@ $logo-light-green: #43ac4b;
 $logo-dark-green: #147332;
 $logo-yellow: #ffa506;
 
+$background-header: #16252E;
+
 body.custom-background { background-color: #f4f4fb; }
 
+.site-header {
+  background-color: $background-header;
+}
+
 .page-title-bar {
-  background-image: url(https://demo2wpopal.b-cdn.net/spker/wp-content/uploads/2019/07/breadcrumb.png);
+  background-color: $background-header;
+  // background-image: url(https://demo2wpopal.b-cdn.net/spker/wp-content/uploads/2019/07/breadcrumb.png);
+  background-image: url(../images/agile-brazil-2016-volunteers.png);
+
+  .page-title-bar-wrap {
+    min-height: 0px !important;
+    padding-bottom: 50px !important;
+  }
 }
 
 .elementor-image.logo img {

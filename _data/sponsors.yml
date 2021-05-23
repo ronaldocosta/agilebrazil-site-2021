@@ -1,47 +1,15 @@
-- name: Teste 1
-  logo: https://demo2wpopal.b-cdn.net/spker/wp-content/uploads/2019/07/brand_1.png
-  url: https://www.salaozen.com.br
+- name: DTI
+  logo: assets/images/sponsor-logo-dti.png
+  url: https://www.dtidigital.com.br
 
-- name: Teste 1
-  logo: https://demo2wpopal.b-cdn.net/spker/wp-content/uploads/2019/07/brand_1.png
-  url: https://www.salaozen.com.br
+- name: Thoughtworks
+  logo: assets/images/sponsor-logo-thoughtworks.png
+  url: https://www.thoughtworks.com/
 
-- name: Teste 1
-  logo: https://demo2wpopal.b-cdn.net/spker/wp-content/uploads/2019/07/brand_1.png
-  url: https://www.salaozen.com.br
+- name: Globo.com
+  logo: assets/images/sponsor-logo-globo.png
+  url: https://vempraglobo.recruiterbox.com
 
-- name: Teste 1
-  logo: https://demo2wpopal.b-cdn.net/spker/wp-content/uploads/2019/07/brand_1.png
-  url: https://www.salaozen.com.br
-
-- name: Teste 1
-  logo: https://demo2wpopal.b-cdn.net/spker/wp-content/uploads/2019/07/brand_1.png
-  url: https://www.salaozen.com.br
-
-- name: Teste 1
-  logo: https://demo2wpopal.b-cdn.net/spker/wp-content/uploads/2019/07/brand_1.png
-  url: https://www.salaozen.com.br
-
-- name: Teste 1
-  logo: https://demo2wpopal.b-cdn.net/spker/wp-content/uploads/2019/07/brand_1.png
-  url: https://www.salaozen.com.br
-
-- name: Teste 1
-  logo: https://demo2wpopal.b-cdn.net/spker/wp-content/uploads/2019/07/brand_1.png
-  url: https://www.salaozen.com.br
-
-- name: Teste 1
-  logo: https://demo2wpopal.b-cdn.net/spker/wp-content/uploads/2019/07/brand_1.png
-  url: https://www.salaozen.com.br
-
-- name: Teste 1
-  logo: https://demo2wpopal.b-cdn.net/spker/wp-content/uploads/2019/07/brand_1.png
-  url: https://www.salaozen.com.br
-
-- name: Teste 1
-  logo: https://demo2wpopal.b-cdn.net/spker/wp-content/uploads/2019/07/brand_1.png
-  url: https://www.salaozen.com.br
-
-- name: Teste 1
-  logo: https://demo2wpopal.b-cdn.net/spker/wp-content/uploads/2019/07/brand_1.png
-  url: https://www.salaozen.com.br
+- name: SoftDesign
+  logo: assets/images/sponsor-logo-softdesign.png
+  url: https://softdesign.com.br/

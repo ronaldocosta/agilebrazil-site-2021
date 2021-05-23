@@ -2,6 +2,7 @@
   <div class="wrap">
     
     <div class="container grey-box">
+      {% if site.data.sponsors %}
       <div class="row sponsors mt-5">
           <div class="col-12 item text-center">
             <h4 class="elementor-heading-title elementor-size-default">patrocinadores</h4>
@@ -10,16 +11,17 @@
             {% endfor %}
           </div>
       </div>
+      {% endif %}
       <div class="row mt-5 mb-3">
         <div class="col-md-7">
-          <h4 class="elementor-heading-title elementor-size-default">Sobre</h4>
+          <h4 class="elementor-heading-title elementor-size-default">Sobre o Agile Brazil</h4>
           <p>{{site.description}}</p>
         </div>
         <div class="col-md-2 text-center made-by">
           <h4 class="elementor-heading-title elementor-size-default">realização</h4>
           <div class="row">
             <div class="col-12">
-              <img class="img-fluid" src="assets/images/logo-agileBrazil-dark.png" title="Agile Brazil" alt="Agile Brazil">
+              <img class="img-fluid" src="assets/images/logo-dark.png" title="Agile Brazil" alt="Agile Brazil">
             </div>
             <div class="col-12 mt-3">
               <a href="https://www.agilealliance.org/agilealliancebrazil" target="_blank"><img class="img-fluid" src="assets/images/logo-agile-alliance.png" title="Agile Alliance" alt="Agile Alliance"></a>
