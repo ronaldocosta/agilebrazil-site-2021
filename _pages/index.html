@@ -26,7 +26,7 @@ permalink: /
     </div>
   </div>
   <div class="row mt-4">
-    <div class="col-xs-6 col-md-4 about-details">
+    <div class="col-xs-6 col-md-6 about-details">
       <div class="elementor-element elementor-element-34c7d28 elementor-view-default elementor-position-top icon-box-default elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="34c7d28" data-element_type="widget" data-widget_type="icon-box.default">
         <div class="elementor-widget-container">
           <div class="elementor-icon-box-wrapper">
@@ -41,7 +41,7 @@ permalink: /
         </div>
       </div>
     </div>
-    <div class="col-xs-6 col-md-4 about-details">
+    <div class="col-xs-6 col-md-6 about-details">
       <div class="elementor-element elementor-element-34c7d28 elementor-view-default elementor-position-top icon-box-default elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="34c7d28" data-element_type="widget" data-widget_type="icon-box.default">
         <div class="elementor-widget-container">
           <div class="elementor-icon-box-wrapper">
@@ -56,12 +56,14 @@ permalink: /
         </div>
       </div>
     </div>
+    {% if jekyll.environment != 'production' %}
     <div class="col-md-1"></div>
     <div class="col-md-3 bg-gradient elementor-element elementor-element-34c7d28 elementor-view-default elementor-position-top icon-box-default elementor-vertical-align-top elementor-widget elementor-widget-icon-box d-flex justify-content-center align-items-center">
       <div class="elementor-widget-container text-center">
         <h3 class="elementor-icon-box-title align-self-center"><a href="register">Inscreva-se agora mesmo</a></h3>
       </div>
     </div>
+    {% endif %}
   </div>
 </section>
 

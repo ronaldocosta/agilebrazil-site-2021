@@ -4,7 +4,7 @@
 
 - name: Incrições
   url: register
-  production: true 
+  production: false 
 
 - name: Programação
   url: schedule
