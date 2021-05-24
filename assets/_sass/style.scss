@@ -51,6 +51,20 @@ body.custom-background { background-color: #f4f4fb; }
   }
 }
 
+section.home-program {
+  margin-top: 5rem;
+
+  .program-callout {
+    background-color: $logo-yellow !important;
+    color: $logo-dark-blue;
+
+    h2 {
+      color: $logo-dark-blue !important;
+      padding-left: 0;
+    }
+  }
+}
+
 .code-of-conduct {
   .mensagem-principal {
     color: #b7b7b7;
