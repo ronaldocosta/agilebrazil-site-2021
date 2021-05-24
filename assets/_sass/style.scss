@@ -5,9 +5,7 @@ $logo-yellow: #ffa506;
 
 $background-header: #16252E;
 
-.elementor-widget-heading .elementor-heading-title {
-  padding-left: 35px;
-}
+// .elementor-widget-heading .elementor-heading-title { padding-left: 35px; }
 
 body.custom-background { background-color: #f4f4fb; }
 
@@ -33,6 +31,11 @@ body.custom-background { background-color: #f4f4fb; }
 .site-main {
   margin-top: 2em;
   margin-bottom: 4em;
+
+  .elementor-section-wrap section {
+    margin-top: 2em;
+    margin-bottom: 3.5em;
+  }
 }
 
 .bg-gradient {
@@ -147,6 +150,20 @@ section.home-program {
 
     p.answer {
       margin-left: 30px;
+    }
+  }
+}
+
+.wbma-section {
+  &.dates {
+    b {
+      color: $logo-dark-green;
+    }
+  }
+  &.submission {
+    a {
+      text-decoration: underline;
+      color: $logo-dark-green;
     }
   }
 }
