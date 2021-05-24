@@ -193,6 +193,30 @@ section.home-program {
     }
   }
 
+  &.opportunities {
+    .opportunitie-item {
+      background-clip: content-box;
+      background-color: #fff;
+      text-align: center;
+      padding: 1rem;
+
+      i {
+        font-size: 70px;
+        color: #43ac4b;
+      }
+      h5 {
+        padding: 0px;
+        margin-top: -1rem;
+        color: #000;
+      }
+
+      p {
+        padding-left: 2rem;
+        padding-right: 2rem;
+      }
+    }
+  }
+
   &.benefits {
     .calculator-box {
       background-color: #fff;
