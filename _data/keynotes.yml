@@ -1,0 +1,23 @@
+- name: Mariana Zaparolli
+  photo: assets/images/keynotes/mariana-zaparolli.png
+  legend: Keynote Nacional
+
+- name: Linda Rising
+  photo: assets/images/keynotes/linda-rising.png
+  legend: Keynote de Abertura
+
+- name: Em breve!
+  photo: assets/images/keynotes/placeholder.png
+  legend: Keynote Nacional
+
+- name: WBMA
+  photo: assets/images/keynotes/placeholder.png
+  legend: Keynote da Academia
+
+- name: Confirmando
+  photo: assets/images/keynotes/placeholder.png
+  legend: Keynote Internacional
+
+- name: Convidada
+  photo: assets/images/keynotes/placeholder.png
+  legend: Keynote fora da caixa
