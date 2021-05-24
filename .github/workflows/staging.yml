@@ -47,12 +47,24 @@ jobs:
         with:
           build_only: true
       
+      #- name: 🚀 deploy on staging
+      #  uses: burnett01/rsync-deployments@4.1
+      #  with:
+      #    switches: -avzr --delete
+      #    path: ./_site
+      #    remote_path: staging.agilebrazil.com/2021
+      #    remote_host: staging.agilebrazil.com
+      #    remote_user: ${{ secrets.DEPLOY_USER }}
+      #    remote_key: ${{ secrets.DEPLOY_KEY }}
+
+
       - name: 🚀 deploy on staging
-        uses: burnett01/rsync-deployments@4.1
+        uses: trendyminds/github-actions-rsync@master
         with:
-          switches: -avzr --delete
-          path: ./_site
-          remote_path: staging.agilebrazil.com/2021
-          remote_host: staging.agilebrazil.com
-          remote_user: ${{ secrets.DEPLOY_USER }}
-          remote_key: ${{ secrets.DEPLOY_KEY }}
+          RSYNC_OPTIONS: -zav --progress --delete
+          RSYNC_TARGET: staging.agilebrazil.com/2021
+          RSYNC_SOURCE: ./_site
+        env:
+          SSH_PRIVATE_KEY: ${{secrets.DEPLOY_PRIVATE_KEY}}
+          SSH_USERNAME: ${{secrets.DEPLOY_USER}}
+          SSH_HOSTNAME: staging.agilebrazil.com
