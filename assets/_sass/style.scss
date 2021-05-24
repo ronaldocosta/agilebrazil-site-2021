@@ -167,3 +167,44 @@ section.home-program {
     }
   }
 }
+
+.about-section {
+  b {
+    color: $logo-dark-green;
+  }
+
+  &.intro {
+    .aa-box {
+      background-color: #fff;
+      padding: 20px;    
+    }
+  }
+}
+
+
+.sponsorship-section {
+  b {
+    color: $logo-dark-green;
+  }
+
+  &.previous {
+    .sponsors-box {
+      background-color: #fff;
+      padding: 20px;    
+    }
+  }
+
+  &.benefits {
+    .calculator-box {
+      background-color: #fff;
+      padding: 20px; 
+      
+      a {
+        padding: 1.065rem 3.5rem;
+        font-size: 1.2rem;
+        line-height: 1.875;
+        border-radius: 50px;
+      }
+    }
+  }
+}

@@ -10,6 +10,10 @@
   url: schedule
   production: false 
 
+- name: Patrocínio
+  url: sponsorship
+  production: false 
+
 - name: WBMA
   url: wbma
   production: true 

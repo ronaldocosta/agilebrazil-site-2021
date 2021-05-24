@@ -1,9 +1,10 @@
 $footer-font-color: #f0f9ff;
+$footer-bg-color: #282d32;
 
 footer {
   &.site-footer {
     color: $footer-font-color;
-    background-color:#282d32;
+    background-color: $footer-bg-color;
   }
 
   h4 {
@@ -14,6 +15,18 @@ footer {
     opacity:0.6;
     margin-bottom:0;
   }
+
+  a.btn {
+    border-color: $footer-font-color;
+    color: $footer-font-color;
+    border-radius: 50px;
+    
+    &:hover {
+      color: $footer-bg-color;
+      background-color: $footer-font-color;
+    }
+  }
+
 
   .sponsors {
     img {
