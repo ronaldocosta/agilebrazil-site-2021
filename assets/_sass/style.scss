@@ -5,10 +5,6 @@ $logo-yellow: #ffa506;
 
 $background-header: #16252E;
 
-section.home-program {
-  margin-top: 5rem;
-}
-
 .elementor-widget-heading .elementor-heading-title {
   padding-left: 35px;
 }
@@ -55,8 +51,18 @@ body.custom-background { background-color: #f4f4fb; }
   }
 }
 
-.home-program h2.program-callout {
-  padding-left: 0;
+section.home-program {
+  margin-top: 5rem;
+
+  .program-callout {
+    background-color: $logo-yellow !important;
+    color: $logo-dark-blue;
+
+    h2 {
+      color: $logo-dark-blue !important;
+      padding-left: 0;
+    }
+  }
 }
 
 .code-of-conduct {
