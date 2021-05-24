@@ -30,15 +30,15 @@ jobs:
       #    enable_cache: true
       #    custom_opts: 'JEKYLL_ENV=development'
       
-      - name: 🔨 build site
-        uses:  helaili/jekyll-action@v2
+      - name: 🚀 deploy on gh-pages
+        uses: helaili/jekyll-action@v2
         with:
-          build_only: true
+          token: ${{ secrets.GITHUB_TOKEN }} #build_only: true
           jekyll_env: development
 
-      - name: 🚀 deploy on gh-pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./_site
+      #- name: 🚀 deploy on gh-pages
+      #  uses: peaceiris/actions-gh-pages@v3
+      #  with:
+      #    github_token: ${{ secrets.GITHUB_TOKEN }}
+      #    publish_dir: ./_site
   
