@@ -36,7 +36,7 @@ social:
     - https://www.facebook.com/AgileBrazil
 
 url: "https://www.agilebrazil.com"
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/2021" # the subpath of your site, e.g. /blog
 
 permalink: :slug
 theme: jekyll-theme-minimal

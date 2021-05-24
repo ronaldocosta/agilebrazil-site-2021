@@ -57,14 +57,13 @@ jobs:
       #    remote_user: ${{ secrets.DEPLOY_USER }}
       #    remote_key: ${{ secrets.DEPLOY_KEY }}
 
-
-      - name: 🚀 deploy on staging
-        uses: trendyminds/github-actions-rsync@master
-        with:
-          RSYNC_OPTIONS: -zav --progress --delete
-          RSYNC_TARGET: staging.agilebrazil.com/2021
-          RSYNC_SOURCE: ./_site
-        env:
-          SSH_PRIVATE_KEY: ${{secrets.DEPLOY_PRIVATE_KEY}}
-          SSH_USERNAME: ${{secrets.DEPLOY_USER}}
-          SSH_HOSTNAME: staging.agilebrazil.com
+      #- name: 🚀 deploy on staging
+      #  uses: trendyminds/github-actions-rsync@master
+      #  with:
+      #    RSYNC_OPTIONS: -zav --progress --delete
+      #    RSYNC_TARGET: staging.agilebrazil.com/2021
+      #    RSYNC_SOURCE: ./_site
+      #  env:
+      #    SSH_PRIVATE_KEY: ${{secrets.DEPLOY_PRIVATE_KEY}}
+      #    SSH_USERNAME: ${{secrets.DEPLOY_USER}}
+      #    SSH_HOSTNAME: staging.agilebrazil.com
