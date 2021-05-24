@@ -160,11 +160,10 @@ section.home-program {
       color: $logo-dark-green;
     }
   }
-  &.submission {
-    a {
-      text-decoration: underline;
-      color: $logo-dark-green;
-    }
+  
+  a {
+    text-decoration: underline;
+    color: $logo-dark-green;
   }
 }
 
