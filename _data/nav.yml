@@ -26,7 +26,7 @@
   production: true 
   items: 
     - name: Agile Brazil 2020
-      url: https://www.even3.com.br/abraca2020/
+      url: https://www.agilebrazil.com/2020/
       target: _blank
     - name: Agile Brazil 2019
       url: https://www.agilebrazil.com/2019/
