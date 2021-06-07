@@ -15,8 +15,12 @@
   production: true 
 
 - name: WBMA
-  url: wbma
   production: true 
+  items:
+    - name: Apresentação
+      url: wbma
+    - name: Comitê
+      url: comite
 
 - name: Código de Conduta
   url: codigo-de-conduta
@@ -43,7 +47,3 @@
     - name: Agile Brazil 2015
       url: https://www.agilebrazil.com/2015/
       target: _blank
-      
-- name: Comitê
-  url: comite
-  production: false
