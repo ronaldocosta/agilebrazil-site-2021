@@ -1,20 +1,20 @@
 
-- name: 1º Lote
-  price: "129,90"
-  start: 2021-05-31
-  end: 2021-06-21
+- name: Super Early Bird
+  price: "130,00"
+  start: 2021-07-09
+  end: 2021-07-23
 
-- name: 2º Lote
-  price: "179,90"
-  start: 2021-06-22
-  end: 2021-08-15
+- name: Early Bird
+  price: "180,00"
+  start: 2021-07-24
+  end: 2021-08-23
 
-- name: 3º Lote
-  price: "229,90"
-  start: 2021-08-16
+- name: Última hora
+  price: "230,00"
+  start: 2021-08-23
   end: 2021-10-05
 
 - name: Estudante
-  price: "99,90"
-  start: 2021-05-31
+  price: "100,00"
+  start: 2021-07-09
   end: 2021-10-05
