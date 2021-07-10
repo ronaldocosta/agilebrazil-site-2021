@@ -2,9 +2,9 @@
   url: ./
   production: true 
 
-- name: Incrições
-  url: register
-  production: false 
+- name: Inscrições
+  url: inscricoes
+  production: true 
 
 - name: Programação
   url: schedule
