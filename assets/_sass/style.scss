@@ -110,6 +110,24 @@ section.home-program {
   }
 }
 
+.privacy {
+  h2 {
+    padding-top: 0;
+    font-size: 3rem;
+  }
+
+  ol[type=A] {
+    list-style: upper-alpha;
+
+    li::marker,
+    li:before,
+    h3 {
+      color: #777;
+      font-size: 1.4rem;
+    }
+  }
+}
+
 .register-section {
   &.tickets {
 
