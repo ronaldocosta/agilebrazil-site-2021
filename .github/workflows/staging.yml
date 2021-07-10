@@ -6,7 +6,7 @@ on:
       - master
 
 jobs:
-  jekyll:
+  staging:
     runs-on: ubuntu-latest
     steps:
       - name: 📂 setup
@@ -47,6 +47,11 @@ jobs:
         with:
           build_only: true
       
+      - name: Install xmllint
+        run: |
+          sudo apt-get update -y
+          sudo apt-get install -y sshpass
+      
       - name: 🔐 Install SSH Key
         uses: shimataro/ssh-key-action@v2
         with:
@@ -57,7 +62,7 @@ jobs:
         run: ssh-keyscan -H staging.agilebrazil.com >> ~/.ssh/known_hosts
       
       - name: 🚀 deploy on staging
-        run: rsync -zav --progress --delete ./_site/ agilebrazil@staging.agilebrazil.com:staging.agilebrazil.com/2021
+        run: rsync -zav --progress --delete --rsh='sshpass -e ssh -o StrictHostKeyChecking=no' ./_site/ agilebrazil@staging.agilebrazil.com:staging.agilebrazil.com/2021
 
       #- name: 🚀 deploy on staging
       #  uses: burnett01/rsync-deployments@4.1
