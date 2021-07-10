@@ -62,6 +62,8 @@ jobs:
         run: ssh-keyscan -H staging.agilebrazil.com >> ~/.ssh/known_hosts
       
       - name: 🚀 deploy on staging
+        env:
+          SSHPASS: ${{ secrets.SSHPASS }} 
         run: rsync -zav --progress --delete --rsh='sshpass -e ssh -o StrictHostKeyChecking=no' ./_site/ agilebrazil@staging.agilebrazil.com:staging.agilebrazil.com/2021
 
       #- name: 🚀 deploy on staging
