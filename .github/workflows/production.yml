@@ -26,7 +26,7 @@ jobs:
           ruby-version: 2.6
   deploy:
     name: 🚀 Deploy production
-    needs: deploy-ghpages
+    needs: setup
     runs-on: ubuntu-latest
     steps:
       - name: 🔨 build production
