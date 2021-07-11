@@ -6,11 +6,10 @@ on:
       - master
 
 jobs:
-  setup:
-    name: 📂 Setup
+  deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: ⬇️ checkout
+      - name: 📂 setup
         uses: actions/checkout@v2
       
       - uses: actions/cache@v2
@@ -24,23 +23,13 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: 2.6
-  
-  deploy-ghpages:
-    name: 🚀 Deploy gh-pages
-    needs: setup
-    runs-on: ubuntu-latest
-    steps:
+
       - name: 🚀 deploy on gh-pages
         uses: helaili/jekyll-action@v2
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           jekyll_env: development
-  
-  deploy-staging:
-    name: 🚀 Deploy staging
-    needs: deploy-ghpages
-    runs-on: ubuntu-latest
-    steps:
+
       - name: 🔨 build staging
         uses: helaili/jekyll-action@v2
         with:

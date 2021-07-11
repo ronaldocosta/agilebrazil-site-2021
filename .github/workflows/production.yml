@@ -1,4 +1,4 @@
-name: 🚀 Deploy on production (Dreamhost)
+name: 🚀 Deploy on production
 
 on:
   push:
@@ -6,11 +6,10 @@ on:
       - production
 
 jobs:
-  setup:
-    name: 📂 Setup
+  deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: ⬇️ checkout
+      - name: 📂 setup
         uses: actions/checkout@v2
       
       - uses: actions/cache@v2
@@ -24,11 +23,7 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: 2.6
-  deploy:
-    name: 🚀 Deploy production
-    needs: setup
-    runs-on: ubuntu-latest
-    steps:
+
       - name: 🔨 build production
         uses: helaili/jekyll-action@v2
         with:
