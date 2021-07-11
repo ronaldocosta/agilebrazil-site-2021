@@ -27,7 +27,7 @@ jobs:
       - name: 🚀 deploy on gh-pages
         uses: helaili/jekyll-action@v2
         with:
-          token: ${{ secrets.GITHUB_TOKEN }} #build_only: true
+          token: ${{ secrets.GITHUB_TOKEN }}
           jekyll_env: development
 
       - name: 🔨 build staging
@@ -45,5 +45,4 @@ jobs:
         run: ssh-keyscan -H staging.agilebrazil.com >> ~/.ssh/known_hosts
       
       - name: 🚀 deploy on staging
-        run: rsync -zav --progress --delete -e 'ssh -o StrictHostKeyChecking=no' _site/ agilebrazil@staging.agilebrazil.com:staging.agilebrazil.com/2021
-        
+        run: rsync -zav --progress --delete -e 'ssh -o StrictHostKeyChecking=no' build/ agilebrazil@staging.agilebrazil.com:staging.agilebrazil.com/2021
