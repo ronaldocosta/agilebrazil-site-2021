@@ -24,23 +24,11 @@ jobs:
         with:
           ruby-version: 2.6
 
-      #- name: 🔨 install dependencies & build site
-      #  uses: limjh16/jekyll-action-ts@v2
-      #  with:
-      #    enable_cache: true
-      #    custom_opts: 'JEKYLL_ENV=development'
-      
       - name: 🚀 deploy on gh-pages
         uses: helaili/jekyll-action@v2
         with:
           token: ${{ secrets.GITHUB_TOKEN }} #build_only: true
           jekyll_env: development
-
-      #- name: 🚀 deploy on gh-pages
-      #  uses: peaceiris/actions-gh-pages@v3
-      #  with:
-      #    github_token: ${{ secrets.GITHUB_TOKEN }}
-      #    publish_dir: ./_site
 
       - name: 🔨 build staging
         uses: helaili/jekyll-action@v2
@@ -57,25 +45,5 @@ jobs:
         run: ssh-keyscan -H staging.agilebrazil.com >> ~/.ssh/known_hosts
       
       - name: 🚀 deploy on staging
-        run: rsync -zav --progress --delete -e 'ssh -o StrictHostKeyChecking=no' ./_site/ agilebrazil@staging.agilebrazil.com:staging.agilebrazil.com/2021
-
-      #- name: 🚀 deploy on staging
-      #  uses: burnett01/rsync-deployments@4.1
-      #  with:
-      #    switches: -avzr --delete
-      #    path: ./_site
-      #    remote_path: staging.agilebrazil.com/2021
-      #    remote_host: staging.agilebrazil.com
-      #    remote_user: ${{ secrets.DEPLOY_USER }}
-      #    remote_key: ${{ secrets.DEPLOY_KEY }}
-
-      #- name: 🚀 deploy on staging
-      #  uses: trendyminds/github-actions-rsync@master
-      #  with:
-      #    RSYNC_OPTIONS: -zav --progress --delete
-      #    RSYNC_TARGET: staging.agilebrazil.com/2021
-      #    RSYNC_SOURCE: ./_site
-      #  env:
-      #    SSH_PRIVATE_KEY: ${{secrets.DEPLOY_PRIVATE_KEY}}
-      #    SSH_USERNAME: ${{secrets.DEPLOY_USER}}
-      #    SSH_HOSTNAME: staging.agilebrazil.com
+        run: rsync -zav --progress --delete -e 'ssh -o StrictHostKeyChecking=no' _site/ agilebrazil@staging.agilebrazil.com:staging.agilebrazil.com/2021
+        
