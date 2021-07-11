@@ -1,6 +1,6 @@
 ---
-title: Incrições
-permalink: /register
+title: Inscrições
+permalink: /inscricoes
 ---
 
 
@@ -43,20 +43,13 @@ permalink: /register
                           <span class="elementor-price-table__decimal-part">,{{price[1]}}</span>
                         </div>
                       </div>
-                      <!--ul class="elementor-price-table__features-list">
-                        <li class="elementor-repeater-item-da783f5">
-                          <div class="elementor-price-table__feature-inner "> <span> Entrance </span></div>
-                        </li>
-                      </ul-->
                       <div class="elementor-price-table__footer">
                         {% if current %}
-                          <a class="elementor-price-table__button elementor-button elementor-size-md" href="#">
-                            <span class="elementor-price-table_button-text">inscreva-se</span>
+                          <a class="elementor-price-table__button elementor-button elementor-size-md" href="https://inscricoes.agilebrazil.com/">
+                            <span class="elementor-price-table_button-text">Inscreva-se agora!</span>
                           </a>
                         {% else %}
-                          <a class="elementor-price-table__button elementor-button elementor-size-md bg-gradient" style="padding-left: 1.8rem; padding-right: 1.8rem" href="#">
-                            <span class="elementor-price-table_button-text" style="color: #fff;">disponível em {{ticket.start | date: "%d/%m"}}</span>
-                          </a>
+                            <span class="elementor-button elementor-size-md" style="background-color: #ccc; color: #fff;">A partir de {{ticket.start | date: "%d/%m"}}</span>
                         {% endif %}
                       </div>
                     </div>
