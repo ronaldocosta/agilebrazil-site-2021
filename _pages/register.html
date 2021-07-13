@@ -43,6 +43,13 @@ permalink: /inscricoes
                           <span class="elementor-price-table__decimal-part">,{{price[1]}}</span>
                         </div>
                       </div>
+                      {% if ticket.features.size > 0 %}
+                        <ul class="elementor-price-table__features-list">
+                          {% for feature in ticket.features %}
+                            <li><div class="elementor-price-table__feature-inner "><span>{{feature}}</span></div></li>
+                          {% endfor %}
+                        </ul>
+                      {% endif %}
                       <div class="elementor-price-table__footer">
                         {% if current %}
                           <a class="elementor-price-table__button elementor-button elementor-size-md" href="https://inscricoes.agilebrazil.com/">
