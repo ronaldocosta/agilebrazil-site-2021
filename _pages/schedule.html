@@ -38,9 +38,24 @@ permalink: /schedule
                                       <span class="time-schedules-icon"><i class="opal-icon-clock2"></i></span>
                                       <span>{{session.start}} - {{session.end}}</span>
                                     </div>
-                                    {% if session.room %}
+                                    {% if session.room and session.room != blank %}
                                       <div class="location-schedules"> 
-                                        <span><i class="opal-icon-map-marker-alt"></i></span><span>{{session.room}}</span>
+                                        <span><i class="opal-icon-map-marker-alt"></i></span><span>Sala {{session.room}}</span>
+                                      </div>
+                                    {% endif %}
+                                    {% if session.type and session.type != "" %}
+                                      <div class="location-schedules"> 
+                                        <span><i class="opal-icon-media"></i></span><span>{{session.type}}</span>
+                                      </div>
+                                    {% endif %}
+                                    {% if session.track and session.track != ""  %}
+                                      <div class="location-schedules"> 
+                                        <span><i class="opal-icon-award"></i></span><span>{{session.track}}</span>
+                                      </div>
+                                    {% endif %}
+                                    {% if session.target and session.target != "" %}
+                                      <div class="location-schedules"> 
+                                        <span><i class="opal-icon-users"></i></span><span>{{session.target}}</span>
                                       </div>
                                     {% endif %}
                                     {% if session.speakers.size > 0 %}

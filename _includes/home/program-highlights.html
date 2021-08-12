@@ -1,5 +1,6 @@
 
 {% include program/keynotes.html title="Destaques da programação" %}
-{% comment %}
+
+{% if jekyll.environment != 'production' %}
   {% include program/speakers.html hide_title=true %}
-{% endcomment %}
+{% endif %}
