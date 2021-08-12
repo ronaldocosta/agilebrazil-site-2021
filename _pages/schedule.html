@@ -2,3 +2,88 @@
 title: Programação
 permalink: /schedule
 ---
+
+<section class="schedule-section elementor-element elementor-element-e9d1075 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section"
+  data-id="e9d1075" data-element_type="section"
+  data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}" style="width: 1680px; left: -195px;">
+  <div class="elementor-container elementor-column-gap-no">
+    <div class="elementor-row">
+      <div class="elementor-element elementor-element-f8165e1 elementor-column elementor-col-100 elementor-top-column"
+        data-id="f8165e1" data-element_type="column">
+        <div class="elementor-column-wrap  elementor-element-populated">
+          <div class="elementor-widget-wrap">
+            <div class="elementor-element elementor-element-8540fb2 elementor-widget elementor-widget-opal-schedules"
+              data-id="8540fb2" data-element_type="widget" data-widget_type="opal-schedules.default">
+              <div class="elementor-widget-container">
+                <div class="elementor-schedules-wrapper schedules-style-2">
+                  <div class="row" data-elementor-columns="1">
+                    {% assign dates = site.data.sessions | map: "date" | uniq | sort %}
+                    {% assign weekday = "Terça-feira Quarta-feira Quinta-feira Sexta-feira Sábado" | split: " " %}
+                    {% for date in dates %}
+                      <div class="column-item">
+                        <div class="elementor-schedules-item">
+                          <div class="elementor-schedules-inner-day">
+                            <div class="schedules-day bg-gradient">
+                              <div class="schedules-day-name">Dia {{ forloop.index }}</div>
+                              <div class="schedules-day-time">{{weekday[forloop.index]}}, {{date | date: "%d/%m"}}</div>
+                            </div>
+                          </div>
+                          <div class="elementor-schedules-inner-item">
+                            {% assign sessions = site.data.sessions | where: "date", date | sort: "start" %}
+                            {% for session in sessions %}
+                              <div class="schedules-item">
+                                <div class="item-schedules_items">
+                                  <div class="item-meta">
+                                    <div class="time-schedules">
+                                      <span class="time-schedules-icon"><i class="opal-icon-clock2"></i></span>
+                                      <span>{{session.start}} - {{session.end}}</span>
+                                    </div>
+                                    {% if session.room %}
+                                      <div class="location-schedules"> 
+                                        <span><i class="opal-icon-map-marker-alt"></i></span><span>{{session.room}}</span>
+                                      </div>
+                                    {% endif %}
+                                    {% if session.speakers.size > 0 %}
+                                      <div class="author-schedules">
+                                        <span class="author-schedules-icon"><i class="opal-icon-microphone-alt"></i></span> 
+                                        <span class="author-schedules-group">
+                                          {% for speaker in session.speakers %}
+                                            <a href="#">{{speaker.name}}</a>
+                                          {% endfor %}
+                                        </span>
+                                      </div>
+                                    {% endif %}
+                                  </div>
+                                  <div class="item-wrapper">
+                                    {% if session.kind == 'alert'%}
+                                      <h3 class="title-schedules title-label">{{session.title}}</h3>
+                                    {% else %}
+                                      <h3 class="title-schedules">{{session.title}}</h3>
+                                      <div class="item-image-wrapper">
+                                        {% for speaker in session.speakers %}
+                                          <div class="item-image tooltipster-wrap tooltipstered">
+                                            <a href="#"><img width="150" height="150" src="{{speaker.photo}}" class="attachment-thumbnail size-thumbnail wp-post-image ls-is-cached lazyloaded" alt="" loading="lazy"></a>
+                                          </div>
+                                        {% endfor %}
+                                      </div>
+                                      <div class="description-schedules"><p>{{session.description}}</p></div>
+                                      <div class="button-schedules"><i class="opal-icon-times"></i></div>
+                                    {% endif %}
+                                  </div>
+                                </div>
+                              </div>
+                            {% endfor %}
+                          </div>
+                        </div>
+                      </div>
+                    {% endfor %}
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

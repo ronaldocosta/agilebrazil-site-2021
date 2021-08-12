@@ -1,0 +1,185 @@
+###############################
+## DIA 01 - 05/10/2021        #
+###############################
+- date: 2021-10-05
+  start: "09:30"
+  end: "10:00"
+  title: Abertura
+  kind: alert
+  speakers: []
+
+- date: 2021-10-05
+  start: "10:00"
+  end: "11:00"
+  room: Principal
+  title: About trees, agility and me
+  kind: keynote
+  type: "Keynote"
+  track: ""
+  target: ""
+  description: "Aqui irão os detalhes da sessão"
+  speakers:
+    - name: Linda Rising
+      photo: assets/images/speakers/linda-rising.png
+      bio: "Linda Rising é uma consultora independente que mora perto de Nashville, Tennessee. Linda tem um Ph.D. da Universidade Estadual do Arizona em métricas de projeto baseadas em objetos. Sua formação inclui ensino universitário, bem como trabalho em telecomunicações, aviônica e sistemas de armas táticas. Ela é uma apresentadora internacionalmente conhecida sobre tópicos relacionados ao desenvolvimento ágil, padrões, retrospectivas, o processo de mudança e a conexão entre as neurociências mais recentes e o desenvolvimento de software. Linda é autora de numerosos artigos e cinco livros. Ela foi homenageada pelo Fórum Mundial de Agilidade em 2020 com seu Prêmio Lifetime Achievement. Seu web site é: lindarising.org"
+
+- date: 2021-10-05
+  start: "11:00"
+  end: "11:30"
+  room: Sala 1
+  title: "Startup as a Service: um modelo ágil para criação e desenvolvimento de negócios de inovação"
+  kind: session
+  type: "Apresentação"
+  track: "Produtos e Négocios"
+  target: "Intermediário"
+  description: "Aqui irão os detalhes da sessão"
+  speakers:
+    - name: Eduardo Meira Peres
+      photo: assets/images/speakers/placeholder.png
+      bio: ""
+
+
+
+###############################
+## DIA 02 - 06/10/2021        #
+###############################
+- date: 2021-10-06
+  start: "09:30"
+  end: "10:00"
+  title: Abertura
+  kind: alert
+  speakers: []
+
+- date: 2021-10-06
+  start: "10:00"
+  end: "11:00"
+  room: Principal
+  title: Flight Levels - The Organisation's missing link to Business Agility
+  kind: keynote
+  type: "Keynote"
+  track: ""
+  target: ""
+  description: "Flight Levels take off - literally. More and more organisations are moving away from local agile sub-optimisation. They are using Flight Levels to enable the entire organisation to act agile in the market. In this session, I will present how you can use Flight Levels to implement the corporate strategy to ensure that the organisation focuses on outcomes and not just outputs."
+  speakers:
+    - name: Klaus Leopold
+      photo: assets/images/speakers/klaus-leopold.jpg
+      bio: "Dr Klaus Leopold, computer scientist, Kanban pioneer and creator of the Flight Levels Model, has many years of experience as a top management consultant. He advises companies worldwide on how to act agile on the market. Klaus is author of the bestseller Rethinking Agile, Practical Kanban and co-author of the standard work Kanban Change Leadership. He is co-founder of the Flight Levels Academy and managing partner of LEANability. You can follow Klaus on Twitter at @klausleopold."
+
+- date: 2021-10-06
+  start: "11:00"
+  end: "11:30"
+  room: Sala 1
+  title: "Promovendo a propriedade coletiva (collective ownership)"
+  kind: session
+  type: "Apresentação"
+  track: "Mão no Código"
+  target: "Inicial"
+  description: "Aqui irão os detalhes da sessão"
+  speakers:
+    - name: Wagner Fusca Voltz
+      photo: assets/images/speakers/placeholder.png
+      bio: ""
+
+
+
+###############################
+## DIA 03 - 07/10/2021        #
+###############################
+- date: 2021-10-07
+  start: "09:30"
+  end: "10:00"
+  title: Abertura
+  kind: alert
+  speakers: []
+
+- date: 2021-10-07
+  start: "10:00"
+  end: "11:00"
+  room: Principal
+  title: (Des)Construindo Vieses em Bases de Dados
+  kind: keynote
+  type: "Keynote"
+  track: ""
+  target: ""
+  description: "Aqui irão os detalhes da sessão"
+  speakers:
+    - name: Sandra D'Ávila
+      photo: assets/images/speakers/sandra-davila.jpg
+      bio: "Sandra Avila é professora no Instituto de Computação, da Universidade Estadual de Campinas, desde 2017. É doutora em Ciência da Computação, com duplo diploma, pela UFMG e pela Sorbonne Université, em 2013. Suas pesquisas estão voltadas para Inteligência Artificial, com ênfase na Saúde, Análise de conteúdo sensível e Agricultura de precisão. Em 2018, 2019 e 2020, recebeu o prêmio Google Latin America Research Awards. Em 2020, foi selecionada para representar o Brasil no BRICS Young Scientists Forum, na área de Inteligência Artificial."
+
+
+- date: 2021-10-07
+  start: "11:00"
+  end: "11:30"
+  room: Sala 1
+  title: "Escalando entregas por meio de plataformas digitais"
+  kind: session
+  type: "Apresentação"
+  track: "Práticas de Trabalho"
+  target: "Inicial"
+  description: "Aqui irão os detalhes da sessão"
+  speakers:
+    - name: Gregório Melo
+      photo: assets/images/speakers/placeholder.png
+      bio: ""
+
+
+
+###############################
+## DIA 04 - 08/10/2021        #
+###############################
+- date: 2021-10-08
+  start: "09:30"
+  end: "10:00"
+  title: Abertura
+  kind: alert
+  speakers: []
+
+- date: 2021-10-08
+  start: "10:00"
+  end: "11:00"
+  room: Principal
+  title: Keynote Nacional 1
+  kind: keynote
+  type: "Keynote"
+  track: ""
+  target: ""
+  description: "Aqui irão os detalhes da sessão"
+  speakers:
+    - name: Alisson Vale
+      photo: assets/images/speakers/alisson-vale.jpg
+      bio: "É desenvolvedor de produtos, educador e empreendedor. É autor do livro: A Fórmula da Eficácia: como fazer a coisa certa no seu projeto de software. Com mais de 20 anos de experiência em desenvolvimento e liderança de projetos de software, tem sido um praticante e divulgador de métodos modernos de gestão Ágil e Lean desde 2003 com uma grande participação em congressos e fóruns de debate no Brasil e no exterior. Em 2008, implementou o primeiro estudo de caso do método Kanban para projetos de software no Brasil e, logo depois, ganhou o prêmio internacional Brickel Key Award por essa implementação. Atuou como consultor em grandes empresas como Microsoft, Petrobrás, Embraer e Globo, e também como coach e trainer da Lean Kanban University. Em 2014, fundou o Software Zen, um empreendimento de educação digital que tem levado conteúdo inovador sobre gestão Ágil a milhares de pessoas."
+
+- date: 2021-10-08
+  start: "11:00"
+  end: "11:30"
+  room: Sala 1
+  title: "O tal do limite WIP - Como começar? Erros comuns e 5 dicas práticas"
+  kind: session
+  type: "Apresentação"
+  track: "Práticas de Trabalho"
+  target: "Inicial"
+  description: "Aqui irão os detalhes da sessão"
+  speakers:
+    - name: Caco - Cleiton Mafra
+      photo: assets/images/speakers/placeholder.png
+      bio: ""
+    - name: Wesley Tiago Zapellini
+      photo: assets/images/speakers/placeholder.png
+      bio: ""
+
+- date: 2021-10-08
+  start: "18:00"
+  end: "19:00"
+  room: Principal
+  title: Keynote Nacional 2
+  kind: keynote
+  type: "Keynote"
+  track: ""
+  target: ""
+  description: "Aqui irão os detalhes da sessão"
+  speakers:
+    - name: Mariana Zaparolli
+      photo: assets/images/speakers/mariana-zaparolli.png
+      bio: ""
+
