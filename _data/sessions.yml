@@ -32,7 +32,9 @@
   type: "Apresentação"
   track: "Produtos e Négocios"
   target: "Intermediário"
-  description: "Aqui irão os detalhes da sessão"
+  description: "Vamos apresentar um modelo adaptativo para o fomento à geração de novos negócios e desenvolvimento de startups baseado nos princípios ágeis e no conceito de Startup Studio.
+                Esta abordagem tem por objetivo disponibilizar aos empreendedores e às organizações a excelência técnica necessária à criação e tração de empreendimentos inovadores, especialmente em um cenário de baixa capacidade de investimento, que é um cenário típico em ambientes de inovação.
+                Serão apresentados casos envolvendo a criação de um novo negócio entre empresas, o crescimento de startups já em funcionamento e a criação de startups em grandes corporações, destacando-se os modelos de negócios adotados e explorando suas potencialidades, dificuldades enfrentadas e alternativas de solução."
   speakers:
     - name: Eduardo Meira Peres
       photo: assets/images/speakers/placeholder.png
