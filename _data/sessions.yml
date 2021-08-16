@@ -6,11 +6,13 @@
   end: "10:00"
   title: Abertura
   kind: alert
+  show: true
   speakers: []
 
 - date: 2021-10-05
   start: "10:00"
   end: "11:00"
+  show: true
   room: Principal
   title: About trees, agility and me
   kind: keynote
@@ -26,6 +28,7 @@
 - date: 2021-10-05
   start: "11:00"
   end: "11:30"
+  show: true
   room: Sala 1
   title: "Startup as a Service: um modelo ágil para criação e desenvolvimento de negócios de inovação"
   kind: session
@@ -44,6 +47,7 @@
 - date: 2021-10-05
   start: "11:00"
   end: "11:30"
+  show: true
   room: Sala 2
   title: "Criando jurídicos menos jurássicos"
   kind: session
@@ -58,7 +62,7 @@
       bio: "Motivada por enxergar melhoria acontecendo e generalista de coração, Ceci já trabalhou com todo o espectro da agilidade: desde agile coaching e gestão de times e indivíduos até entrega de valor através da produção de código e automatização de tarefas.
             Co-autora de treinamentos de agilidade da Caelum, board member da Agile Alliance Brazil, líder do capítulo de Agilidade no Nubank desde sua criação, ela faz questão de se envolver com comunidades e busca melhorar suas habilidades todos os dias, através de prática deliberada do que ela acredita que precisa, mais urgentemente, ser melhorado.
             Ceci palestra desde 2010, já apresentou sessões em eventos relevantes como a Agile Brazil, QCon, Agile Conference, Caipira Ágil, entre muitos outros."
-  - name: Nathália Pais Ferreira
+    - name: Nathália Pais Ferreira
       photo: assets/images/speakers/placeholder.png
       bio: "Nathália Pais Ferreira, Belo-Horizontina morando em São Paulo há 4 anos. Graduada em Direito e pós-graduada em Direito de Empresa pela PUC Minas. Atualmente atua como 
             advogada no Nubank, eleita uma das empresas mais inovadoras do mundo segundo a revista americana Time em 2021. Atuou na Creditas também como advogada de 2017 a 2020, 
@@ -67,6 +71,7 @@
 - date: 2021-10-05
   start: "11:30"
   end: "12:00"
+  show: true
   room: Sala 1
   title: "Lean Inception: 7 dicas de como turbina-la"
   kind: session
@@ -88,6 +93,7 @@
 - date: 2021-10-05
   start: "11:30"
   end: "12:00"
+  show: true
   room: Sala 2
   title: "DESOBEDEÇA: Será que conseguiremos inovar se continuarmos seguindo todas as regras?"
   kind: session
@@ -111,6 +117,7 @@
 - date: 2021-10-05
   start: "16:00"
   end: "16:30"
+  show: true
   room: Sala 1
   title: "Agilidade e sistemas legados: sair de um pântano de BUGS, manter a operação e criar novos produtos"
   kind: session
@@ -140,6 +147,7 @@
 - date: 2021-10-05
   start: "16:00"
   end: "17:00"
+  show: true
   room: Sala 2
   title: "A Quarta Década da Agilidade: Da Agilidade Operacional à Agilidade Estratégica"
   kind: session
@@ -167,6 +175,7 @@
 - date: 2021-10-05
   start: "16:30"
   end: "17:00"
+  show: true
   room: Sala 1
   title: "#ExtremeScale: Fluxo Unificado, além do balancemento de capacidade vs demanda"
   kind: session
@@ -187,6 +196,7 @@
 - date: 2021-10-05
   start: "17:00"
   end: "18:00"
+  show: true
   room: Sala 2
   title: "Slot Patrocinado"
   kind: session
@@ -195,13 +205,14 @@
   target: "?"
   description: "Detalhes em breve"
   speakers:
-    - name: ? 
+    - name: "?"
       photo: assets/images/speakers/placeholder.png
       bio: ""   
 
 - date: 2021-10-05
   start: "17:30"
   end: "18:00"
+  show: true
   room: Sala 1
   title: "Produtividade Relacional - O Molho Secreto para Escalar a Agilidade de Negócios"
   kind: session
@@ -223,6 +234,7 @@
 - date: 2021-10-05
   start: "18:00"
   end: "19:00"
+  show: true
   room: Principal
   title: Keynote WBMA
   kind: keynote
@@ -231,7 +243,7 @@
   target: ""
   description: "Aqui irão os detalhes da sessão"
   speakers:
-    - name: ?
+    - name: "?"
       photo: assets/images/speakers/linda-rising.png
       bio: ""
       
@@ -243,11 +255,13 @@
   end: "10:00"
   title: Abertura
   kind: alert
+  show: true
   speakers: []
 
 - date: 2021-10-06
   start: "10:00"
   end: "11:00"
+  show: true
   room: Principal
   title: Flight Levels - The Organisation's missing link to Business Agility
   kind: keynote
@@ -263,6 +277,7 @@
 - date: 2021-10-06
   start: "11:00"
   end: "11:30"
+  show: true
   room: Sala 1
   title: "Promovendo a propriedade coletiva (collective ownership)"
   kind: session
@@ -285,11 +300,13 @@
   end: "10:00"
   title: Abertura
   kind: alert
+  show: true
   speakers: []
 
 - date: 2021-10-07
   start: "10:00"
   end: "11:00"
+  show: true
   room: Principal
   title: (Des)Construindo Vieses em Bases de Dados
   kind: keynote
@@ -306,6 +323,7 @@
 - date: 2021-10-07
   start: "11:00"
   end: "11:30"
+  show: true
   room: Sala 1
   title: "Escalando entregas por meio de plataformas digitais"
   kind: session
@@ -328,11 +346,13 @@
   end: "10:00"
   title: Abertura
   kind: alert
+  show: true
   speakers: []
 
 - date: 2021-10-08
   start: "10:00"
   end: "11:00"
+  show: true
   room: Principal
   title: Keynote Nacional 1
   kind: keynote
@@ -348,6 +368,7 @@
 - date: 2021-10-08
   start: "11:00"
   end: "11:30"
+  show: true
   room: Sala 1
   title: "O tal do limite WIP - Como começar? Erros comuns e 5 dicas práticas"
   kind: session
@@ -366,6 +387,7 @@
 - date: 2021-10-08
   start: "18:00"
   end: "19:00"
+  show: true
   room: Principal
   title: Keynote Nacional 2
   kind: keynote

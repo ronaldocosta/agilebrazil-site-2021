@@ -29,7 +29,7 @@ permalink: /schedule
                             </div>
                           </div>
                           <div class="elementor-schedules-inner-item">
-                            {% assign sessions = site.data.sessions | where: "date", date | sort: "start" %}
+                            {% assign sessions = site.data.sessions | where: "date", date | where: "show", true | sort: "start" %}
                             {% for session in sessions %}
                               <div class="schedules-item">
                                 <div class="item-schedules_items">
