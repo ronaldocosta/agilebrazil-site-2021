@@ -32,14 +32,209 @@
   type: "Apresentação"
   track: "Produtos e Négocios"
   target: "Intermediário"
-  description: "Aqui irão os detalhes da sessão"
+  description: "Vamos apresentar um modelo adaptativo para o fomento à geração de novos negócios e desenvolvimento de startups baseado nos princípios ágeis e no conceito de Startup Studio.
+                Esta abordagem tem por objetivo disponibilizar aos empreendedores e às organizações a excelência técnica necessária à criação e tração de empreendimentos inovadores, especialmente em um cenário de baixa capacidade de investimento, que é um cenário típico em ambientes de inovação.
+                Serão apresentados casos envolvendo a criação de um novo negócio entre empresas, o crescimento de startups já em funcionamento e a criação de startups em grandes corporações, destacando-se os modelos de negócios adotados e explorando suas potencialidades, dificuldades enfrentadas e alternativas de solução."
   speakers:
     - name: Eduardo Meira Peres
       photo: assets/images/speakers/placeholder.png
+      bio: "Sou co-CEO na DBServer e professor na PUCRS. Para fazer a coisa certa, do jeito certo, atuo em projetos de inovação usando Design Thinking, Lean Startup e Métodos Ágeis. 
+            Procuro compartilhar o que aprendo, no Agile Brazil tenho palestrado desde 2012 e participei algumas vezes do time de avaliação."
+
+- date: 2021-10-05
+  start: "11:00"
+  end: "11:30"
+  room: Sala 2
+  title: "Criando jurídicos menos jurássicos"
+  kind: session
+  type: "Apresentação"
+  track: "Culturas de Trabalho"
+  target: "Inicial"
+  description: "Por muito tempo o jurídico foi visto como um departamento com pessoas conservadoras, apegadas a termos técnicos, robustos, difíceis e que por muitas vezes se tornavam mais um obstáculo ao desenvolvimento de inovações ao barrar o “desconhecido”. Hoje, porém, para acompanhar um mercado em constantes mudanças, os departamentos jurídicos precisam se reinventar e se adaptar à agilidade com que as inovações surgem.
+                Considerando esse cenário, desde o ano passado, o time do Jurídico no Nubank vem dando passos na direção da agilidade. Venha conhecer o caminho que trilhamos até agora, como quebramos silos e deixamos o trabalho mais visível, em busca da eficiência, de maior cooperação entre a equipe e do desenvolvimento da carreira dos integrantes do time."
+  speakers:
+    - name: Ceci Fernandes
+      photo: assets/images/speakers/placeholder.png
+      bio: "Motivada por enxergar melhoria acontecendo e generalista de coração, Ceci já trabalhou com todo o espectro da agilidade: desde agile coaching e gestão de times e indivíduos até entrega de valor através da produção de código e automatização de tarefas.
+            Co-autora de treinamentos de agilidade da Caelum, board member da Agile Alliance Brazil, líder do capítulo de Agilidade no Nubank desde sua criação, ela faz questão de se envolver com comunidades e busca melhorar suas habilidades todos os dias, através de prática deliberada do que ela acredita que precisa, mais urgentemente, ser melhorado.
+            Ceci palestra desde 2010, já apresentou sessões em eventos relevantes como a Agile Brazil, QCon, Agile Conference, Caipira Ágil, entre muitos outros."
+  - name: Nathália Pais Ferreira
+      photo: assets/images/speakers/placeholder.png
+      bio: "Nathália Pais Ferreira, Belo-Horizontina morando em São Paulo há 4 anos. Graduada em Direito e pós-graduada em Direito de Empresa pela PUC Minas. Atualmente atua como 
+            advogada no Nubank, eleita uma das empresas mais inovadoras do mundo segundo a revista americana Time em 2021. Atuou na Creditas também como advogada de 2017 a 2020, 
+            também considerada uma das fintechs mais inovadoras do mundo segundo o ranking da KPMG em 2020. Entusiasta de direito digital, legal thinking e visual law."
+      
+- date: 2021-10-05
+  start: "11:30"
+  end: "12:00"
+  room: Sala 1
+  title: "Lean Inception: 7 dicas de como turbina-la"
+  kind: session
+  type: "Apresentação"
+  track: "Produtos e Négocios"
+  target: "Intermediário"
+  description: "Desde 2011 quando Paulo Caroli uniu conceitos de Design Thinking com Lean Startup, a Lean Inception vem evoluindo dia após dia.
+                Nas dezenas de imersões que facilitei desde 2017, enfrentei muitos desafios, algumas saias justas e em grande maioria, bastante aprovação dos clientes em finalmente descobrir o que queriam (e também o que não queriam).
+                E disso tudo, começam a surgir algumas perguntas: Quem deve (e não deve) participar? Demora 5 dias mesmo? O Canvas MVP é realmente necessário? E tantas outras.
+                Nesta palestra, trago 7 dicas práticas de como evoluir a performance da sua Lean Inception."
+  speakers:
+    - name: Fábio Trierveiler
+      photo: assets/images/speakers/placeholder.png
+      bio: "Gerente de Transformação Digital Lean no Lean Institute Brasil, atua com desenvolvimento ágil de software desde 2008. Possui experiência em empresas de diversos portes e 
+            segmentos, especialmente na área de tecnologia, utilizando-se de diversas práticas como lean, agilidade, coaching, design thinking, management 3.0. Já foi desenvolvedor, 
+            QA de software mobile, analista de qualidade e processos, scrum master, enterprise agile coach e lean-agile leader, além de atuar também como professor dos MBAs em Gestão 
+            Ágil de Projetos, de Lean Manufacturing e Startups. Especialista em Engenharia de Projetos de Software e também em Qualidade e Engenharia, Bacharel em Sistemas de Informação."
+
+- date: 2021-10-05
+  start: "11:30"
+  end: "12:00"
+  room: Sala 2
+  title: "DESOBEDEÇA: Será que conseguiremos inovar se continuarmos seguindo todas as regras?"
+  kind: session
+  type: "Apresentação"
+  track: "Culturas de Trabalho"
+  target: "Inicial"
+  description: "O trabalho do Agente de Mudança costuma ser bastante árduo, já que a maioria das empresas quer mudar as coisas, pero no mucho. É o famoso vamos mudar, mas não podemos quebrar nada no meio do caminho.
+                Quem disse que as coisas precisam ser como são? O que nos impede de mudar?
+                Será que conseguiremos fazer algo realmente inovador se continuarmos a seguir todas as regras?
+                Não existe mudança sem desobediência.
+                Nessa palestra falaremos como a desobediência organizacional pode se extremamente útil e a importância dos rebeldes com causa nas transformações que queremos ver dentro das empresas."
+  speakers:
+    - name: Maíra Blasi
+      photo: assets/images/speakers/placeholder.png
+      bio: "Maíra Blasi acredita em formas mais horizontais e evolutivas de trabalho. É Consultora, Professora e Palestrante. Possui mais de 15 anos de uma carreira desenvolvida em Marketing e Transformação Digital, em empresas como Itaú, TIM, Pagseguro e GetNinjas.
+            Professora e palestrante de Agilidade na Sputnik, Perestroika e TERA, com passagens em empresas como Boticário, Rede Globo, Ifood, etc. Já palestrou em eventos como The Developers Conference BH e SP, Agile BR e Agile Trends.
+            Mentora de executivos e profissionais de empresas como BR Malls, Ford e Buzzfeed. Possui MBA em Marketing pela Universidade Federal Fluminense e é especializada em Comunicação Não Violenta pela Fundação Escola de Sociologia e Política de São Paulo.
+            Certified Kanban Systems Design pela LeanKanban University.
+            Saxofonista e ativista – toca e é co-fundadora das Obscênicas, uma fanfarra carnavalesca formada somente por mulheres em SP."
+   
+- date: 2021-10-05
+  start: "16:00"
+  end: "16:30"
+  room: Sala 1
+  title: "Agilidade e sistemas legados: sair de um pântano de BUGS, manter a operação e criar novos produtos"
+  kind: session
+  type: "Apresentação"
+  track: "Práticas de Trabalho"
+  target: "Intermediário"
+  description: "Diferente de contextos de novos produtos, a missão foi trabalhar agilidade em contexto de sistemas legados, com mais de 20 anos de operação, na Amaggi multinacional 
+                brasileira do Agronegócio e a 9ª maior exportadora do Brasil. Aqui contarei como desenhamos a estratégia baseada na agilidade para sairmos de um pântano de bugs em 
+                produção com o objetivo de estabilizar a operação, ao mesmo tempo desenvolvendo novas features para atender as necessidades do negócio e criamos capacidade para 
+                implementar novos produtos baseado em nova arquitetura, tudo isso com o mesmo time e sem investimento e financeiro, apenas investindo em cultura, autonomia e 
+                remodelando processos burocráticos."
+  speakers:
+    - name: Aryadnne Zanatta
+      photo: assets/images/speakers/placeholder.png
+      bio: "Pablo Picasso said, “inspiration exists, but it has to find you working.”
+            Tenho 14 anos de experiência na área de tecnologia como líder de equipes de implantação de projetos afim de garantir a melhoria de processos de trabalho, nos últimos 5 anos tenho me dedicado ao estudo, aperfeiçoamento e aplicação da cultura ágil, destes atuei 2 anos como Agile Coach fazendo processo de mentoria com os gestores
+            e treinei 8 times da área de TI. Hoje atuo como gestora da área de desenvolvimento de sistemas e começamos a passar pelo processo de transformação de uma TI legada para uma TI “moderna” na Amaggi Exportação e Importação – Uma multinacional brasileira do agronegócio.
+            Tenho experiência com os métodos: Scrum, Kanban, Design Sprint e Nexus. Além de atuar dentro a organização promovo treinamentos sobre práticas ágeis para publico externo e presto consultoria para algumas empresas.
+            Sou organizadora das comunidades: DevMT – que possui mais de mil membros, sou uma das líderes da comunidade local Women Techmakers http://gxgbrasil.github.io/wtmbr/, e fundadora da comunidade AgileMT.
+            Sou certificada pela CTFL – ISTQB – International Software Testing Qualification, e Scrum Master Certified Credential – ScrumStudy Certificação.
+            *Empreendedora por natureza
+            *Agilista
+            *Apaixonada por Marketing Digital
+            *Foco em Gestão de projetos e Gestão de pessoas
+            *Entusiasta em PNL e Coaching"
+
+- date: 2021-10-05
+  start: "16:00"
+  end: "17:00"
+  room: Sala 2
+  title: "A Quarta Década da Agilidade: Da Agilidade Operacional à Agilidade Estratégica"
+  kind: session
+  type: "Apresentação"
+  track: "Relatos de Experiência"
+  target: "Intermediário"
+  description: "O Manifesto Ágil completou 20 anos em 2021 e é amplamente conhecido e divulgado. O movimento que originou o Manifesto iniciou nos anos 90. Por isso, em 2021 entramos na quarta década de um movimento que fez com que as organizações considerassem um novo caminho para se transformarem continuamente e se manterem competitivas. É perceptível a necessidade de adaptar sua organização a novos modelos de negócio, de gestão e liderança.
+                Por isso, nesta palestra faremos uma reflexão sobre a quarta década da agilidade. Vamos refletir sobre o quanto evoluímos, iniciando 10 anos antes da publicação do Manifesto Ágil e sobre os desafios que temos para os próximos dez anos, focados na agilidade estratégica, ou agilidade de negócios."
+  speakers:
+    - name: Rafael Prikladnicki
+      photo: assets/images/speakers/placeholder.png
+      bio: "Professor da Faculdade de Informática da PUCRS desde 2004, com doutorado (2009) e mestrado (2003) em Ciência da Computação pela PUCRS. Atua na coordenação do Grupo de 
+            Usuários de Métodos Ágeis do RS (GUMA-RS). Foi coordenador geral da Agile Brazil 2010 e membro da equipe de organização do evento por diversos anos. Ajudou a fundar a Agile
+            Alliance Brazil (AAB) em 2013 e foi membro do board da AAB de 2013 a 2017. Foi track chair da Agile Conference 2015, 2016, 2017, 2018 e 2019. Um dos editores do livro
+            Metodologias Ágeis para Desenvolvimento de Software, publicado em 2014 pela editora Bookman."   
+    - name: Mateus Piveta
+      photo: assets/images/speakers/placeholder.png
+      bio: "Consultor, palestrante e instrutor.
+            É especialista em Marketing Estratégico, com mais de 10 anos de experiência em comunicação e planejamento empresarial. Começou como empreendedor a frente de duas 
+            empresas no setor de eventos e gastronomia, migrando para grandes agências de propaganda e o maior veículo de comunicação do RS.
+            É sócio da empresa Surya Gestão para um Mundo Digital, onde atua desde 2017 na sistematização e aplicação dos conceitos e práticas da Lean Business Analysis em 
+            projetos de aceleração de negócios.
+            Co Autor da abordagem Full Stack Agile Business Analysis."  
+      
+- date: 2021-10-05
+  start: "16:30"
+  end: "17:00"
+  room: Sala 1
+  title: "#ExtremeScale: Fluxo Unificado, além do balancemento de capacidade vs demanda"
+  kind: session
+  type: "Apresentação"
+  track: "Práticas de Trabalho"
+  target: "Intermediário"
+  description: "Vamos falar de escalar a produtividade, escalar o tempo de entrega, escalar a resolução de problemas, escalar a qualidade.
+                Nessa talk passarei pelos conceitos do fluxo unificado e como usamos eles na prática que resultaram em um aumento de 5x em nossa produtividade.
+                Partindo de um Fluxo Unificado com múltiplos times, atendendo múltiplas iniciativas com balanceamento e backlog compartilhado. Chamamos isso de Extreme Scale!"
+  speakers:
+    - name: Danilo M Garcia
+      photo: assets/images/speakers/placeholder.png
+      bio: "Trabalho na área de ti desde de 2007 e tenho 6 anos de experiência trabalhando com agilidade. Atualmente atuo como Agile Coach na Objective Solutions
+            KCP e KMP pela Lean Kanban University, CSM pela Scrum Alliance, ICAgile Professional pela ICAgile Consortium.
+            Minha experiência é focada com métodos como Scrum, Kanban, TOC e Systems Thinking. Nos ultimos anos tenho focado minha atenção em como podemos ter previsibilidade e forecasting mais precisos na área de software.
+            Já palestrei no TDC, Agile Floripa, Agile Trends e nos últimos 4 anos participei com temas no Open Space do Scrum Rio Gathering e Agile Brazil."
+
+- date: 2021-10-05
+  start: "17:00"
+  end: "18:00"
+  room: Sala 2
+  title: "Slot Patrocinado"
+  kind: session
+  type: "Apresentação"
+  track: "?"
+  target: "?"
+  description: "Detalhes em breve"
+  speakers:
+    - name: ? 
+      photo: assets/images/speakers/placeholder.png
+      bio: ""   
+
+- date: 2021-10-05
+  start: "17:30"
+  end: "18:00"
+  room: Sala 1
+  title: "Produtividade Relacional - O Molho Secreto para Escalar a Agilidade de Negócios"
+  kind: session
+  type: "Apresentação"
+  track: "Práticas de Trabalho"
+  target: "Intermediário"
+  description: "Iremos apresentar nessa sessão o fator crítico para escalar a agilidade de negócio na sua organização – a produtividade relacional. Você irá conhecer dois casos
+                reais. No primeiro (fracasso) as lideranças são tribais, a colaboração é baixa e a obsessão por Squads eclipsou a visão de serviços, cliente e propósito. A consequência 
+                é que a agilidade foi escalada em nível de times apenas (KMM ML1) e lá permaneceu. No segundo (sucesso) as lideranças exibiram mentalidade de contribuição, orientação por 
+                propósito, a visão de serviços e fluxo unificado emergiu e a maturidade da organização escalou além dos níveis de times (KMM ML2 e ML3)."
+  speakers:
+    - name: Marco Mendes
+      photo: assets/images/speakers/placeholder.png
+      bio: "Iremos apresentar nessa sessão o fator crítico para escalar a agilidade de negócio na sua organização – a produtividade relacional. Você irá conhecer dois casos reais. 
+            No primeiro (fracasso) as lideranças são tribais, a colaboração é baixa e a obsessão por Squads eclipsou a visão de serviços, cliente e propósito. A consequência é que 
+            a agilidade foi escalada em nível de times apenas (KMM ML1) e lá permaneceu. No segundo (sucesso) as lideranças exibiram mentalidade de contribuição, orientação por 
+            propósito, a visão de serviços e fluxo unificado emergiu e a maturidade da organização escalou além dos níveis de times (KMM ML2 e ML3)."
+      
+- date: 2021-10-05
+  start: "18:00"
+  end: "19:00"
+  room: Principal
+  title: Keynote WBMA
+  kind: keynote
+  type: "Keynote"
+  track: ""
+  target: ""
+  description: "Aqui irão os detalhes da sessão"
+  speakers:
+    - name: ?
+      photo: assets/images/speakers/linda-rising.png
       bio: ""
-
-
-
+      
 ###############################
 ## DIA 02 - 06/10/2021        #
 ###############################
