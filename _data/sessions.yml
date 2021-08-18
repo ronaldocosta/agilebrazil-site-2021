@@ -317,8 +317,7 @@
   target: "Inicial"
   description: "Vamos falar como foi nossa experiência em implantar uma equipe ágil para um cliente que precisou adequar sua realidade de criação de produtos para atender a criticidade e acompanhar o mercado disponibilizando o Pagamento Instantâneo – Pix para seus clientes.
                 Sabemos que o Ecossistema de pagamentos Pix trouxe um grande desafio para as fintechs e bancos e iremos mostrar como conseguimos contornar o desafio de trabalhar com métodos ágeis, mesmo possuindo um contrato com o cliente e suas cobranças totalmente voltados ao processo cascata. Iremos tratar como conseguimos conscientizar o cliente de que a forma de contratação não conseguiria acompanhar o dinamismo esperado pelo BACEN e quais foram as experiências vividas até hoje com as evoluções constantes do Pix."
-
-speakers:
+  speakers:
     - name: Paula Daniele de Oliveira Moreira
       photo: assets/images/speakers/placeholder.png
       bio: "Mestre em Ciências da Computação (UFPA) possuo 9 anos de experiência em desenvolvimento e 3 anos de experiência com métodos ágeis. Sou Gerente de TI das soluções de internet banking de uma instituição financeira. A filosofia Lean Thinking e as melhorias pequenas e continuas (Kaizen) me inspiram."     
@@ -337,8 +336,7 @@ speakers:
                 E se você trocar de empresa, em quanto tempo você consegue efetivamente “colocar a mão na massa”? Será que não tem alguma forma de acelerar este processo?
                 É possível ser mais efetivo no entendimento do código?
                 Nesta palestra, vamos discutir sobre a disciplina de análise de código, mais do que necessária para qualquer pessoa desenvolvedora, com qualquer tempo de experiência e nível de conhecimento. Vamos discutir também sobre a jornada de análise de código, habilidades, práticas e ferramentas podem ajudar neste processo."
-
-speakers:
+  speakers:
     - name: Guilherme Lacerda
       photo: assets/images/speakers/placeholder.png
       bio: "Mentor (Wildtech), Software Engineering Lead (Umbler) e Professor Universitário (Unisinos)
@@ -357,8 +355,7 @@ speakers:
   track: "Relatos de Experiência"
   target: "Inicial"
   description: "Fui gerente de uma equipe hospitalar desde outubro de 2019 até maio de 2021, e por estudar metodologias ágeis decidi fazer a gestão da equipe usando práticas de Scrum e Kanban, que não são comumente encontradas na área da saúde. Em março de 2020 a pandemia de Covid-19 iniciou no Brasil e com a ajuda da agilidade conseguimos adaptar processos e viver momentos onde a transparência, inspeção e adaptação fizeram total diferença na condução do time, que atualmente tem todos as cerimônias Scrum implantadas, além de algumas métricas de Kanban e uma pincelada de Management 3.0."
-
-speakers:
+  speakers:
     - name: Thaís Eliana Carvalho Lima
       photo: assets/images/speakers/placeholder.png
       bio: "Sou a Thaís Lima, agilista na GFT Brasil. Apaixonada por agilidade, pessoas e suas interações, fiz recentemente uma transição de carreira da área da saúde para a TI (atuei por 11 anos em grandes hospitais de São Paulo). Meu sonho é influenciar pessoas a utilizarem a agilidade nos mais diversos ambientes e contextos, incentivando relações trabalhistas mais colaborativas e humanas."     
@@ -376,8 +373,7 @@ speakers:
   description: "Se você sente que na sua empresa há dificuldade de alinhamento das equipes, sente que as equipes têm muitos canais de comunicação, há sentimento generalizado de que as decisões demoram e você está a procura de opções para resolver esses problemas, então esta palestra é para você!
                 Nós da RDStation, uma startup com 10 anos de crescimento acelerado, já passamos por algumas formações de times, no final de 2020 aplicamos na prática os conceitos do livro Team Topologies e Domain Driven Design para reorganizar a estrutura do time de Produto e Engenharia.
                 Esperamos que você possa se inspirar e considerar o Team Topologies como referência para sua estrutura de times."
-
-speakers:
+  speakers:
     - name: Caco - Cleiton Mafra
       photo: assets/images/speakers/placeholder.png
       bio: "Enterprise Agile Coach na Resultados Digitais, atua junto aos times de Engenharia e Produto e conectando com a estratégia da empresa. A Resultados Digitais (RDStation) tem um cenário de alta tecnologia e um crescimento acelerado, além disso, está entre as maiores empresas de marketing Digital do Mundo e está presente em mais de 20 países
@@ -405,8 +401,7 @@ speakers:
   description: "No último ano, o Nubank ganhou um novo chapter, de agilistas, vindos majoritariamente da PlataformaTec. Montar um chapter funcional, em um novo contexto e em um domínio complicado e altamente mutável foi e tem sido um desafio.
                 Alguns anos antes, a Easynvest também passou por esse processo — e tomou decisões diferentes a respeito da formação do seu próprio chapter de agilistas.
                 Nessa palestra 2 em 1, contaremos as histórias e aprendizados de ambas as jornadas. De bônus contaremos o que aprendemos ao juntar esses chapters, conforme Easy e Nu também se unem!"
-
-speakers:
+  speakers:
     - name: Ceci Fernandes
       photo: assets/images/speakers/placeholder.png
       bio: "Motivada por enxergar melhoria acontecendo e generalista de coração, Ceci já trabalhou com todo o espectro da agilidade: desde agile coaching e gestão de times e indivíduos até entrega de valor através da produção de código e automatização de tarefas.
@@ -431,8 +426,7 @@ speakers:
   description: "Liderando equipes de desenvolvimento de produtos digitais por vários anos, percebe-se a importância de ter o alinhamento de expectativas em três dimensões: Equipe, Cliente e Organização.
                 As pessoas gestoras possuem como responsabilidade cuidar das entregas dos projetos, da satisfação do cliente, satisfação e jornada profissional das pessoas do time no decorrer do projeto. Para que isso ocorra de forma efetiva na organização, o alinhamento de expectativas é feito de forma intencional para atender essas responsabilidades.
                 O objetivo é compartilhar a experiência de alinhar, acompanhar e renovar as expectativas ao longo do tempo de vida dos projetos, e os impactos nas entregas e nas pessoas."
-
-speakers:          
+  speakers:          
     - name: Marcely Santos
       photo: assets/images/speakers/placeholder.png
       bio: "No mercado desde 1999 trabalhando com produtos digitais e agilidade desde 2007 sendo uma experimentadora e disseminadora da cultura, apoiando pessoas e Organizações a passarem por seu processo de transformação em busca de uma relação mais humana, colaboração, efetividade e um trabalho mais enxuto."     
@@ -450,8 +444,7 @@ speakers:
   description: "Como consegui, como um simples agilista, aumentar a felicidade, portanto produtividade dos times entregando valor com qualidade (Produto e código) produzido pelos desenvolvedores através das melhores Práticas do Kanban com Extreme Programming e métricas de time.
                 Demonstrarei, através de Dashboards que criei, informações quantitativas e qualitativas de falhas e acertos durante o processo de revisão de código por pares e a diminuição do lead time do time através do Pair Programming
                 A prática que trouxemos para dentro da Organização nos auxiliou na tomada de decisões, no aumento da garantia de confiança da qualidade de produto, na redução de bugs em produção, e principalmente, em como isso se tornou amplo dentro dos times melhorando o Time-to-Market e a satisfação do cliente."
-
-speakers:
+  speakers:
     - name: André Luiz Pinheiro de Oliveira
       photo: assets/images/speakers/placeholder.png
       bio: "Apaixonado pela agilidade desde 2009 quando tive minha primeira experiência como Scrum Master. Fui Agile Coach e hoje atuo como Service Delivery Manager da Capgemini na transformação digital do McDonalds (Comam BigMac). Fui desenvolvedor por muitos anos, 15 anos escovando bits, analisando requisitos e 5 anos como gerente de Projetos tradicional. Atualmente me considero um Agente de transformação ágil e engajador de times pois eu os ajudo a alcançar performance de alta previsibilidade através do empoderamento e trabalho de coach nas habilidades individuais e de time."     
@@ -467,8 +460,7 @@ speakers:
   track: "Relatos de Experiência"
   target: "Intermediário"
   description: "A reunião diária é um evento muito simples, mas com um poder sistêmico gigantesco, e aos longos dos anos presenciei (e participei) de muitas reuniões diárias com vários problemas, como reuniões que só serviam como “status report”, que não coordenavam o trabalho, e que as pessoas até abandonavam a prática por não enxergar valor. Com o passar dos anos fui experimentando e aprendendo sobre como evitar as disfunções e atualmente trabalho em um time (Segmento Financeiro – Portal de chargeback) que é um grande case de como podemos aproveitar o máximo do encontro diário. Irei apresentar como a reunião é conduzida nesse time e quais são as melhores práticas que podemos experimentar para nos livrar das disfunções."
-
-speakers:
+  speakers:
     - name: Felipe Oliveira
       photo: assets/images/speakers/placeholder.png
       bio: "Graduado em engenharia com MBA em gestão de projetos, com mais de 12 anos de experiência em T.I. Atua com metodologias ágeis há 7 anos, apaixonado por inovação. Com experiencia internacional, já trabalhou em diversos segmentos, como em consutorias, construtora, banco, telefonia e adquirencias.
@@ -486,8 +478,7 @@ speakers:
   track: "Comunidades"
   target: ""
   description: "Em breve maiores detalhes"
-
-speakers:
+  speakers:
     - name: Comunidade X
       photo: assets/images/speakers/placeholder.png
       bio: ""     
@@ -503,8 +494,7 @@ speakers:
   track: "Comunidades"
   target: ""
   description: "Em breve maiores detalhes"
-
-speakers:
+  speakers:
     - name: Comunidade Y
       photo: assets/images/speakers/placeholder.png
       bio: ""          
@@ -578,8 +568,7 @@ speakers:
   target: "Intermediário"
   description: "É fácil gerar idéias para produtos, e elas são muito mais rápidas que a capacidade de entrega da organização, criando uma frustração constante nos clientes. Mas idéias são apenas idéias, e o processo de validação e aprendizado é muitas vezes separado da entrega, criando uma cascata que aumenta o time to market do produto, ou muitas vezes nem é feito, gerando muito desperdício.
                 O Discovery Kanban é a adoção dos princípios e praticas do Upstream Kanban para criação de um fluxo de validação e aprendizados contínuos em um contexto de inovação ou mudança. Nesse cenário, gargalos na entrega são usado para a melhoria do processo de criação e triagem de opções, melhorando a eficácia do sistema."
-
-speakers:
+  speakers:
     - name: Rafael Caceres
       photo: assets/images/speakers/placeholder.png
       bio: "Empreendedor-Fluxonomista-Desenvolvedor e Cientista da Computação pela Universidade Estadual do Oeste do Paraná tem 15 anos de experiência com desenvolvimento web. É um dos fundadores da Taller, um ateliê de negócios digitais que cria produtos sob medida para seus clientes, onde trabalha na gestão de fluxo. Entusiasta do software livre, viciado em seriados e livros, gosta muito de xadrez, anarquismo, cozinhar e gerar ideias mirabolantes."     
@@ -620,8 +609,7 @@ speakers:
                 O problema é que só iterar não basta. É preciso entender os benefícios de se partir um produto em fatias menores para poder de fato aproveitar os benefícios desta abordagem.
                 Mas, como cortar as fatias certas?
                 Neste webinar vamos mostrar como o bom entendimento de um problema facilita o desenvolvimento de um produto de forma iterativa e incremental, através de uma mescla envolvendo duas técnicas de mapeamento: Impact Mapping de Gojko Adzic com User Story Mapping de Jeff Patton."
-
-speakers:
+  speakers:
     - name: Mário Melo
       photo: assets/images/speakers/placeholder.png
       bio: "Formado em Sistemas de Informação pela UFMG
@@ -650,7 +638,6 @@ speakers:
                 Como podemos fazer para que as validações, e o processo de qualidade como um todo, existam durante todo o fluxo de trabalho?
                 Como podemos empoderar o time todo para garantir qualidade sem depender unicamente da pessoa QA?
                 Através de alguns cases práticos que estamos construindo vamos trazer a resposta para essas perguntas e ainda mostrar como a organização do fluxo de trabalho pode ajudar na qualidade das entregas feitas pelo time."
-
   speakers:
     - name: Samir Bravo
       photo: assets/images/speakers/placeholder.png
@@ -678,8 +665,7 @@ speakers:
                 - Aplicação de Storytelling aplicado sessões de Demo (Show case);
                 - História do usuário x História de descobrimento;
                 - Design Thinking sendo utilizado por POs;"
-
-speakers:
+  speakers:
     - name: Lorete Kossowski Mocelin
       photo: assets/images/speakers/placeholder.png
       bio: "Agile Coach em empresa de grande porte
@@ -699,7 +685,6 @@ speakers:
   track: "Mão no Código"
   target: "Intermediário"
   description: "Você já trabalhou em um projeto onde cada arquivo de código produtivo possui uma suíte de testes? Essa representação 1-1 traz várias dificuldades na hora de refatorar seu código e pode causar dores de cabeça ao introduzir novas funcionalidades. Nessa talk, vamos entender o que é contravariância de testes e como isso pode dar brilho aos nossos testes, dando celeridade no desenvolvimento sem diminuir a qualidade das entregas."
-
   speakers:
     - name: Ivo Roberto Batistela
       photo: assets/images/speakers/placeholder.png
@@ -717,7 +702,6 @@ speakers:
   target: "Intermediário"
   description: "Uma boa API começa com uma boa especificação. Porem o que escuto do campo de batalha dos desenvolvedores e POs é que eles não tem tempo a perder com o desenvolvimento da especificação. Bom é isso que eles acreditam. Tentei aplicar um método de trabalho onde o primeiro artefato era a especificação da API, não consegui vencer o status quo. Havia muita resistência, muitas reclamações e o pior, o time não parava para realizar essas tarefas. Eu não tenho a gestão sobre o time. Mas tenho a gestão do pipeline. Spoiler, processos automatizados são mais aceitos.
                 É possível garantir que o time siga um processo, gere os artefatos que preciso. Dessa forma gerar documentação automatizada, gerar SDKs para varias linguagens diferentes, validar a qualidade, realizar code review em escala é possível."
-
   speakers:
     - name: Juscélio Reis
       photo: assets/images/speakers/placeholder.png
@@ -750,8 +734,7 @@ speakers:
   track: "Comunidades"
   target: ""
   description: "Em breve maiores detalhes"
-
-speakers:
+  speakers:
     - name: Comunidade X
       photo: assets/images/speakers/placeholder.png
       bio: ""     
@@ -767,8 +750,7 @@ speakers:
   track: "Comunidades"
   target: ""
   description: "Em breve maiores detalhes"
-
-speakers:
+  speakers:
     - name: Comunidade Y
       photo: assets/images/speakers/placeholder.png
       bio: ""        
@@ -879,7 +861,6 @@ speakers:
   target: "Inicial"
   description: "Os Agilistas são seres que podem ser muito poderosos, que lidam com toda a cultura do local que passam. Porém precisam entender sua força e que ela é para os outros e não para si, entender que sua função antes de qualquer coisa é sobre PESSOAS e não processos. Por isso uma das maiores habilidades que um Agilista precisa ter, controlar e aperfeiçoar são os Soft Skills: Empatia, Escuta Ativa, Comunicação Não Violenta, Resiliência, Adaptabilidade, entre diversos outros.
                 Iremos compartilhar, a partir de nossas histórias e experiências, nossa visão sobre o que um Agilista deve ter e ser, com ensinamentos, boas práticas e casos não só de sucesso, mas também de falhas e como aprendemos com elas. Além de tudo, em algo que acreditamos muito, que você deve deixar força do Ágil se adaptar a você!"
-  
   speakers:
     - name: Samuel Thome
       photo: assets/images/speakers/placeholder.png
@@ -890,7 +871,7 @@ speakers:
       bio: "Profissional formado em administração de empresas e especialista em agilidade de negócios. Paixão por pessoas e processos e tem como principal objetivo melhorar o dia a dia das pessoas.
             Entusiasta Ágil em Kanban, Scrum e apaixonado por Kaizen e pessoas. Com mais de 7 anos em experiência como analista de negócios e processos voltado a levantamento de requisitos, mapeamento e otimização de processos, melhoria contínua, mediador de conflitos, facilitador e agente de mudança Ágil, relacionamento com clientes, usuários e stakeholders."
  
- - date: 2021-10-08
+- date: 2021-10-08
   start: "16:00"
   end: "17:00"
   show: true
@@ -902,13 +883,12 @@ speakers:
   target: "Profundo"
   description: "No mundo real, é muito difícil que tenhamos informações, dinheiro, tempo ou pessoas o suficiente para fazermos o sistema ideal. Então é necessário fazer escolhas arquiteturais (tradeoffs) em cada uma das fases da empresa que em geral sacrificam algo, esperando gerar o maior valor possível no que é importante para aquele momento.
                 Esta palestra vai navegar pelas fases do Nubank, explicando decisões arquiteturais que alavancaram o seu crescimento e que foram em grande parte responsáveis pelo seu sucesso."
-  
   speakers:
     - name: Lucas Cavalcanti
       photo: assets/images/speakers/placeholder.png
       bio: "Lucas Cavalcanti é um engenheiro de software Principal na Nubank, o maior banco digital independente do mundo, construído numa arquitetura em microserviços que usam Clojure e Datomic. Lucas é um entusiasta de programação funcional e de boas práticas de desenvolvimento de software, com vasta experiência em aplicações reais em produção escritas em Java, Scala, Ruby e Clojure. É bacharel em Ciências da Computação pela Universidade de São Paulo."
 
- - date: 2021-10-08
+- date: 2021-10-08
   start: "16:00"
   end: "17:00"
   show: true
@@ -918,8 +898,7 @@ speakers:
   type: "Apresentação"
   track: "Culturas de Trabalho"
   target: "Intermediário"
-  description: "Muito esforço, todos ocupados, pouco resultado. Comemoramos entregas, mas as métricas de negócios estão em risco. Como criar uma estratégia matadora e engajar toda a organização para conquistar o mercado? Falaremos sobre quebrar o espírito tarefeiro e sair da armadilha de tombar times para o ágil sem a mudança na camada estratégica da organização."
-  
+  description: "Muito esforço, todos ocupados, pouco resultado. Comemoramos entregas, mas as métricas de negócios estão em risco. Como criar uma estratégia matadora e engajar toda a organização para conquistar o mercado? Falaremos sobre quebrar o espírito tarefeiro e sair da armadilha de tombar times para o ágil sem a mudança na camada estratégica da organização."  
   speakers:
     - name: Andressa Chiara
       photo: assets/images/speakers/placeholder.png
@@ -929,7 +908,7 @@ speakers:
       photo: assets/images/speakers/placeholder.png
       bio: "Marco Dubovski é Product Owner no PagSeguro. Há mais de 15 anos trabalha com desenvolvimento de soluções de negócio nos segmentos de Telecom, TI e e-commerce e há 4 anos é agilista. Atua na criação de produtos orientados às pessoas e acredita que é possível conciliar letras e números de forma harmônica. Certificado como CSPO, CSM e Lean-Kanban. Faz parte da iniciativa TOT, voltada para inovação e solução de problemas através da aplicação do mindset ágil. Palestrante em eventos de agilidade como Scrum Gathering (2016, 2017) e Agile Trends (2018), além de atuar como disseminador da cultura ágil tanto nos meetups do TOT para o público externo quanto em workshops e no dia-a-dia dos times do PagSeguro."
 
- - date: 2021-10-08
+- date: 2021-10-08
   start: "17:00"
   end: "18:00"
   show: true
@@ -946,7 +925,7 @@ speakers:
       photo: assets/images/speakers/placeholder.png
       bio: "Olá! Sou a Jen! Qualidade de software é a minha paixão há 11 anos! A agilidade chegou à minha vida através da curiosidade, como um caminho de questionamento. Hoje, sou uma impulsionadora de pessoas e ofereço encorajamento para que elas escrevam suas próprias histórias dentro do universo de tecnologia, compartilhando o que aprendi até aqui! Sonho com um mundo cada vez mais equânime e me empenho em fazer parte dessa transformação."
 
- - date: 2021-10-08
+- date: 2021-10-08
   start: "17:00"
   end: "18:00"
   show: true
@@ -996,7 +975,7 @@ speakers:
   show: true
   speakers: []
   
-  - date: 2021-10-09
+- date: 2021-10-09
   start: "10:00"
   end: "12:00"
   show: true
@@ -1013,7 +992,7 @@ speakers:
       photo: assets/images/speakers/placeholder.png
       bio: "Atualmente Ana Carolina é Professora nos cursos da Escola Politécnica na PUCPR. Durante o mestrado pesquisou sobre Engenharia de Software Sustentável no setor financeiro. Neste mesmo período em conjunto com o grupo de pesquisa de engenharia de software pesquisou sobre modelos de maturidade no desenvolvimento de software ágil. Iniciou sua carreira de TI como programadora atuando em empresas do setor de financeiro, petróleo e aviação. Desde 2009 trabalhando em times ágeis, atuou como Scrum Master e Agile Master aplicando métodos ágeis como Scrum, Kanban e SAFe e se encantando com a agilidade a cada dia. Além da agilidade, teatro e canto são as suas paixões. Fui voluntária na comunidade TechLadies com objetivo de aumentar a participação de mulheres na TI e também na CareSchool ensinando inglês para estudantes do ensino fundamental público."
 
- - date: 2021-10-09
+- date: 2021-10-09
   start: "10:00"
   end: "12:00"
   show: true
