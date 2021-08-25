@@ -359,6 +359,45 @@
     - name: Thaís Eliana Carvalho Lima
       photo: assets/images/speakers/placeholder.png
       bio: "Sou a Thaís Lima, agilista na GFT Brasil. Apaixonada por agilidade, pessoas e suas interações, fiz recentemente uma transição de carreira da área da saúde para a TI (atuei por 11 anos em grandes hospitais de São Paulo). Meu sonho é influenciar pessoas a utilizarem a agilidade nos mais diversos ambientes e contextos, incentivando relações trabalhistas mais colaborativas e humanas."     
+
+- date: 2021-10-06
+  start: "16:00"
+  end: "17:00"
+  show: true
+  room: Sala 1
+  title: "Inove na estrutura dos times - Um case prático da RDStation que vai além de tribos e squads"
+  kind: session
+  type: "Apresentação"
+  track: "Culturas de Trabalho"
+  target: "Intermediário"
+  description: "Se você sente que na sua empresa há dificuldade de alinhamento das equipes, sente que as equipes têm muitos canais de comunicação, há sentimento generalizado de que as decisões demoram e você está a procura de opções para resolver esses problemas, então esta palestra é para você!
+                Nós da RDStation, uma startup com 10 anos de crescimento acelerado, já passamos por algumas formações de times, no final de 2020 aplicamos na prática os conceitos do livro Team Topologies e Domain Driven Design para reorganizar a estrutura do time de Produto e Engenharia.
+                Esperamos que você possa se inspirar e considerar o Team Topologies como referência para sua estrutura de times."
+  speakers:
+    - name: Caco - Cleiton Mafra
+      photo: assets/images/speakers/placeholder.png
+      bio: "Enterprise Agile Coach na Resultados Digitais, atua junto aos times de Engenharia e Produto e conectando com a estratégia da empresa. A Resultados Digitais (RDStation) tem um cenário de alta tecnologia e um crescimento acelerado, além disso, está entre as maiores empresas de marketing Digital do Mundo e está presente em mais de 20 países
+            Caco é especialista no método Kanban, já treinou mais de 600 pessoas no Método Kanban e ajudou mais de 80 times a adotar o método.
+            Como Agile Coach ajuda empresas de tecnologia a terem sucesso, resultados de longo prazo e equipes de alta performance.
+            Histórico de palestras:
+            No ano de 2017 realizou 15 palestras em eventos pelos Brasil como Agile Trends, TDC Floripa, TDC SP, Lean Kanban Brazil, TDC Porto Alegre e outros eventos menores.
+            Neste ano de 2018, já palestrou no Agile Trends e TDC Floripa, Scrum Rio, Agile Brazil, Lean Kanban e Agile Floripa.
+            Todas as minhas palestras estão disponíveis no slideshare https://pt.slideshare.net/cleitonmafra"     
+            
+    - name: Juliemar Berri
+      photo: assets/images/speakers/placeholder.png
+      bio: "MBA em Gestão estratégica em TI pela FGV, Com mais de 10 anos de experiência em diferentes papeis no ciclo de entrega de software, tive a oportunidade de vivenciar a transformação de processos convencionais para a agilidade. Hoje sou coordenador dos times 100% remotos que estão construindo a plataforma de dados da Resultados Digitais."     
+                
+- date: 2021-10-06
+  start: "16:00"
+  end: "17:00"
+  show: true
+  room: Sala 2
+  title: "Criando um chapter de agilidade... ou três!"
+  speakers:
+    - name: Thaís Eliana Carvalho Lima
+      photo: assets/images/speakers/placeholder.png
+      bio: "Sou a Thaís Lima, agilista na GFT Brasil. Apaixonada por agilidade, pessoas e suas interações, fiz recentemente uma transição de carreira da área da saúde para a TI (atuei por 11 anos em grandes hospitais de São Paulo). Meu sonho é influenciar pessoas a utilizarem a agilidade nos mais diversos ambientes e contextos, incentivando relações trabalhistas mais colaborativas e humanas."     
      
 - date: 2021-10-06
   start: "16:00"
@@ -394,6 +433,49 @@
   show: true
   room: Sala 2
   title: "Criando um chapter de agilidade... ou três!"
+  kind: session
+  type: "Apresentação"
+  track: "Relatos de Experiência"
+  target: "Intermediário"
+  description: "No último ano, o Nubank ganhou um novo chapter, de agilistas, vindos majoritariamente da PlataformaTec. Montar um chapter funcional, em um novo contexto e em um domínio complicado e altamente mutável foi e tem sido um desafio.
+                Alguns anos antes, a Easynvest também passou por esse processo — e tomou decisões diferentes a respeito da formação do seu próprio chapter de agilistas.
+                Nessa palestra 2 em 1, contaremos as histórias e aprendizados de ambas as jornadas. De bônus contaremos o que aprendemos ao juntar esses chapters, conforme Easy e Nu também se unem!"
+  speakers:
+    - name: Ceci Fernandes
+      photo: assets/images/speakers/placeholder.png
+      bio: "Motivada por enxergar melhoria acontecendo e generalista de coração, Ceci já trabalhou com todo o espectro da agilidade: desde agile coaching e gestão de times e indivíduos até entrega de valor através da produção de código e automatização de tarefas.
+            Co-autora de treinamentos de agilidade da Caelum, board member da Agile Alliance Brazil, líder do capítulo de Agilidade no Nubank desde sua criação, ela faz questão de se envolver com comunidades e busca melhorar suas habilidades todos os dias, através de prática deliberada do que ela acredita que precisa, mais urgentemente, ser melhorado.
+            Ceci palestra desde 2010, já apresentou sessões em eventos relevantes como a Agile Brazil, QCon, Agile Conference, Caipira Ágil, entre muitos outros."     
+            
+    - name: Thiago Soares
+      photo: assets/images/speakers/placeholder.png
+      bio: "Formado em Análise de Sistemas pela Faculdade Impacta de Tecnologia, trabalha com agilidade em desenvolvimento de software desde 2012. Experiente em facilitação, formação de times e adoção de métodos e práticas ágeis em grandes organizações, ainda é um jovem padawan quando o assunto é envolvimento com a comunidade, contudo, busca expandir e aprimorar sua contribuição."     
+
+
+- date: 2021-10-06
+  start: "17:00"
+  end: "18:00"
+  show: true
+  room: Sala 1
+  title: "Alinhamento de Expectativas para uma cadência de entregas eficazes e pessoas felizes"
+  kind: session
+  type: "Apresentação"
+  track: "Culturas de Trabalho"
+  target: "Inicial"
+  description: "Liderando equipes de desenvolvimento de produtos digitais por vários anos, percebe-se a importância de ter o alinhamento de expectativas em três dimensões: Equipe, Cliente e Organização.
+                As pessoas gestoras possuem como responsabilidade cuidar das entregas dos projetos, da satisfação do cliente, satisfação e jornada profissional das pessoas do time no decorrer do projeto. Para que isso ocorra de forma efetiva na organização, o alinhamento de expectativas é feito de forma intencional para atender essas responsabilidades.
+                O objetivo é compartilhar a experiência de alinhar, acompanhar e renovar as expectativas ao longo do tempo de vida dos projetos, e os impactos nas entregas e nas pessoas."
+  speakers:          
+    - name: Marcely Santos
+      photo: assets/images/speakers/placeholder.png
+      bio: "No mercado desde 1999 trabalhando com produtos digitais e agilidade desde 2007 sendo uma experimentadora e disseminadora da cultura, apoiando pessoas e Organizações a passarem por seu processo de transformação em busca de uma relação mais humana, colaboração, efetividade e um trabalho mais enxuto."     
+                
+- date: 2021-10-06
+  start: "17:00"
+  end: "17:30"
+  show: true
+  room: Sala 2
+  title: "Como aumentamos a produtividade dos times fazendo trabalharem menos com Kanban e XP"
   kind: session
   type: "Apresentação"
   track: "Relatos de Experiência"
