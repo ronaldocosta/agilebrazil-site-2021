@@ -1102,3 +1102,421 @@
             É voluntário, organizador e/ou participante em diversos eventos de agilidade (Agile Trends, Agile Brazil e TDC) e comunidades de empreendedorismo/startups (ZeroOnze, Cotton Valley, etc)."
 
 
+- date: 2021-10-09
+  start: "10:00"
+  end: "11:00"
+  show: true
+  room: Sala 3
+  title: "Open Space: Comunidade 9"
+  kind: session
+  type: "Open Space"
+  track: "Comunidades"
+  target: ""
+  description: "Em breve maiores detalhes"
+  speakers:
+    - name: Comunidade Y
+      photo: assets/images/speakers/placeholder.png
+      bio: ""     
+
+- date: 2021-10-09
+  start: "10:00"
+  end: "11:00"
+  show: true
+  room: Sala 4
+  title: "Open Space: Comunidade 11"
+  kind: session
+  type: "Open Space"
+  track: "Comunidades"
+  target: ""
+  description: "Em breve maiores detalhes"
+  speakers:
+    - name: Comunidade Y
+      photo: assets/images/speakers/placeholder.png
+      bio: ""     
+
+- date: 2021-10-09
+  start: "10:00"
+  end: "11:00"
+  show: true
+  room: Sala 5
+  title: "Inclusão e Agilidade: Reinventando a educação em desenvolvimento de software em programas inclusivos"
+  kind: session
+  type: "Apresentação"
+  track: "Relatos de Experiência"
+  target: "Inicial"
+  description: "O ensino de desenvolvimento de software ágil possui desafios que, quando combinados a ambientes compostos por adolescentes socialmente vulneráveis, revelam um cenário instigante capaz de induzir a reflexão sobre técnicas tradicionais e novas metodologias de ensino no desenvolvimento de software. Há dez anos no Brasil, foram desenvolvidos programas imersivo-educacionais sem fins lucrativos, de Engenharia de Software, através de uma parceria universidade-empresa: a Aceleradora Ágil e a Aceleradora Inclusiva. Por meio de uma imersão em um ambiente controlado, usando o Agile como sua mentalidade fundamental, esses programas têm impactado a vida de jovens em situação de vulnerabilidade e auxiliando-os a se unirem a equipes profissionais de desenvolvimento de software ágil."
+  speakers:
+    - name: Michelle Miranda
+      photo: assets/images/speakers/placeholder.png
+      bio: "Pessoa consultora em Diversidade e Inclusão. Desenvolvedora de Software front-end. Doutoranda em Ciência da Computação pela PUCRS com foco em Gestão da Diversidade. Mestre em Ciências pela Universidade de São Paulo com atuação na área de Políticas Públicas para pessoas travestis e transexuais e formada em Sistemas de Informação pela Universidade Federal Rural da Amazônia ­ UFRA. Têm paixão pelo tema da diversidade na tecnologia e em auxiliar pessoas dos grupos de Diversidade a desenvolverem suas jornadas técnicas. Pesquisadora sobre Gestão da Diversidade em Times de Desenvolvimento de Software. Já atuou no desenvolvimento de políticas de inclusão de diversidade étnico-racial e desenvolve um modelo de gestão da diversidade aplicada a times de desenvolvimento de software. Atualmente é monitora e pesquisadora da Aceleradora Inclusiva (Projeto de parceria entre PUCRS, ThoughtWorks e Sicred). Ativista e militante de movimentos sociais, LGBT e movimento negro no Brasil. Suas áreas de pesquisa e atuação são: Gestão de Diversidade da Engenharia de Software; Diversidade étnico-racial na Tecnologia; Estudos transgêneros; Gestão de Política Públicas; e Resistência dos Sistemas de Informação."
+    - name: Arlanda Jacques Wisniewski de Souza
+      photo: assets/images/speakers/placeholder.png
+      bio: "Consultora formada em Psicologia (PUCRS). Trabalha nas Aceleradoras Inclusiva e Ágil, onde foi voluntária em 2018 e teve seu primeiro contato com metodologias ágeis. Seu sonho está se tornando realidade na medida em que colabora para tornar os espaços corporativos mais diversos."
+
+- date: 2021-10-09
+  start: "10:00"
+  end: "11:00"
+  show: true
+  room: Sala 6
+  title: "WBMA 55"
+  kind: session
+  type: "WBMA"
+  track: ""
+  target: ""
+  description: "Aqui irão os detalhes da sessão"
+  speakers:
+    - name: "?"
+      photo: assets/images/speakers/placeholder.png
+      bio: ""
+
+- date: 2021-10-09
+  start: "11:00"
+  end: "12:00"
+  show: true
+  room: Sala 3
+  title: "Open Space: Comunidade 10"
+  kind: session
+  type: "Open Space"
+  track: "Comunidades"
+  target: ""
+  description: "Em breve maiores detalhes"
+  speakers:
+    - name: Comunidade Y
+      photo: assets/images/speakers/placeholder.png
+      bio: ""     
+
+- date: 2021-10-09
+  start: "11:00"
+  end: "12:00"
+  show: true
+  room: Sala 4
+  title: "Open Space: Comunidade 12"
+  kind: session
+  type: "Open Space"
+  track: "Comunidades"
+  target: ""
+  description: "Em breve maiores detalhes"
+  speakers:
+    - name: Comunidade Y
+      photo: assets/images/speakers/placeholder.png
+      bio: ""     
+
+- date: 2021-10-09
+  start: "11:00"
+  end: "12:00"
+  show: true
+  room: Sala 5
+  title: "Agilidade no enfrentamento à COVID-19: desafios, práticas, aprendizados, e o impacto final"
+  kind: session
+  type: "Apresentação"
+  track: "Relatos de Experiência"
+  target: "Inicial"
+  description: "Pandemia decretada em 13/03/2020. Petrobras determina teletrabalho em 16/03/2020. Longe dos seus laboratórios, pesquisadores decidem mobilizar-se para ajudar no enfrentamento à COVID. A incerteza era enorme. Os resultados precisavam ser assertivos. O lema era: nossos meses são dias, nossos dias são horas. Em um contexto assim, como se organizar? A liderança busca ajuda, e assim os agilistas entram nos times.
+                Nessa palestra vamos compartilhar (1) os desafios desse contexto tão atípico que foi o início da pandemia e o enfrentamento à COVID; (2) as práticas e ferramentas que utilizamos; (3) os aprendizados; e (4) os resultados entregues. É claro que nem tudo deu certo. Para concluir, vamos contar qual foi o principal impacto observado, que inicialmente nem era a expectativa principal."
+  speakers:
+    - name: Ursula Schmid
+      photo: assets/images/speakers/placeholder.png
+      bio: "Sou cientista da computação com mestrado em design, conheci a agilidade efetivamente em 2016 e simplesmente me encontrei profissionalmente. Desde então sou uma agilista em constante mudança e evolução, sigo com foco na mentalidade do designer que abraça empatia, otimismo, iteração, criatividade e ambiguidade, mantendo as pessoas no centro de todos os processos. Há mais de 13 anos na indústria de petróleo, sempre atuando no segmento de tecnologia, atualmente compondo a liderança da Gerência de Transformação Digital da Petrobras que tem o propósito: 'Inspirar pessoas a transformar a Petrobras todos os dias'"
+    - name: Amon Aidukaitis
+      photo: assets/images/speakers/placeholder.png
+      bio: "Conheci a Agilidade em 2010, fez tanto sentido que foi como se eu já conhecesse desde que nasci. Como Analista de Sistemas na Petrobras, os anos seguintes foram de aprendizado teórico. CSM, CSPO, KMP1, Requisitos Ágeis, Scrum Gathering Rio 2015… até que em 2018 me juntei a um grupo de intraempreendedores autodenominados Transformadores, passando a atuar informalmente com aplicação e treinamento de Scrum, Kanban, Design Thinking, Lean Inception, e o que mais fazia sentido para os desafios da empresa que chegavam até nós. Hoje atuo integralmente como Agilista, contribuindo para o movimento de Transformação Ágil na maior empresa brasileira."
+
+- date: 2021-10-09
+  start: "11:00"
+  end: "12:00"
+  show: true
+  room: Sala 6
+  title: "WBMA 56"
+  kind: session
+  type: "WBMA"
+  track: ""
+  target: ""
+  description: "Aqui irão os detalhes da sessão"
+  speakers:
+    - name: "?"
+      photo: assets/images/speakers/placeholder.png
+      bio: ""
+
+- date: 2021-10-09
+  start: "13:30"
+  end: "15:30"
+  show: true
+  room: Sala 1
+  title: "Alavancando resultados através do Mapeamento de Fluxo de Valor"
+  kind: session
+  type: "Mão na Massa"
+  track: "Práticas De Trabalho"
+  target: "Inicial"
+  description: "Você sabe como fazer mapa de fluxo de valor? O Value Stream Mapping é uma ferramenta extremamente eficaz para mapear seus processos com foco na agregação de valor das atividades desenvolvidas. Com o mapeamento correto de um fluxo de valor é possível aumentar de forma estrtuturada e exponencial o desempenho de uma organização o em todos os níveis por meio da Melhoria Contínua. Vem com a gente ver como alavancar os resultados, reduzir desperdício e melhorar a Eficiência do seu fluxo. Neste Workshop mostramos de maneira prática como mapeamos fluxos para atingir esses resultados."
+  speakers:
+    - name: Juliana Cainelli
+      photo: assets/images/speakers/placeholder.png
+      bio: "Mãe, Professora e Agilista dedicada aos desafios do Ágil com visão estratégica de pesquisa e foco em resultados. Guia equipes multidisciplinares na adoção e execução dos métodos ágeis por meio de uma cultura de pensamento enxuto e criativo com transparência buscando fortalecer o mindset ágil da organização."
+    - name: Vanessa de Campos Lacerda
+      photo: assets/images/speakers/placeholder.png
+      bio: "Atuando a 15 anos na área de TI, já trabalhei nas mais diversas áreas. Iniciei na área comercial de soluções especialistas, implantação e desenvolvimento de soluções com otimização matemática, minha área de formação, suporte na área de planejamento de produção, testes e automação, até que me apaixonei pelo Scrum. Agilista desde 2017 com objetivo de impulsionar os resultados dos times, buscando maior produtividade com eficácia e eficiência utilizando conceitos e práticas ágeis. Apaixonada por conhecer e experimentar coisas novas, acima de tudo apaixonada por pessoas e oportunidades de trocas de conhecimento e experiência. Acredito na essência do ágil, na capacidade de adaptação, em entregas incrementais de valor com foco em melhoria contínua."
+
+- date: 2021-10-09
+  start: "13:30"
+  end: "15:30"
+  show: true
+  room: Sala 2
+  title: "Iniciei na Agilidade mas nunca facilitei uma cerimônia e agora, o que fazer?"
+  kind: session
+  type: "Mão na Massa"
+  track: "Culturas De Trabalho"
+  target: "Inicial"
+  description: "No nosso workshop vamos apresentar algumas técnicas e dicas para pessoas que nunca tiveram a oportunidade de facilitar uma cerimônia/um rito no dia a dia, e que não sabem por onde começar, além de algumas dicas de ferramentas que podem ajudar nesse desafio. Aqui você terá a oportunidade de conhecer essas técnicas e vivenciá-las na prática."
+  speakers:
+    - name: Carolina Silva
+      photo: assets/images/speakers/placeholder.png
+      bio: "Squad Leader na CI&T, Staff Member da Comunidade Mulheres Agilistas, Co-fundadora/Instrutora do projeto Cora Social e participo da organização do Lean Coffee São José do Rio Preto.Formada em Tecnologia para Negócios e pós graduada em Gerenciamento de Projetos, em 2017 conheci a agilidade e me apaixonei. Desde então sou uma agilista em constante mudança e evolução, sou apaixonada em ajudar as pessoas a se desenvolverem, realizarem o seu potencial e crescerem cada vez mais. Busco através da compreensão e empatia cultivar ambientes saudáveis que valorizem a criatividade para a resolução de problemas complexos. Acredito que possamos ser a diferença que buscamos no mundo, compartilhando conhecimento e experiências para impactar positivamente na vida das pessoas."
+    - name: Alexandra Nascimento Alves
+      photo: assets/images/speakers/placeholder.png
+      bio: "Coordenadora de Desenvolvimento na Ramper e Staff Member da Comunidade Mulheres Agilistas.Graduada em Administração e em Análise e Desenvolvimento de Sistemas. Trabalho há 14 anos em empresas de tecnologia, nos últimos 4 anos atuei como Agile Master e me apaixonei pelas interações humanas e desenvolvimento de equipes. Busco ajudar as pessoas a desenvolverem o seu potencial e ajudar as equipes a evoluírem mais rapidamente, identificando as necessidades de melhorias para aplicar as técnicas de agilidade com técnicas e ferramentas de comportamento. Uma aspiração é ser mentora para ajudar outras mulheres no desenvolvimento da sua carreira."
+
+- date: 2021-10-09
+  start: "13:30"
+  end: "15:30"
+  show: true
+  room: Sala 3
+  title: "Exploring Heuristic for Test-Driven Development"
+  kind: session
+  type: "Mão na Massa"
+  track: "Mão no Código"
+  target: "Intermediário"
+  description: "Test-Driven Development is a very popular agile practice but at the same time is one of the hardest practices. Even when the idea of TDD is easy to understand it could be really difficult to apply it to non-trivial projects. One key factor when applying TDD is the sequence of tests we select to guide our development. In this hands-on session we will explore several heuristics to apply TDD in an effective way."
+  
+  speakers:
+    - name: Nicolas Paez
+      photo: assets/images/speakers/placeholder.png
+      bio: "Nicolas Paez is a software engineering practitioner and professor. He shares his time between the industry and the academia. He teaches Software Engineering at Universidad de Buenos Aires and Universidad Nacional de Tres de Febrero. He has published several articles and a book about Agile Software Development. He has more than 18 years of experience working in the software industry. He has worked as developer, project leader, architect and coach. He currently works as an independent consultant helping teams to improve their software delivery practices."
+
+- date: 2021-10-09
+  start: "13:30"
+  end: "14:30"
+  show: true
+  room: Sala 4
+  title: "Open Space: Comunidade 13"
+  kind: session
+  type: "Open Space"
+  track: "Comunidades"
+  target: ""
+  description: "Em breve maiores detalhes"
+  speakers:
+    - name: Comunidade Y
+      photo: assets/images/speakers/placeholder.png
+      bio: ""     
+
+- date: 2021-10-09
+  start: "13:30"
+  end: "14:30"
+  show: true
+  room: Sala 5
+  title: "Você sabe o propósito do seu cliente ao te escolher?Conheça Fit for Purpose e pare de voar às cegas!"
+  kind: session
+  type: "Apresentação"
+  track: "Produtos e Negócios"
+  target: "Inicial"
+  description: "Quando a gente tem uma ideia para criar um produto, serviço, ou até mesmo um negócio, muitas vezes nos baseamos nas nossas percepções de mundo, baseados nas experiências que tivemos. Apaixonada por ensinar e com quase 30 anos de estrada profissional, imaginei que criaria um produto essencial que pudesse ser útil para muitas pessoas. Só esqueci de um detalhe, saber perguntar, de forma eficaz, como as pessoas se sentiam em relação ao problema que estava disposta a resolver, entendendo melhor seus propósitos. O Fit For Purpose me trouxe uma abordagem mais assertiva,centrada no cliente, trazendo métricas mais adequadas ao cliente, sem esquecer da saúde do negócio. Vamos ver: Uma visão geral do framework, Os componentes, Critérios de adequação, Propósito, Métricas, F4P Cards e Box Score."
+  
+  speakers:
+    - name: Márcia Soares Marques
+      photo: assets/images/speakers/placeholder.png
+      bio: "Atuo há 25 anos na área da TI, e desde 2013 tenho trabalhado no movimento de Transformação Ágil, em iniciativas públicas e sociais, com foco no cidadão. Hoje atuo como Auditora no TCE-RN e ministro treinamentos na Agiliza BR, empresa que fundei em 2020. Possuo mestrado de Ciência, Tecnologia e inovação, pela UFRN, e especialização em Sistemas Distribuídos e Gestão de Projetos pela UFRJ. Acredito que o potencial colaborativo do trabalho em equipe, com foco no cliente, aliado a uma gestão humanizada, podem transformar o mundo e melhorar a qualidade de vida das pessoas."
+
+- date: 2021-10-09
+  start: "14:30"
+  end: "15:30"
+  show: true
+  room: Sala 4
+  title: "Open Space: Comunidade 14"
+  kind: session
+  type: "Open Space"
+  track: "Comunidades"
+  target: ""
+  description: "Em breve maiores detalhes"
+  speakers:
+    - name: Comunidade Y
+      photo: assets/images/speakers/placeholder.png
+      bio: ""
+
+- date: 2021-10-09
+  start: "14:30"
+  end: "15:30"
+  show: true
+  room: Sala 5
+  title: "Acessibilidade e agilidade uma parceria de sucesso"
+  kind: session
+  type: "Apresentação"
+  track: "Práticas De Trabalho"
+  target: "Inicial"
+  description: "Esta é uma palestra que fará com que você entenda onde sua empresa pode ter ganhos de acessibilidade na esteira de desenvolvimento. Vamos te mostrar que existe o conceito de acessibilidade digital e que isto garante uma experiência única para todos os usuários, realizando pequenas mudanças na mentalidade das áreas de Negócios, UX Designer, UI Design, DevOps, Dev´s, Testers etc, todos seus clientes podem se beneficiar."
+  speakers:
+    - name: Maurício Ferreira Pereiro
+      photo: assets/images/speakers/placeholder.png
+      bio: "Graduado em Ciências da Computação, com pós graduação em Gestão de Centrais de Atendimento e em Processos de Negócios. Com 21 anos de atuação profissional, sendo 12 anos no segmento bancário e 9 anos em consultoria. Trabalhando com elicitação de requisitos técnicos, funcionais, negócios e de acessibilidade e com identificação dos processos críticos para empresas. Responsável pela modelagem e execução de testes conforme regras de acessibilidade. Formador de equipe interna e externa com as principais definições de acessibilidade: legislação brasileira e internacional; princípios, padrões e verificações; alguns tipos de tecnologia assistiva; história do W3C, WebAIM, WCAG, ATAG, UAAG e eMAG, entre outros."
+    - name: Flávio Correia
+      photo: assets/images/speakers/placeholder.png
+      bio: "Graduado em Musicoterapia pela Faculdade Paulista de Artes (FPA), pós-graduado em Governança de TI pela UNICAMP e graduando em Administração pela Universidade Estácio de Sá. Atua como analista de acessibilidade digital no Itaú Unibanco num papel que envolve, além dos testes de qualidade dos componentes front-end, a detecção antecipada de problemas de acessibilidade e consultorias a designers, UXers, engenheiros é afins., sempre orientado pelas práticas ágeis. É técnico em Emprego apoiado para inserção de pessoas com deficiência no Mercado de Trabalho e, voluntariamente, faz a gestão do INSEP (Instituto Socioesportivo Paratleta), onde também é instrutor na trilha de “Treinamento para QA em Acessibilidade Digital."
+
+- date: 2021-10-09
+  start: "16:00"
+  end: "18:00"
+  show: true
+  room: Sala 1
+  title: "Fun Kanban"
+  kind: session
+  type: "Mão na Massa"
+  track: "Práticas De Trabalho"
+  target: "Intermediário"
+  description: "Workshop para você que já ouviu falar sobre Kanban mas nunca conseguiu colocar em prática. Nós iremos mostrar de forma lúdica os conceitos importantes para começar usar o kanban hoje e como replicar isso com os times."
+  speakers:
+    - name: Rafael de Oliveira
+      photo: assets/images/speakers/placeholder.png
+      bio: "Olá, sou o Rafael, trabalho na empresa Invillia, onde atuo como Agile Specialist. Sou formado em Ciência da Computação com Pós-graduação em Engenharia de Software e possuo algumas certificações com foco em agilidade. Sou Co-fundador do evento Agile Day Interior e Palestrante na comunidade ágil."
+    - name: Greice Pecorari Vale
+      photo: assets/images/speakers/placeholder.png
+      bio: "Greice Pecorari – Agile Coach no banco BV, certificada em Management 3.0 e Scrum. Após anos trabalhando como Quality Assurance, com formação em MBA em Gestão de Qualidade de Software, resolvi me aventurar no mundo da agilidade e foi onde me encontrei. Apaixonada por agilidade, cultura/transformação organizacional e mudança de mindset. Me desafio diariamente no coaching de parceiros e alunos a entender como a agilidade pode ajudar e potencializar na entrega de valor."
+
+- date: 2021-10-09
+  start: "16:00"
+  end: "18:00"
+  show: true
+  room: Sala 2
+  title: "Ferramentas do Pensamento Sistêmico para Agentes de Mudança"
+  kind: session
+  type: "Mão na Massa"
+  track: "Culturas De Trabalho"
+  target: "Intermediário"
+  description: "Trabalhar com transformação organizacional é lidar com sistemas complexos adaptativos. As muitas escolas do pensamento sistêmico oferecem diferentes abordagens e ferramentas que podem ser úteis para agilistas e agentes de mudança que buscam promover mudanças significativas em suas organizações e times. Nessa sessão vamos explorar alguns conceitos e ferramentas para modelagem e desenho de intervenções e experimentos. Em outras palavras: como paramos de falar sobre mudança de mindset e começar a fazer algo para mudar o sistema?"
+  speakers:
+    - name: Rodrigo Bastos
+      photo: assets/images/speakers/placeholder.png
+      bio: "Rodrigo é facilitador e designer organizacional. Formado em Engenharia de Materiais pela POLI-USP. Atuou por mais de 10 anos na criação e condução de programas que utilizam a educação experiencial como método para desenvolver líderes e equipes. Já foi engenheiro e gestor, hoje Rodrigo é sócio da Target Teal onde ajudou a criar a tecnologia social O2."
+    - name: Ravi Resck
+      photo: assets/images/speakers/placeholder.png
+      bio: "Ravi é um hacktivista social, facilitador, org designer e mapeador de sistemas. Pesquisa metodologias colaborativas e complexidade no contexto organizacional, relacional e ambiental. É parceiro na Target Teal, CollabDesign e Facilita.Social."
+
+- date: 2021-10-09
+  start: "16:00"
+  end: "17:00"
+  show: true
+  room: Sala 3
+  title: "Como integrar código mais frequentemente com Feature Toggle"
+  kind: session
+  type: "Mão na Massa"
+  track: "Mão no Código"
+  target: "Intermediário"
+  description: "Muito se fala em diminuir batch size para diminuir risco de deploys. Muitos esquecem das práticas de engenharia nesse contexto. É preciso resgatar a importância da Integração Contínua nesse contexto – Como garantir que o código de todas pessoas funciona em conjunto? Integração Contínua provê feedback rápido quando há problema. Feature Toggle é uma técnica que faz com que as pessoas desenvolvedoras integrem mais frequentemente, por “esconder” aquela funcionalidade que ainda está incompleta. Venha explorar conosco como implementar features toggles; quais abordagens; seus benefícios e desafios."
+  speakers:
+    - name: Camilla Crispim
+      photo: assets/images/speakers/placeholder.png
+      bio: "Com mais de uma década de experiência na indústria de tecnologia, Camilla faz parte da ThoughtWorks desde 2013. Já foi desenvolvedora, líder técnica, tech account manager, entre outros papéis. Hoje, atua como Diretora de Tecnologia do Mercado Distribuído na ThoughtWorks Brasil, contribuindo com sua profunda experiência em práticas e técnicas ágeis de desenvolvimento e entrega de software. Camilla é integrante do Technology Advisory Board da ThoughtWorks e co-criadora do Technology Radar."
+    - name: Gabriel Barreto
+      photo: assets/images/speakers/placeholder.png
+      bio: "Pernambucano de 31 anos, amante de tecnologia e entusiasta de Metodologias ágeis. Formado em Ciência da Computação (UFPE), atualmente trabalha como consultor em desenvolvimento de software na ThoughtWorks Brasil desde 2015. Gabriel, além de apaixonado por desenvolvimento de software, também advoga pela questão racial e por LGBTs na tecnologia."
+
+- date: 2021-10-09
+  start: "16:00"
+  end: "17:00"
+  show: true
+  room: Sala 4
+  title: "Open Space: Comunidade 15"
+  kind: session
+  type: "Open Space"
+  track: "Comunidades"
+  target: ""
+  description: "Em breve maiores detalhes"
+  speakers:
+    - name: Comunidade Y
+      photo: assets/images/speakers/placeholder.png
+      bio: ""
+
+- date: 2021-10-09
+  start: "16:00"
+  end: "17:00"
+  show: true
+  room: Sala 5
+  title: "Quebrando histórias e ajudando sua previsibilidade"
+  kind: session
+  type: "Apresentação"
+  track: "Práticas De Trabalho"
+  target: "Inicial"
+  description: "Não interessa quanto tempo de experiência você tem com métodos ágeis, você certamente já passou por situações de dificuldades ao ter que passar a previsibilidade de uma entrega a um stakeholder ou cliente. Depois de anos de experiência e diversas tentativas e aprendizados, até hoje eu ainda tenho essa dificuldade em alguns momentos. Mas todas essas falhas me fizeram aprender demais a importância sobre diminuir cada vez mais a variabilidade entre as histórias. Além disso, me fizeram ver que escrever histórias pequenas traz ainda outras vantagens para as entregas e os times. Nessa sessão quero explicar um pouco sobre previsibilidade e variabilidade, trazer luz a importância de ter histórias pequenas e de quebra dar boas dicas e métodos de como fazer essas quebras na prática."
+  speakers:
+    - name: Gustavo Ayres Ferreira
+      photo: assets/images/speakers/placeholder.png
+      bio: "Delivery & Project Manager na ZBRA Soluções, consultoria de software que investe em entregas de qualidade e cultura de aprendizado. Atua no crescimento, apoio estratégico e operacional, buscando a melhoria contínua dos processos de entrega da empresa. Formado em Ciência da Computação pela UNESP, tem experiência no mundo da agilidade desde 2006 atuando desde o desenvolvimento e passando por diferentes papéis em equipes ágeis. Atuou como Gerente de TI, Business Development e Gerente de Desenvolvimento em inovação na Level Up Games, e posteriormente como Consultor Lead na ThoughtWorks. Tem grande experiência no apoio e cultivo de pessoas, construção de times de alta performance e transformação ágil com foco na mudança de mentalidade, usando a entrega de software como direcionador. Em constante atualização, tem uma vasta experiência no processo de entrega e métricas, advogando pelo bom uso destas para que gerem valor, mas focando no equilibrio e bem estar do time. Pai do Eduardo, amante de video-games, quadrinhos, arte e literatura."
+
+- date: 2021-10-09
+  start: "17:00"
+  end: "18:00"
+  show: true
+  room: Sala 3
+  title: "Navegando pela incerteza guiando-se pela Lei de Gall"
+  kind: session
+  type: "Apresentação"
+  track: "Mão no Código"
+  target: "Intermediário"
+  description: "A lei de Gall diz que todo sistema complexo evolui de sistemas mais simples que provaram que funcionam. Deixe-me apresentar uma abordagem de pequenos passos seguros para começar e crescer em complexidade com o seu domínio. Mostrando as pistas, técnicas e ferramentas que podem ajudar neste caminho. Usando como base uma história real, que cresceu de 50 para mais de 2 milhões usuários em um curto espaço de tempo."
+  speakers:
+    - name: Fabricio Nogueira Buzeto
+      photo: assets/images/speakers/placeholder.png
+      bio: "Fabricio has a Ph.D. in Computer Science and is currently CTO at bxblue. Since 2002 have been developing software in distributed teams focused on digital products consulting for both big and small organizations. Amongst its ventures, it can be highlighted Qualcanal (500 Startups) and currently bxblue (Y Combinator), with more than 1 million users in Brazil."
+
+- date: 2021-10-09
+  start: "17:00"
+  end: "18:00"
+  show: true
+  room: Sala 4
+  title: "Open Space: Comunidade 16"
+  kind: session
+  type: "Open Space"
+  track: "Comunidades"
+  target: ""
+  description: "Em breve maiores detalhes"
+  speakers:
+    - name: Comunidade Y
+      photo: assets/images/speakers/placeholder.png
+      bio: ""
+
+- date: 2021-10-09
+  start: "17:00"
+  end: "17:30"
+  show: true
+  room: Sala 5
+  title: "Previsibilidade na prática"
+  kind: session
+  type: "Apresentação"
+  track: "Práticas De Trabalho"
+  target: "Inicial"
+  description: "Vamos observar como utilizar previsões para discutir datas de entrega de projetos e, a partir destas previsões, tomar decisões informadas diante de cenários incertos. A teoria estará ancorada à prática, com o estudo de caso de um time de desenvolvimento, no qual vamos observar também como a implementação de práticas Kanban e de agilidade técnica tornaram as métricas do time mais consistentes, consequentemente permitindo o uso de ferramentas mais robustas de previsibilidade."
+  speakers:
+    - name: Déborah Lage Alvarenga
+      photo: assets/images/speakers/placeholder.png
+      bio: "Líder de consultoria e Agile Coach pela Arkhi Business Agility, busca trazer agilidade de negócio para empresas por meio de práticas de gestão modernas, utilizando principalmente o Kanban, sendo certificada pela Kanban University como Kanban Management Professional."
+
+- date: 2021-10-09
+  start: "17:30"
+  end: "18:00"
+  show: true
+  room: Sala 5
+  title: "Trunk Based Development"
+  kind: session
+  type: "Apresentação"
+  track: "Mão no Código"
+  target: "Intermediário"
+  description: "Fazer os pushes dos commits diretamente na mainline traz benefícios para o time, ainda que traga junto uma certa dose de risco. Vamos conversar um pouco sobre as vantagens de usar essa abordagem, possíveis problemas – com sugestões de tratamento – e entender como um time de desenvolvimento pode se beneficiar com essa prática."
+  speakers:
+    - name: Thiago Palma
+      photo: assets/images/speakers/placeholder.png
+      bio: "Formado em Engenharia de Computação Unicamp, 19 anos no mercado de TI; trabalhei na Petrobras de 2008-2016, quando me muito a estudo e aplicação de métodos ágeis, com foco em desenvolvimento (qualidade de código, cobertura de testes e modelagem ágil, principalmente) e algumas questões de gestão (retrospectivas, estimativas).Desde 2016 sou consultor de desenvolvimento de software Sr na Thoughtworks, onde tenho desempenhado o papel de desenvolvedor em time ágil e também o de divulgar e consolidar a cultura de desenvolvimento seguro."
+
+- date: 2021-10-06
+  start: "18:00"
+  end: "22:00"
+  title: Encerramento
+  kind: alert
+  show: true
+  speakers: []

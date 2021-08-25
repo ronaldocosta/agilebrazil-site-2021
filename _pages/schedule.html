@@ -18,7 +18,7 @@ permalink: /schedule
                 <div class="elementor-schedules-wrapper schedules-style-2">
                   <div class="row" data-elementor-columns="1">
                     {% assign dates = site.data.sessions | map: "date" | uniq | sort %}
-                    {% assign weekday = "Terça-feira Quarta-feira Quinta-feira Sexta-feira Sábado" | split: " " %}
+                    {% assign weekday = "Segunda-Feira Terça-feira Quarta-feira Quinta-feira Sexta-feira Sábado Domingo" | split: " " %}
                     {% for date in dates %}
                       <div class="column-item">
                         <div class="elementor-schedules-item">
