@@ -1,0 +1,7 @@
+{%- if speaker.photo -%}
+  {{- speaker.photo -}}
+{%- elsif speaker.email -%}
+  {{- speaker.email | to_gravatar | append: "?s=600" -}}
+{%- else -%}
+  assets/images/speakers/placeholder.png
+{%- endif -%}

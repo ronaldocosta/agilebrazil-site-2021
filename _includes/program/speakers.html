@@ -37,7 +37,7 @@
                           <article class="column-item">
                             <div class="speaker-item">
                               <div class="speaker-image">
-                                <img width="600" height="660" src="{{ speaker.photo }}" class="attachment-post-thumbnail size-post-thumbnail wp-post-image ls-is-cached lazyloaded" alt="" loading="lazy">
+                                <img width="600" height="660" src="{% include gravatar.html speaker=speaker %}" class="attachment-post-thumbnail size-post-thumbnail wp-post-image ls-is-cached lazyloaded" alt="" loading="lazy">
                               </div>
                               <div class="speaker-details">
                                 <h3 class="speaker-name"><a>{{ speaker.name }}</a></h3>

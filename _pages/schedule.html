@@ -77,7 +77,7 @@ permalink: /schedule
                                       <div class="item-image-wrapper">
                                         {% for speaker in session.speakers %}
                                           <div class="item-image tooltipster-wrap tooltipstered">
-                                            <a href="#"><img width="150" height="150" src="{{speaker.photo}}" class="attachment-thumbnail size-thumbnail wp-post-image ls-is-cached lazyloaded" alt="" loading="lazy"></a>
+                                            <a href="#"><img width="150" height="150" src="{% include gravatar.html speaker=speaker %}" class="attachment-thumbnail size-thumbnail wp-post-image ls-is-cached lazyloaded" alt="" loading="lazy"></a>
                                           </div>
                                         {% endfor %}
                                       </div>

@@ -54,6 +54,7 @@ sass:
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-gravatar
 
 include:
   - _pages
