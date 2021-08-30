@@ -40,6 +40,7 @@
                 Serão apresentados casos envolvendo a criação de um novo negócio entre empresas, o crescimento de startups já em funcionamento e a criação de startups em grandes corporações, destacando-se os modelos de negócios adotados e explorando suas potencialidades, dificuldades enfrentadas e alternativas de solução."
   speakers:
     - name: Eduardo Meira Peres
+      email: eduardop@dbserver.com.br
       bio: "Sou co-CEO na DBServer e professor na PUCRS. Para fazer a coisa certa, do jeito certo, atuo em projetos de inovação usando Design Thinking, Lean Startup e Métodos Ágeis. 
             Procuro compartilhar o que aprendo, no Agile Brazil tenho palestrado desde 2012 e participei algumas vezes do time de avaliação."
 
@@ -57,10 +58,12 @@
                 Considerando esse cenário, desde o ano passado, o time do Jurídico no Nubank vem dando passos na direção da agilidade. Venha conhecer o caminho que trilhamos até agora, como quebramos silos e deixamos o trabalho mais visível, em busca da eficiência, de maior cooperação entre a equipe e do desenvolvimento da carreira dos integrantes do time."
   speakers:
     - name: Ceci Fernandes
+      email: luna.bd@gmail.com
       bio: "Motivada por enxergar melhoria acontecendo e generalista de coração, Ceci já trabalhou com todo o espectro da agilidade: desde agile coaching e gestão de times e indivíduos até entrega de valor através da produção de código e automatização de tarefas.
             Co-autora de treinamentos de agilidade da Caelum, board member da Agile Alliance Brazil, líder do capítulo de Agilidade no Nubank desde sua criação, ela faz questão de se envolver com comunidades e busca melhorar suas habilidades todos os dias, através de prática deliberada do que ela acredita que precisa, mais urgentemente, ser melhorado.
             Ceci palestra desde 2010, já apresentou sessões em eventos relevantes como a Agile Brazil, QCon, Agile Conference, Caipira Ágil, entre muitos outros."
     - name: Nathália Pais Ferreira
+      email: nathalia.pais@nubank.com.br
       bio: "Nathália Pais Ferreira, Belo-Horizontina morando em São Paulo há 4 anos. Graduada em Direito e pós-graduada em Direito de Empresa pela PUC Minas. Atualmente atua como 
             advogada no Nubank, eleita uma das empresas mais inovadoras do mundo segundo a revista americana Time em 2021. Atuou na Creditas também como advogada de 2017 a 2020, 
             também considerada uma das fintechs mais inovadoras do mundo segundo o ranking da KPMG em 2020. Entusiasta de direito digital, legal thinking e visual law."
@@ -81,6 +84,7 @@
                 Nesta palestra, trago 7 dicas práticas de como evoluir a performance da sua Lean Inception."
   speakers:
     - name: Fábio Trierveiler
+      email: fabiotr@gmail.com
       bio: "Gerente de Transformação Digital Lean no Lean Institute Brasil, atua com desenvolvimento ágil de software desde 2008. Possui experiência em empresas de diversos portes e 
             segmentos, especialmente na área de tecnologia, utilizando-se de diversas práticas como lean, agilidade, coaching, design thinking, management 3.0. Já foi desenvolvedor, 
             QA de software mobile, analista de qualidade e processos, scrum master, enterprise agile coach e lean-agile leader, além de atuar também como professor dos MBAs em Gestão 
@@ -103,6 +107,7 @@
                 Nessa palestra falaremos como a desobediência organizacional pode se extremamente útil e a importância dos rebeldes com causa nas transformações que queremos ver dentro das empresas."
   speakers:
     - name: Maíra Blasi
+      email: blasimaira@gmail.com
       bio: "Maíra Blasi acredita em formas mais horizontais e evolutivas de trabalho. É Consultora, Professora e Palestrante. Possui mais de 15 anos de uma carreira desenvolvida em Marketing e Transformação Digital, em empresas como Itaú, TIM, Pagseguro e GetNinjas.
             Professora e palestrante de Agilidade na Sputnik, Perestroika e TERA, com passagens em empresas como Boticário, Rede Globo, Ifood, etc. Já palestrou em eventos como The Developers Conference BH e SP, Agile BR e Agile Trends.
             Mentora de executivos e profissionais de empresas como BR Malls, Ford e Buzzfeed. Possui MBA em Marketing pela Universidade Federal Fluminense e é especializada em Comunicação Não Violenta pela Fundação Escola de Sociologia e Política de São Paulo.
@@ -119,18 +124,12 @@
   type: "Apresentação"
   track: "Práticas de Trabalho"
   target: "Intermediário"
-  description: "Diferente de contextos de novos produtos, a missão foi trabalhar agilidade em contexto de sistemas legados, com mais de 20 anos de operação, na Amaggi multinacional 
-                brasileira do Agronegócio e a 9ª maior exportadora do Brasil. Aqui contarei como desenhamos a estratégia baseada na agilidade para sairmos de um pântano de bugs em 
-                produção com o objetivo de estabilizar a operação, ao mesmo tempo desenvolvendo novas features para atender as necessidades do negócio e criamos capacidade para 
-                implementar novos produtos baseado em nova arquitetura, tudo isso com o mesmo time e sem investimento e financeiro, apenas investindo em cultura, autonomia e 
-                remodelando processos burocráticos."
+  description: "Diferente de contextos de novos produtos, a missão foi trabalhar agilidade em contexto de sistemas legados, com mais de 20 anos de operação, na Amaggi multinacional brasileira do Agronegócio e a 9ª maior exportadora do Brasil. Aqui contarei como desenhamos a estratégia baseada na agilidade para sairmos de um pântano de bugs em produção com o objetivo de estabilizar a operação, ao mesmo tempo desenvolvendo novas features para atender as necessidades do negócio e criamos capacidade para implementar novos produtos baseado em nova arquitetura, tudo isso com o mesmo time e sem investimento e financeiro, apenas investindo em cultura, autonomia e remodelando processos burocráticos."
   speakers:
     - name: Aryadnne Zanatta
+      email: aryadnnezanatta@hotmail.com
       bio: "Pablo Picasso said, “inspiration exists, but it has to find you working.”
-            Tenho 14 anos de experiência na área de tecnologia como líder de equipes de implantação de projetos afim de garantir a melhoria de processos de trabalho, nos últimos 5 anos tenho me dedicado ao estudo, aperfeiçoamento e aplicação da cultura ágil, destes atuei 2 anos como Agile Coach fazendo processo de mentoria com os gestores
-            e treinei 8 times da área de TI. Hoje atuo como gestora da área de desenvolvimento de sistemas e começamos a passar pelo processo de transformação de uma TI legada para uma TI “moderna” na Amaggi Exportação e Importação – Uma multinacional brasileira do agronegócio.
-            Tenho experiência com os métodos: Scrum, Kanban, Design Sprint e Nexus. Além de atuar dentro a organização promovo treinamentos sobre práticas ágeis para publico externo e presto consultoria para algumas empresas.
-            Sou organizadora das comunidades: DevMT – que possui mais de mil membros, sou uma das líderes da comunidade local Women Techmakers http://gxgbrasil.github.io/wtmbr/, e fundadora da comunidade AgileMT.
+            Tenho 14 anos de experiência na área de tecnologia como líder de equipes de implantação de projetos afim de garantir a melhoria de processos de trabalho, nos últimos 5 anos tenho me dedicado ao estudo, aperfeiçoamento e aplicação da cultura ágil, destes atuei 2 anos como Agile Coach fazendo processo de mentoria com os gestores e treinei 8 times da área de TI. Hoje atuo como gestora da área de desenvolvimento de sistemas e começamos a passar pelo processo de transformação de uma TI legada para uma TI “moderna” na Amaggi Exportação e Importação – Uma multinacional brasileira do agronegócio. Tenho experiência com os métodos: Scrum, Kanban, Design Sprint e Nexus. Além de atuar dentro a organização promovo treinamentos sobre práticas ágeis para publico externo e presto consultoria para algumas empresas. Sou organizadora das comunidades: DevMT – que possui mais de mil membros, sou uma das líderes da comunidade local Women Techmakers http://gxgbrasil.github.io/wtmbr/, e fundadora da comunidade AgileMT.
             Sou certificada pela CTFL – ISTQB – International Software Testing Qualification, e Scrum Master Certified Credential – ScrumStudy Certificação.
             *Empreendedora por natureza
             *Agilista
@@ -152,11 +151,10 @@
                 Por isso, nesta palestra faremos uma reflexão sobre a quarta década da agilidade. Vamos refletir sobre o quanto evoluímos, iniciando 10 anos antes da publicação do Manifesto Ágil e sobre os desafios que temos para os próximos dez anos, focados na agilidade estratégica, ou agilidade de negócios."
   speakers:
     - name: Rafael Prikladnicki
-      bio: "Professor da Faculdade de Informática da PUCRS desde 2004, com doutorado (2009) e mestrado (2003) em Ciência da Computação pela PUCRS. Atua na coordenação do Grupo de 
-            Usuários de Métodos Ágeis do RS (GUMA-RS). Foi coordenador geral da Agile Brazil 2010 e membro da equipe de organização do evento por diversos anos. Ajudou a fundar a Agile
-            Alliance Brazil (AAB) em 2013 e foi membro do board da AAB de 2013 a 2017. Foi track chair da Agile Conference 2015, 2016, 2017, 2018 e 2019. Um dos editores do livro
-            Metodologias Ágeis para Desenvolvimento de Software, publicado em 2014 pela editora Bookman."   
+      email: rafael.prikladnicki@gmail.com
+      bio: "Professor da Faculdade de Informática da PUCRS desde 2004, com doutorado (2009) e mestrado (2003) em Ciência da Computação pela PUCRS. Atua na coordenação do Grupo de Usuários de Métodos Ágeis do RS (GUMA-RS). Foi coordenador geral da Agile Brazil 2010 e membro da equipe de organização do evento por diversos anos. Ajudou a fundar a Agile Alliance Brazil (AAB) em 2013 e foi membro do board da AAB de 2013 a 2017. Foi track chair da Agile Conference 2015, 2016, 2017, 2018 e 2019. Um dos editores do livro Metodologias Ágeis para Desenvolvimento de Software, publicado em 2014 pela editora Bookman."   
     - name: Mateus Piveta
+      email: mkpiveta@gmail.com
       bio: "Consultor, palestrante e instrutor.
             É especialista em Marketing Estratégico, com mais de 10 anos de experiência em comunicação e planejamento empresarial. Começou como empreendedor a frente de duas 
             empresas no setor de eventos e gastronomia, migrando para grandes agências de propaganda e o maior veículo de comunicação do RS.
@@ -181,9 +179,11 @@
   
   speakers:
     - name: Samir Bravo
+      email: sambravo@gmail.com
       bio: "Radialista, nerd, geek, pai do Miguel e da Lívia, viciado em boardgames, hoje estou Agility Lead no willbank. Atuo com agilidade e participo da comunidade a mais ou menos 4 anos. Atualmente sonho com menos discussões sobre e frameworks e mais discussões sobre como solucionar problemas."
             
     - name: Beatriz Sena
+      email: beatrizsenaarruda@gmail.com
       bio: "Técnica em Redes de Computadores pelo Senai e Bacharel em Sistemas de informação pela Universidade Federal de Pernambuco. Iniciei minha jornada profissional como desenvolvedora, onde tive a oportunidade de trabalhar com idealização de produtos e gerenciamento ágil de projetos.
             Há pouco mais de 2 anos comecei a trilhar meu caminho no mundo da agilidade e hoje sou membro da equipe de Agilidade da Easynvest by Nubank onde conduzo equipes especializadas e multifuncionais, adotando metodologias como Scrum, Kanban e Lean.
             Durante essa jornada na agilidade participei de alguns cursos/certificações como Software Zen, Workshop de Métricas Ágeis, Técnicas Ágeis de Facilitação e KMP1.
@@ -222,6 +222,7 @@
                 propósito, a visão de serviços e fluxo unificado emergiu e a maturidade da organização escalou além dos níveis de times (KMM ML2 e ML3)."
   speakers:
     - name: Marco Mendes
+      email: corelio@gmail.com
       bio: "Iremos apresentar nessa sessão o fator crítico para escalar a agilidade de negócio na sua organização – a produtividade relacional. Você irá conhecer dois casos reais. 
             No primeiro (fracasso) as lideranças são tribais, a colaboração é baixa e a obsessão por Squads eclipsou a visão de serviços, cliente e propósito. A consequência é que 
             a agilidade foi escalada em nível de times apenas (KMM ML1) e lá permaneceu. No segundo (sucesso) as lideranças exibiram mentalidade de contribuição, orientação por 
@@ -285,6 +286,7 @@
                 Nesse cenário, promover a propriedade coletiva é uma solução a esses diversos problemas e nessa talk irei detalhar a fundamentação desse tema e como aplicar no dia a dia."
   speakers:
     - name: Wagner Fusca Voltz
+      email: wagnerfusca@gmail.com
       bio: "Desenvolvo sistemas a mais de 15 anos e nesta caminhada aprendi muito com meus erros (independente de linguagem de programação e modelo de trabalho).
             A minha insatisfação por errar me fez buscar mais conhecimento. Percebi o quanto programar pode ser uma atividade prazerosa se você trilhar os caminhos corretos e ouvir conselhos dos mais experientes. Aprendi experimentar coisas novas e entender o que pode ser bom para determinadas situações. E percebi que práticas ágeis me deixavam mais feliz pois percebi a importância de valorizar indivíduos e as interações mais que processos e ferramentas. Ainda estou aprendendo, mas como é bom olhar para trás e não ser o mesmo de 15 anos atrás.
             Atuo com agilidade desde 2012 e sou um dos organizadores do Maringá Agile Meetup
@@ -305,6 +307,7 @@
                 Sabemos que o Ecossistema de pagamentos Pix trouxe um grande desafio para as fintechs e bancos e iremos mostrar como conseguimos contornar o desafio de trabalhar com métodos ágeis, mesmo possuindo um contrato com o cliente e suas cobranças totalmente voltados ao processo cascata. Iremos tratar como conseguimos conscientizar o cliente de que a forma de contratação não conseguiria acompanhar o dinamismo esperado pelo BACEN e quais foram as experiências vividas até hoje com as evoluções constantes do Pix."
   speakers:
     - name: Paula Daniele de Oliveira Moreira
+      email: paula.moreira@vibetecnologia.com
       bio: "Mestre em Ciências da Computação (UFPA) possuo 9 anos de experiência em desenvolvimento e 3 anos de experiência com métodos ágeis. Sou Gerente de TI das soluções de internet banking de uma instituição financeira. A filosofia Lean Thinking e as melhorias pequenas e continuas (Kaizen) me inspiram."     
             
 - date: 2021-10-06
@@ -323,6 +326,7 @@
                 Nesta palestra, vamos discutir sobre a disciplina de análise de código, mais do que necessária para qualquer pessoa desenvolvedora, com qualquer tempo de experiência e nível de conhecimento. Vamos discutir também sobre a jornada de análise de código, habilidades, práticas e ferramentas podem ajudar neste processo."
   speakers:
     - name: Guilherme Lacerda
+      email: guilhermeslacerda@gmail.com
       bio: "Mentor (Wildtech), Software Engineering Lead (Umbler) e Professor Universitário (Unisinos)
             Doutorando em Ciência da Computação (UFRGS), na área de Engenharia de Software
             Palestrante, escritor (Livro de XP, Casa do Código) e autor do DR-Tools Suite (drtools.site)
@@ -341,6 +345,7 @@
   description: "Fui gerente de uma equipe hospitalar desde outubro de 2019 até maio de 2021, e por estudar metodologias ágeis decidi fazer a gestão da equipe usando práticas de Scrum e Kanban, que não são comumente encontradas na área da saúde. Em março de 2020 a pandemia de Covid-19 iniciou no Brasil e com a ajuda da agilidade conseguimos adaptar processos e viver momentos onde a transparência, inspeção e adaptação fizeram total diferença na condução do time, que atualmente tem todos as cerimônias Scrum implantadas, além de algumas métricas de Kanban e uma pincelada de Management 3.0."
   speakers:
     - name: Thaís Eliana Carvalho Lima
+      email: thais.consultri@gmail.com
       bio: "Sou a Thaís Lima, agilista na GFT Brasil. Apaixonada por agilidade, pessoas e suas interações, fiz recentemente uma transição de carreira da área da saúde para a TI (atuei por 11 anos em grandes hospitais de São Paulo). Meu sonho é influenciar pessoas a utilizarem a agilidade nos mais diversos ambientes e contextos, incentivando relações trabalhistas mais colaborativas e humanas."     
 
 - date: 2021-10-06
@@ -358,6 +363,7 @@
                 Esperamos que você possa se inspirar e considerar o Team Topologies como referência para sua estrutura de times."
   speakers:
     - name: Caco - Cleiton Mafra
+      email: cleitonmafra@gmail.com
       bio: "Enterprise Agile Coach na Resultados Digitais, atua junto aos times de Engenharia e Produto e conectando com a estratégia da empresa. A Resultados Digitais (RDStation) tem um cenário de alta tecnologia e um crescimento acelerado, além disso, está entre as maiores empresas de marketing Digital do Mundo e está presente em mais de 20 países
             Caco é especialista no método Kanban, já treinou mais de 600 pessoas no Método Kanban e ajudou mais de 80 times a adotar o método.
             Como Agile Coach ajuda empresas de tecnologia a terem sucesso, resultados de longo prazo e equipes de alta performance.
@@ -367,6 +373,7 @@
             Todas as minhas palestras estão disponíveis no slideshare https://pt.slideshare.net/cleitonmafra"     
             
     - name: Juliemar Berri
+      email: juliemar.berri@gmail.com
       bio: "MBA em Gestão estratégica em TI pela FGV, Com mais de 10 anos de experiência em diferentes papeis no ciclo de entrega de software, tive a oportunidade de vivenciar a transformação de processos convencionais para a agilidade. Hoje sou coordenador dos times 100% remotos que estão construindo a plataforma de dados da Resultados Digitais."     
                 
 - date: 2021-10-06
@@ -375,60 +382,20 @@
   show: true
   room: Sala 2
   title: "Criando um chapter de agilidade... ou três!"
+  kind: session
+  type: "Apresentação"
+  track: "Relatos de Experiência"
+  target: "Intermediário"
+  description: "No último ano, o Nubank ganhou um novo chapter, de agilistas, vindos majoritariamente da PlataformaTec. Montar um chapter funcional, em um novo contexto e em um domínio complicado e altamente mutável foi e tem sido um desafio. Alguns anos antes, a Easynvest também passou por esse processo — e tomou decisões diferentes a respeito da formação do seu próprio chapter de agilistas. Nessa palestra 2 em 1, contaremos as histórias e aprendizados de ambas as jornadas. De bônus contaremos o que aprendemos ao juntar esses chapters, conforme Easy e Nu também se unem!"
   speakers:
-    - name: Thaís Eliana Carvalho Lima
-      bio: "Sou a Thaís Lima, agilista na GFT Brasil. Apaixonada por agilidade, pessoas e suas interações, fiz recentemente uma transição de carreira da área da saúde para a TI (atuei por 11 anos em grandes hospitais de São Paulo). Meu sonho é influenciar pessoas a utilizarem a agilidade nos mais diversos ambientes e contextos, incentivando relações trabalhistas mais colaborativas e humanas."     
+    - name: Ceci Fernandes
+      email: luna.bd@gmail.com
+      bio: "Motivada por enxergar melhoria acontecendo e generalista de coração, Ceci já trabalhou com todo o espectro da agilidade: desde agile coaching e gestão de times e indivíduos até entrega de valor através da produção de código e automatização de tarefas. Co-autora de treinamentos de agilidade da Caelum, board member da Agile Alliance Brazil, líder do capítulo de Agilidade no Nubank desde sua criação, ela faz questão de se envolver com comunidades e busca melhorar suas habilidades todos os dias, através de prática deliberada do que ela acredita que precisa, mais urgentemente, ser melhorado. Ceci palestra desde 2010, já apresentou sessões em eventos relevantes como a Agile Brazil, QCon, Agile Conference, Caipira Ágil, entre muitos outros."
+    - name: Thiago Soares
+      email: sousa.thiago.s@outlook.com
+      bio: "Formado em Análise de Sistemas pela Faculdade Impacta de Tecnologia, trabalha com agilidade em desenvolvimento de software desde 2012. Experiente em facilitação, formação de times e adoção de métodos e práticas ágeis em grandes organizações, ainda é um jovem padawan quando o assunto é envolvimento com a comunidade, contudo, busca expandir e aprimorar sua contribuição." 
      
 - date: 2021-10-06
-  start: "16:00"
-  end: "17:00"
-  show: true
-  room: Sala 1
-  title: "Inove na estrutura dos times - Um case prático da RDStation que vai além de tribos e squads"
-  kind: session
-  type: "Apresentação"
-  track: "Culturas de Trabalho"
-  target: "Intermediário"
-  description: "Se você sente que na sua empresa há dificuldade de alinhamento das equipes, sente que as equipes têm muitos canais de comunicação, há sentimento generalizado de que as decisões demoram e você está a procura de opções para resolver esses problemas, então esta palestra é para você!
-                Nós da RDStation, uma startup com 10 anos de crescimento acelerado, já passamos por algumas formações de times, no final de 2020 aplicamos na prática os conceitos do livro Team Topologies e Domain Driven Design para reorganizar a estrutura do time de Produto e Engenharia.
-                Esperamos que você possa se inspirar e considerar o Team Topologies como referência para sua estrutura de times."
-  speakers:
-    - name: Caco - Cleiton Mafra
-      bio: "Enterprise Agile Coach na Resultados Digitais, atua junto aos times de Engenharia e Produto e conectando com a estratégia da empresa. A Resultados Digitais (RDStation) tem um cenário de alta tecnologia e um crescimento acelerado, além disso, está entre as maiores empresas de marketing Digital do Mundo e está presente em mais de 20 países
-            Caco é especialista no método Kanban, já treinou mais de 600 pessoas no Método Kanban e ajudou mais de 80 times a adotar o método.
-            Como Agile Coach ajuda empresas de tecnologia a terem sucesso, resultados de longo prazo e equipes de alta performance.
-            Histórico de palestras:
-            No ano de 2017 realizou 15 palestras em eventos pelos Brasil como Agile Trends, TDC Floripa, TDC SP, Lean Kanban Brazil, TDC Porto Alegre e outros eventos menores.
-            Neste ano de 2018, já palestrou no Agile Trends e TDC Floripa, Scrum Rio, Agile Brazil, Lean Kanban e Agile Floripa.
-            Todas as minhas palestras estão disponíveis no slideshare https://pt.slideshare.net/cleitonmafra"     
-            
-    - name: Juliemar Berri
-      bio: "MBA em Gestão estratégica em TI pela FGV, Com mais de 10 anos de experiência em diferentes papeis no ciclo de entrega de software, tive a oportunidade de vivenciar a transformação de processos convencionais para a agilidade. Hoje sou coordenador dos times 100% remotos que estão construindo a plataforma de dados da Resultados Digitais."     
-                
-- date: 2021-10-06
-  start: "16:00"
-  end: "17:00"
-  show: true
-  room: Sala 2
-  title: "Criando um chapter de agilidade... ou três!"
-  kind: session
-  type: "Apresentação"
-  track: "Relatos de Experiência"
-  target: "Intermediário"
-  description: "No último ano, o Nubank ganhou um novo chapter, de agilistas, vindos majoritariamente da PlataformaTec. Montar um chapter funcional, em um novo contexto e em um domínio complicado e altamente mutável foi e tem sido um desafio.
-                Alguns anos antes, a Easynvest também passou por esse processo — e tomou decisões diferentes a respeito da formação do seu próprio chapter de agilistas.
-                Nessa palestra 2 em 1, contaremos as histórias e aprendizados de ambas as jornadas. De bônus contaremos o que aprendemos ao juntar esses chapters, conforme Easy e Nu também se unem!"
-  speakers:
-    - name: Ceci Fernandes
-      bio: "Motivada por enxergar melhoria acontecendo e generalista de coração, Ceci já trabalhou com todo o espectro da agilidade: desde agile coaching e gestão de times e indivíduos até entrega de valor através da produção de código e automatização de tarefas.
-            Co-autora de treinamentos de agilidade da Caelum, board member da Agile Alliance Brazil, líder do capítulo de Agilidade no Nubank desde sua criação, ela faz questão de se envolver com comunidades e busca melhorar suas habilidades todos os dias, através de prática deliberada do que ela acredita que precisa, mais urgentemente, ser melhorado.
-            Ceci palestra desde 2010, já apresentou sessões em eventos relevantes como a Agile Brazil, QCon, Agile Conference, Caipira Ágil, entre muitos outros."     
-            
-    - name: Thiago Soares
-      bio: "Formado em Análise de Sistemas pela Faculdade Impacta de Tecnologia, trabalha com agilidade em desenvolvimento de software desde 2012. Experiente em facilitação, formação de times e adoção de métodos e práticas ágeis em grandes organizações, ainda é um jovem padawan quando o assunto é envolvimento com a comunidade, contudo, busca expandir e aprimorar sua contribuição."     
-
-
-- date: 2021-10-06
   start: "17:00"
   end: "18:00"
   show: true
@@ -443,46 +410,7 @@
                 O objetivo é compartilhar a experiência de alinhar, acompanhar e renovar as expectativas ao longo do tempo de vida dos projetos, e os impactos nas entregas e nas pessoas."
   speakers:          
     - name: Marcely Santos
-      bio: "No mercado desde 1999 trabalhando com produtos digitais e agilidade desde 2007 sendo uma experimentadora e disseminadora da cultura, apoiando pessoas e Organizações a passarem por seu processo de transformação em busca de uma relação mais humana, colaboração, efetividade e um trabalho mais enxuto."     
-                
-- date: 2021-10-06
-  start: "17:00"
-  end: "17:30"
-  show: true
-  room: Sala 2
-  title: "Como aumentamos a produtividade dos times fazendo trabalharem menos com Kanban e XP"
-  kind: session
-  type: "Apresentação"
-  track: "Relatos de Experiência"
-  target: "Intermediário"
-  description: "No último ano, o Nubank ganhou um novo chapter, de agilistas, vindos majoritariamente da PlataformaTec. Montar um chapter funcional, em um novo contexto e em um domínio complicado e altamente mutável foi e tem sido um desafio.
-                Alguns anos antes, a Easynvest também passou por esse processo — e tomou decisões diferentes a respeito da formação do seu próprio chapter de agilistas.
-                Nessa palestra 2 em 1, contaremos as histórias e aprendizados de ambas as jornadas. De bônus contaremos o que aprendemos ao juntar esses chapters, conforme Easy e Nu também se unem!"
-  speakers:
-    - name: Ceci Fernandes
-      bio: "Motivada por enxergar melhoria acontecendo e generalista de coração, Ceci já trabalhou com todo o espectro da agilidade: desde agile coaching e gestão de times e indivíduos até entrega de valor através da produção de código e automatização de tarefas.
-            Co-autora de treinamentos de agilidade da Caelum, board member da Agile Alliance Brazil, líder do capítulo de Agilidade no Nubank desde sua criação, ela faz questão de se envolver com comunidades e busca melhorar suas habilidades todos os dias, através de prática deliberada do que ela acredita que precisa, mais urgentemente, ser melhorado.
-            Ceci palestra desde 2010, já apresentou sessões em eventos relevantes como a Agile Brazil, QCon, Agile Conference, Caipira Ágil, entre muitos outros."     
-            
-    - name: Thiago Soares
-      bio: "Formado em Análise de Sistemas pela Faculdade Impacta de Tecnologia, trabalha com agilidade em desenvolvimento de software desde 2012. Experiente em facilitação, formação de times e adoção de métodos e práticas ágeis em grandes organizações, ainda é um jovem padawan quando o assunto é envolvimento com a comunidade, contudo, busca expandir e aprimorar sua contribuição."     
-
-
-- date: 2021-10-06
-  start: "17:00"
-  end: "18:00"
-  show: true
-  room: Sala 1
-  title: "Alinhamento de Expectativas para uma cadência de entregas eficazes e pessoas felizes"
-  kind: session
-  type: "Apresentação"
-  track: "Culturas de Trabalho"
-  target: "Inicial"
-  description: "Liderando equipes de desenvolvimento de produtos digitais por vários anos, percebe-se a importância de ter o alinhamento de expectativas em três dimensões: Equipe, Cliente e Organização.
-                As pessoas gestoras possuem como responsabilidade cuidar das entregas dos projetos, da satisfação do cliente, satisfação e jornada profissional das pessoas do time no decorrer do projeto. Para que isso ocorra de forma efetiva na organização, o alinhamento de expectativas é feito de forma intencional para atender essas responsabilidades.
-                O objetivo é compartilhar a experiência de alinhar, acompanhar e renovar as expectativas ao longo do tempo de vida dos projetos, e os impactos nas entregas e nas pessoas."
-  speakers:          
-    - name: Marcely Santos
+      email: marcely@gmail.com
       bio: "No mercado desde 1999 trabalhando com produtos digitais e agilidade desde 2007 sendo uma experimentadora e disseminadora da cultura, apoiando pessoas e Organizações a passarem por seu processo de transformação em busca de uma relação mais humana, colaboração, efetividade e um trabalho mais enxuto."     
                 
 - date: 2021-10-06
@@ -500,6 +428,7 @@
                 A prática que trouxemos para dentro da Organização nos auxiliou na tomada de decisões, no aumento da garantia de confiança da qualidade de produto, na redução de bugs em produção, e principalmente, em como isso se tornou amplo dentro dos times melhorando o Time-to-Market e a satisfação do cliente."
   speakers:
     - name: André Luiz Pinheiro de Oliveira
+      email: andrelpinheiro@gmail.com
       bio: "Apaixonado pela agilidade desde 2009 quando tive minha primeira experiência como Scrum Master. Fui Agile Coach e hoje atuo como Service Delivery Manager da Capgemini na transformação digital do McDonalds (Comam BigMac). Fui desenvolvedor por muitos anos, 15 anos escovando bits, analisando requisitos e 5 anos como gerente de Projetos tradicional. Atualmente me considero um Agente de transformação ágil e engajador de times pois eu os ajudo a alcançar performance de alta previsibilidade através do empoderamento e trabalho de coach nas habilidades individuais e de time."     
 
 - date: 2021-10-06
@@ -515,9 +444,9 @@
   description: "A reunião diária é um evento muito simples, mas com um poder sistêmico gigantesco, e aos longos dos anos presenciei (e participei) de muitas reuniões diárias com vários problemas, como reuniões que só serviam como “status report”, que não coordenavam o trabalho, e que as pessoas até abandonavam a prática por não enxergar valor. Com o passar dos anos fui experimentando e aprendendo sobre como evitar as disfunções e atualmente trabalho em um time (Segmento Financeiro – Portal de chargeback) que é um grande case de como podemos aproveitar o máximo do encontro diário. Irei apresentar como a reunião é conduzida nesse time e quais são as melhores práticas que podemos experimentar para nos livrar das disfunções."
   speakers:
     - name: Felipe Oliveira
+      email: fsoliveira91@gmail.com
       bio: "Graduado em engenharia com MBA em gestão de projetos, com mais de 12 anos de experiência em T.I. Atua com metodologias ágeis há 7 anos, apaixonado por inovação. Com experiencia internacional, já trabalhou em diversos segmentos, como em consutorias, construtora, banco, telefonia e adquirencias.
             Participa da comunidades em meetups/eventos e conduzindo palestras nas empresas que atua."     
-            
             
 - date: 2021-10-06
   start: "18:00"
@@ -576,7 +505,6 @@
       photo: assets/images/speakers/sandra-davila.jpg
       bio: "Sandra Avila é professora no Instituto de Computação, da Universidade Estadual de Campinas, desde 2017. É doutora em Ciência da Computação, com duplo diploma, pela UFMG e pela Sorbonne Université, em 2013. Suas pesquisas estão voltadas para Inteligência Artificial, com ênfase na Saúde, Análise de conteúdo sensível e Agricultura de precisão. Em 2018, 2019 e 2020, recebeu o prêmio Google Latin America Research Awards. Em 2020, foi selecionada para representar o Brasil no BRICS Young Scientists Forum, na área de Inteligência Artificial."
 
-
 - date: 2021-10-07
   start: "11:00"
   end: "11:30"
@@ -592,6 +520,7 @@
                 Nesta palestra vamos abordar os erros comuns e te dar possibilidades reais que funcionam na vida real para que você possa começar a limitar o trabalho em progresso e melhorar a gestão do fluxo de trabalho."
   speakers:
     - name: Caco - Cleiton Mafra
+      email: cleitonmafra@gmail.com
       bio: "Enterprise Agile Coach na Resultados Digitais, atua junto aos times de Engenharia e Produto e conectando com a estratégia da empresa. A Resultados Digitais (RDStation) tem um cenário de alta tecnologia e um crescimento acelerado, além disso, está entre as maiores empresas de marketing Digital do Mundo e está presente em mais de 20 países
             Caco é especialista no método Kanban, já treinou mais de 600 pessoas no Método Kanban e ajudou mais de 80 times a adotar o método.
             Como Agile Coach ajuda empresas de tecnologia a terem sucesso, resultados de longo prazo e equipes de alta performance.
@@ -601,6 +530,7 @@
             Todas as minhas palestras estão disponíveis no slideshare https://pt.slideshare.net/cleitonmafra"
             
     - name: Wesley Tiago Zapellini
+      email: wesleytz@gmail.com
       bio: "Agilista no Nubank, ciclista e aprendiz de cozinheiro. Wesley é Bacharel em Sistemas de Informação pela UFSC e tem experiência com métodos ágeis desde 2011. Acredita no poder da colaboração e auxilia organizações a elevar a maturidade dos seus times de desenvolvimento de produtos digitais."
       
 
@@ -618,6 +548,7 @@
                 O Discovery Kanban é a adoção dos princípios e praticas do Upstream Kanban para criação de um fluxo de validação e aprendizados contínuos em um contexto de inovação ou mudança. Nesse cenário, gargalos na entrega são usado para a melhoria do processo de criação e triagem de opções, melhorando a eficácia do sistema."
   speakers:
     - name: Rafael Caceres
+      email: rafael@taller.net.br
       bio: "Empreendedor-Fluxonomista-Desenvolvedor e Cientista da Computação pela Universidade Estadual do Oeste do Paraná tem 15 anos de experiência com desenvolvimento web. É um dos fundadores da Taller, um ateliê de negócios digitais que cria produtos sob medida para seus clientes, onde trabalha na gestão de fluxo. Entusiasta do software livre, viciado em seriados e livros, gosta muito de xadrez, anarquismo, cozinhar e gerar ideias mirabolantes."     
 
 - date: 2021-10-07
@@ -635,6 +566,7 @@
                 Partindo de um Fluxo Unificado com múltiplos times, atendendo múltiplas iniciativas com balanceamento e backlog compartilhado. Chamamos isso de Extreme Scale!"
   speakers:
     - name: Danilo M Garcia
+      email: danilogarcia0611@gmail.com
       bio: "Trabalho na área de ti desde de 2007 e tenho 6 anos de experiência trabalhando com agilidade. Atualmente atuo como Agile Coach na Objective Solutions
             KCP e KMP pela Lean Kanban University, CSM pela Scrum Alliance, ICAgile Professional pela ICAgile Consortium.
             Minha experiência é focada com métodos como Scrum, Kanban, TOC e Systems Thinking. Nos ultimos anos tenho focado minha atenção em como podemos ter previsibilidade e forecasting mais precisos na área de software.
@@ -657,6 +589,7 @@
                 Neste webinar vamos mostrar como o bom entendimento de um problema facilita o desenvolvimento de um produto de forma iterativa e incremental, através de uma mescla envolvendo duas técnicas de mapeamento: Impact Mapping de Gojko Adzic com User Story Mapping de Jeff Patton."
   speakers:
     - name: Mário Melo
+      email: mariofdemelo@gmail.com
       bio: "Formado em Sistemas de Informação pela UFMG
             Sun Certified Java Programmer 5
             Certified Scrum Professional
@@ -664,7 +597,6 @@
             Certified Scrum Developer
             Certified Scrum Product Owner
             ScrumAlliance Registered Education Provider
-
             É sócio fundador da Facta, uma empresa de desenvolvimento de software localizada em Belo Horizonte cujo lema é “code to happiness”. Atua também como trainer da GoToAgile e tem como meta pessoal “fazer com que cada hora de seu trabalho economize um dia de esforço futuro”"     
 
 
@@ -685,9 +617,11 @@
                 Através de alguns cases práticos que estamos construindo vamos trazer a resposta para essas perguntas e ainda mostrar como a organização do fluxo de trabalho pode ajudar na qualidade das entregas feitas pelo time."
   speakers:
     - name: Samir Bravo
+      email: sambravo@gmail.com
       bio: "Radialista, nerd, geek, pai do Miguel e da Lívia, viciado em boardgames, hoje estou Agility Lead no willbank. Atuo com agilidade e participo da comunidade a mais ou menos 4 anos. Atualmente sonho com menos discussões sobre e frameworks e mais discussões sobre como solucionar problemas."
 
     - name: Matheus Bereta
+      email: matheus_bereta@hotmail.com
       bio: "Trabalho como QA no Willbank, trabalhando em cima de processos e qualidade junto aos times de desenvolvimento.
             Antes disso, trabalhei na Getnet, Grupo Sabemi e Sicredi, ambas na posição de QA atuando dentro e fora dos times de desenvolvimento.
             Sou formado em análise e desenvolvimento de sistemas e possuo certificações na área de testes e agilidade."     
@@ -710,6 +644,7 @@
                 - Design Thinking sendo utilizado por POs;"
   speakers:
     - name: Lorete Kossowski Mocelin
+      email: lorete.k@gmail.com
       bio: "Agile Coach em empresa de grande porte
             Atuante de Agilidade há aproximadamente 7 anos passando pelas seguintes posições: Scrum Master, Product Owner, Agile Coach
             Instrutora de design Thinking
@@ -729,6 +664,7 @@
   description: "Você já trabalhou em um projeto onde cada arquivo de código produtivo possui uma suíte de testes? Essa representação 1-1 traz várias dificuldades na hora de refatorar seu código e pode causar dores de cabeça ao introduzir novas funcionalidades. Nessa talk, vamos entender o que é contravariância de testes e como isso pode dar brilho aos nossos testes, dando celeridade no desenvolvimento sem diminuir a qualidade das entregas."
   speakers:
     - name: Ivo Roberto Batistela
+      email: irbatistela@gmail.com
       bio: "Pessoa desenvolvedora de software na Thoughtworks e voluntário no DevParaná."
        
 - date: 2021-10-07
@@ -745,6 +681,7 @@
                 É possível garantir que o time siga um processo, gere os artefatos que preciso. Dessa forma gerar documentação automatizada, gerar SDKs para varias linguagens diferentes, validar a qualidade, realizar code review em escala é possível."
   speakers:
     - name: Juscélio Reis
+      email: juscelior@gmail.com
       bio: "Profissional em constante aprendizado, desenvolvedor com mais de 10 anos de carreira, pesquisador sobre sistemas distribuídos e segurança da informação. Trabalho com governança e metodologia na empresa Wiz Soluções como Advisor Backend."            
 
 - date: 2021-10-07
@@ -832,6 +769,7 @@
   description: "Por que algumas empresas, já consolidadas no mercado, parecem ter dificuldades em alcançar a concorrência de empresas nativas digitais? O que tem habilitado algumas organizações a lançarem novos serviços digitais de forma tão acelerada? Nesta apresentação veremos um potencial diferencial das empresas que conseguem altos índices de entrega: plataformas digitais. Estas plataformas permitem que os times de produto foquem majoritariamente em valor de negócio, minimamente se dedicando a infraestrutura de operação e suporte. Além de cobrirmos o que tal plataforma deve prover, abordaremos também algumas experiências com clientes e o resultado da sua adoção. Melhor ainda quando a própria plataforma é tratada como um produto."
   speakers:
     - name: Gregório Melo
+      email: gregorioenrico@gmail.com
       bio: "Consultor de desenvolvimento na Thoughtworks desde 2011, já trabalhou com times em diferentes estágios de maturidade em adoção de agilidade e em domínios variados. Dificilmente se vê fora da JVM, mas não tem apego por plataformas. Hoje lidera a unidade de negócio dedicada a plataformas e nuvens, entregando mais apresentações que código."    
 
 
@@ -850,6 +788,7 @@
                 Nesse case de Agilidade em Escala será contado como “criamos”, de forma incremental e natural, um “framework customizado” para conseguimos o alinhamento entre diversos times e suas estratégias, além de ter transparência das entregas, métricas e engajamento das pessoas."
   speakers:
     - name: Felipe Polovanick Blazquez
+      email: fpolovanick@hotmail.com
       bio: "Gerente de produtos, agile coach, professor, músico e geek!
             Experiência em construção de produtos, desde a imersão, ideação, validação até o desenvolvimento e delivery, liderança e formação de equipes e squads de alta performance.
             Objetivo em auxiliar pessoas, times e empresas na Transformação Digital, Ágil e Cultural para chegarem a um cenário de Business Agility.
@@ -870,6 +809,7 @@
   description: "O relatório A3 é uma ferramenta Lean criada pela Toyota e que até hoje é muito utilizada na resolução de problemas por diversas organizações. Como o A3 tem base no ciclo PDCA, pode ser aplicado para resolução de diversos problemas complexos. Nesta sessão vou compartilhar minha experiência utilizando o relatório A3 para resolver um problema de Cycle Time em squads de desenvolvimento de software, onde de forma colaborativa o time chegou à causa raiz do problema, definiu planos de ação e conseguiu medir o progresso da evolução utilizando essa ferramenta."
   speakers:
     - name: Ivan Candido da Silva
+      email: ivan.candido@gmail.com
       bio: "Profissional de Tecnologia da Informação com mais de 20 anos de experiência. Forte atuação em áreas de projetos, desenvolvimento, infraestrutura e banco de dados. Técnico em Processamento de Dados, Graduado em Sistemas de Informação e Pós-Graduação em Governança de TI. Atuação em ambientes de missão crítica como Coordenador de TI, Agilista (Team Lead / Agile Coach) e Especialista em Banco de Dados, passando por empresas de segmentos variados como Varejo, Saúde, Financeiro e Tecnologia. Experiência em gestão e liderança de times ágeis, utilizando os principais frameworks e modelos do mercado, sempre em busca de inovação, foco nas pessoas e com o objetivo de atender as necessidades dos clientes.
             ● Palestrante / Speaker
             ● PSM I, PSM II, PSPO I, SPS (Nexus) – Scrum.org
@@ -881,7 +821,6 @@
             ● AWS Certified Cloud Practitioner
             ● AWS Certified Solutions Architect – Associate
             ● Python Enthusiastic"
-            
             
 - date: 2021-10-08
   start: "11:30"
@@ -897,9 +836,11 @@
                 Iremos compartilhar, a partir de nossas histórias e experiências, nossa visão sobre o que um Agilista deve ter e ser, com ensinamentos, boas práticas e casos não só de sucesso, mas também de falhas e como aprendemos com elas. Além de tudo, em algo que acreditamos muito, que você deve deixar força do Ágil se adaptar a você!"
   speakers:
     - name: Samuel Thome
+      email: samuel.thome@outlook.com
       bio: "Agile Coach na Globo, maior empresa de mídia da América Latina, e fundador do Ideia Ágil, consultoria de negócios sobre Agilidade. Graduado em Gestão de Tecnologia da Informação pela PUC, com certificações em Design Thinking, Agile Coach, Management 3.0, SAFe Agilist, Scrum, Kanban e ITIL, além de um dos organizadores da iniciativa Agile Beer. Com experiência técnica e liderança, sou também um palestrante e facilitador de workshops e treinamento sobre Agilidade, Design Thinking & Sprint. Sou apaixonado por explorar possibilidades e conhecer novas pessoas, mas sempre aprendendo com o passado e sobre como podemos crescer e fazer melhor, engajado com Diversidade e Inclusão em todas as suas formas e um contador de histórias com capacidade de ouvir e ver além do que as pessoas que precisam."
             
     - name: Tom Dias
+      email: tom_dias@outlook.com
       bio: "Profissional formado em administração de empresas e especialista em agilidade de negócios. Paixão por pessoas e processos e tem como principal objetivo melhorar o dia a dia das pessoas.
             Entusiasta Ágil em Kanban, Scrum e apaixonado por Kaizen e pessoas. Com mais de 7 anos em experiência como analista de negócios e processos voltado a levantamento de requisitos, mapeamento e otimização de processos, melhoria contínua, mediador de conflitos, facilitador e agente de mudança Ágil, relacionamento com clientes, usuários e stakeholders."
  
@@ -917,6 +858,7 @@
                 Esta palestra vai navegar pelas fases do Nubank, explicando decisões arquiteturais que alavancaram o seu crescimento e que foram em grande parte responsáveis pelo seu sucesso."
   speakers:
     - name: Lucas Cavalcanti
+      email: lucas@cavalcanti.me
       bio: "Lucas Cavalcanti é um engenheiro de software Principal na Nubank, o maior banco digital independente do mundo, construído numa arquitetura em microserviços que usam Clojure e Datomic. Lucas é um entusiasta de programação funcional e de boas práticas de desenvolvimento de software, com vasta experiência em aplicações reais em produção escritas em Java, Scala, Ruby e Clojure. É bacharel em Ciências da Computação pela Universidade de São Paulo."
 
 - date: 2021-10-08
@@ -932,9 +874,11 @@
   description: "Muito esforço, todos ocupados, pouco resultado. Comemoramos entregas, mas as métricas de negócios estão em risco. Como criar uma estratégia matadora e engajar toda a organização para conquistar o mercado? Falaremos sobre quebrar o espírito tarefeiro e sair da armadilha de tombar times para o ágil sem a mudança na camada estratégica da organização."  
   speakers:
     - name: Andressa Chiara
+      email: andressa@gmail.com
       bio: "Agile Coach na K21, trabalha na criação de produtos digitais há 10 anos. Certificada como CSP, PMP, CSM, PSMI, CSPO, Lean-Kanban. Contribui com iniciativas de inclusão como a Code Like a Girl."
 
     - name: Marco Dubovski
+      email: dubovski@gmail.com
       bio: "Marco Dubovski é Product Owner no PagSeguro. Há mais de 15 anos trabalha com desenvolvimento de soluções de negócio nos segmentos de Telecom, TI e e-commerce e há 4 anos é agilista. Atua na criação de produtos orientados às pessoas e acredita que é possível conciliar letras e números de forma harmônica. Certificado como CSPO, CSM e Lean-Kanban. Faz parte da iniciativa TOT, voltada para inovação e solução de problemas através da aplicação do mindset ágil. Palestrante em eventos de agilidade como Scrum Gathering (2016, 2017) e Agile Trends (2018), além de atuar como disseminador da cultura ágil tanto nos meetups do TOT para o público externo quanto em workshops e no dia-a-dia dos times do PagSeguro."
 
 - date: 2021-10-08
@@ -951,6 +895,7 @@
   
   speakers:
     - name: Jeniffer Deus
+      email: jeniffer.deus@gmail.com
       bio: "Olá! Sou a Jen! Qualidade de software é a minha paixão há 11 anos! A agilidade chegou à minha vida através da curiosidade, como um caminho de questionamento. Hoje, sou uma impulsionadora de pessoas e ofereço encorajamento para que elas escrevam suas próprias histórias dentro do universo de tecnologia, compartilhando o que aprendi até aqui! Sonho com um mundo cada vez mais equânime e me empenho em fazer parte dessa transformação."
 
 - date: 2021-10-08
@@ -969,6 +914,7 @@
   
   speakers:
     - name: Marcela Custódio
+      email: marcela.custodio.ti@gmail.com
       bio: "Atuo como Agile Master no PagSeguro em um time de engenheiros de dados, área em que estou inserida desde 2010. Sou formada pela FATEC de Praia Grande e estou buscando conhecimento atualmente através do MBA em Liderança, inovação e gestão 3.0 pela PUCRS, do Software Zen do Alisson Vale e através do treinamentos e encontros na comunidade PagSeguro.
             Já fiz parte de times de desenvolvimento que utilizavam práticas mais voltadas para o Scrum e outros que criavam sua forma de trabalho trazendo as práticas que atendiam melhor o time, este último traz a vivencia que busco constantemente colocar em pratica por onde estou.
             Gosto de participar de meetups/eventos para entrar em contato com pessoas de contextos diferentes, escutar opiniões, experiências e encontrar novidades tanto em metodologia como em praticas e ferramentas.
@@ -1016,6 +962,7 @@
   
   speakers:
     - name: Ana Carolina Moises de Souza
+      email: carol.moises@gmail.com
       bio: "Atualmente Ana Carolina é Professora nos cursos da Escola Politécnica na PUCPR. Durante o mestrado pesquisou sobre Engenharia de Software Sustentável no setor financeiro. Neste mesmo período em conjunto com o grupo de pesquisa de engenharia de software pesquisou sobre modelos de maturidade no desenvolvimento de software ágil. Iniciou sua carreira de TI como programadora atuando em empresas do setor de financeiro, petróleo e aviação. Desde 2009 trabalhando em times ágeis, atuou como Scrum Master e Agile Master aplicando métodos ágeis como Scrum, Kanban e SAFe e se encantando com a agilidade a cada dia. Além da agilidade, teatro e canto são as suas paixões. Fui voluntária na comunidade TechLadies com objetivo de aumentar a participação de mulheres na TI e também na CareSchool ensinando inglês para estudantes do ensino fundamental público."
 
 - date: 2021-10-09
@@ -1034,12 +981,14 @@
   
   speakers:
     - name: Henrique Gonçalves
+      email: henriquefernandesgoncalves@gmail.com
       bio: "Agilista, prudentino, colecionador de miniaturas e para os íntimos “Meteoro da Agilidade”.
             Experiência de 11 anos em áreas de Tecnologia e Inovação, e nos últimos 5 anos trabalhando com Agilidade. No PagSeguro atua como Agile Coach (agente de transformação) no time de Agilidade Organizacional, apoiando e aplicando práticas ágeis com equipes multidisciplinares de produtos de desenvolvimento de software para resolver problemas em seus contextos.
             Atualmente é grande entusiasta e trabalha com o modelo de pensamento Flight Levels e OKRs para um melhor alinhamento e foco nos resultados. 
             É voluntário, organizador e/ou participante em diversos eventos de agilidade (Agile Trends, Agile Brazil, Scrum Gathering Rio e TDC)."
   
     - name: Paulo Cassin
+      email: pccassin@gmail.com
       bio: "Agilista com mais de 11 anos em áreas de Tecnologia e Inovação, atualmente é Agilista na Easynvest, colaborando para construção de equipes e processos de alta performance. Acredita em modelos agnósticos de métodos na busca pela agilidade e com isso aplica de forma evolucionária práticas e conceitos conforme a necessidade e maturidade do contexto. Em suas horas livres gosta de cozinhar, ler, jogar videogame e ficar com a família.
             É voluntário, organizador e/ou participante em diversos eventos de agilidade (Agile Trends, Agile Brazil e TDC) e comunidades de empreendedorismo/startups (ZeroOnze, Cotton Valley, etc)."
 
@@ -1049,14 +998,14 @@
   end: "11:00"
   show: true
   room: Sala 3
-  title: "Open Space: Comunidade 9"
+  title: "Open Space: Comunidade"
   kind: session
   type: "Open Space"
   track: "Comunidades"
   target: ""
   description: "Em breve maiores detalhes"
   speakers:
-    - name: Comunidade Y
+    - name: Comunidade
       bio: ""     
 
 - date: 2021-10-09
@@ -1064,14 +1013,14 @@
   end: "11:00"
   show: true
   room: Sala 4
-  title: "Open Space: Comunidade 11"
+  title: "Open Space: Comunidade"
   kind: session
   type: "Open Space"
   track: "Comunidades"
   target: ""
   description: "Em breve maiores detalhes"
   speakers:
-    - name: Comunidade Y
+    - name: Comunidade
       bio: ""     
 
 - date: 2021-10-09
@@ -1087,8 +1036,10 @@
   description: "O ensino de desenvolvimento de software ágil possui desafios que, quando combinados a ambientes compostos por adolescentes socialmente vulneráveis, revelam um cenário instigante capaz de induzir a reflexão sobre técnicas tradicionais e novas metodologias de ensino no desenvolvimento de software. Há dez anos no Brasil, foram desenvolvidos programas imersivo-educacionais sem fins lucrativos, de Engenharia de Software, através de uma parceria universidade-empresa: a Aceleradora Ágil e a Aceleradora Inclusiva. Por meio de uma imersão em um ambiente controlado, usando o Agile como sua mentalidade fundamental, esses programas têm impactado a vida de jovens em situação de vulnerabilidade e auxiliando-os a se unirem a equipes profissionais de desenvolvimento de software ágil."
   speakers:
     - name: Michelle Miranda
+      email: biamichellelivre@gmail.com
       bio: "Pessoa consultora em Diversidade e Inclusão. Desenvolvedora de Software front-end. Doutoranda em Ciência da Computação pela PUCRS com foco em Gestão da Diversidade. Mestre em Ciências pela Universidade de São Paulo com atuação na área de Políticas Públicas para pessoas travestis e transexuais e formada em Sistemas de Informação pela Universidade Federal Rural da Amazônia ­ UFRA. Têm paixão pelo tema da diversidade na tecnologia e em auxiliar pessoas dos grupos de Diversidade a desenvolverem suas jornadas técnicas. Pesquisadora sobre Gestão da Diversidade em Times de Desenvolvimento de Software. Já atuou no desenvolvimento de políticas de inclusão de diversidade étnico-racial e desenvolve um modelo de gestão da diversidade aplicada a times de desenvolvimento de software. Atualmente é monitora e pesquisadora da Aceleradora Inclusiva (Projeto de parceria entre PUCRS, ThoughtWorks e Sicred). Ativista e militante de movimentos sociais, LGBT e movimento negro no Brasil. Suas áreas de pesquisa e atuação são: Gestão de Diversidade da Engenharia de Software; Diversidade étnico-racial na Tecnologia; Estudos transgêneros; Gestão de Política Públicas; e Resistência dos Sistemas de Informação."
     - name: Arlanda Jacques Wisniewski de Souza
+      email: arlandajws@gmail.com
       bio: "Consultora formada em Psicologia (PUCRS). Trabalha nas Aceleradoras Inclusiva e Ágil, onde foi voluntária em 2018 e teve seu primeiro contato com metodologias ágeis. Seu sonho está se tornando realidade na medida em que colabora para tornar os espaços corporativos mais diversos."
 
 - date: 2021-10-09
@@ -1096,14 +1047,14 @@
   end: "11:00"
   show: true
   room: Sala 6
-  title: "WBMA 55"
+  title: "WBMA"
   kind: session
   type: "WBMA"
   track: ""
   target: ""
-  description: "Aqui irão os detalhes da sessão"
+  description: "Em breve maiores detalhes"
   speakers:
-    - name: "?"
+    - name: WBMA
       bio: ""
 
 - date: 2021-10-09
@@ -1111,14 +1062,14 @@
   end: "12:00"
   show: true
   room: Sala 3
-  title: "Open Space: Comunidade 10"
+  title: "Open Space: Comunidade"
   kind: session
   type: "Open Space"
   track: "Comunidades"
   target: ""
   description: "Em breve maiores detalhes"
   speakers:
-    - name: Comunidade Y
+    - name: Comunidade
       bio: ""     
 
 - date: 2021-10-09
@@ -1133,7 +1084,7 @@
   target: ""
   description: "Em breve maiores detalhes"
   speakers:
-    - name: Comunidade Y
+    - name: Comunidade
       bio: ""     
 
 - date: 2021-10-09
@@ -1150,8 +1101,10 @@
                 Nessa palestra vamos compartilhar (1) os desafios desse contexto tão atípico que foi o início da pandemia e o enfrentamento à COVID; (2) as práticas e ferramentas que utilizamos; (3) os aprendizados; e (4) os resultados entregues. É claro que nem tudo deu certo. Para concluir, vamos contar qual foi o principal impacto observado, que inicialmente nem era a expectativa principal."
   speakers:
     - name: Ursula Schmid
+      email: ursula.schmid@petrobras.com.br
       bio: "Sou cientista da computação com mestrado em design, conheci a agilidade efetivamente em 2016 e simplesmente me encontrei profissionalmente. Desde então sou uma agilista em constante mudança e evolução, sigo com foco na mentalidade do designer que abraça empatia, otimismo, iteração, criatividade e ambiguidade, mantendo as pessoas no centro de todos os processos. Há mais de 13 anos na indústria de petróleo, sempre atuando no segmento de tecnologia, atualmente compondo a liderança da Gerência de Transformação Digital da Petrobras que tem o propósito: 'Inspirar pessoas a transformar a Petrobras todos os dias'"
     - name: Amon Aidukaitis
+      email: amonaidukaitis@gmail.com	  
       bio: "Conheci a Agilidade em 2010, fez tanto sentido que foi como se eu já conhecesse desde que nasci. Como Analista de Sistemas na Petrobras, os anos seguintes foram de aprendizado teórico. CSM, CSPO, KMP1, Requisitos Ágeis, Scrum Gathering Rio 2015… até que em 2018 me juntei a um grupo de intraempreendedores autodenominados Transformadores, passando a atuar informalmente com aplicação e treinamento de Scrum, Kanban, Design Thinking, Lean Inception, e o que mais fazia sentido para os desafios da empresa que chegavam até nós. Hoje atuo integralmente como Agilista, contribuindo para o movimento de Transformação Ágil na maior empresa brasileira."
 
 - date: 2021-10-09
@@ -1159,14 +1112,14 @@
   end: "12:00"
   show: true
   room: Sala 6
-  title: "WBMA 56"
+  title: "WBMA"
   kind: session
   type: "WBMA"
   track: ""
   target: ""
-  description: "Aqui irão os detalhes da sessão"
+  description: "Em breve maiores detalhes"
   speakers:
-    - name: "?"
+    - name: WBMA
       bio: ""
 
 - date: 2021-10-09
@@ -1182,8 +1135,10 @@
   description: "Você sabe como fazer mapa de fluxo de valor? O Value Stream Mapping é uma ferramenta extremamente eficaz para mapear seus processos com foco na agregação de valor das atividades desenvolvidas. Com o mapeamento correto de um fluxo de valor é possível aumentar de forma estrtuturada e exponencial o desempenho de uma organização o em todos os níveis por meio da Melhoria Contínua. Vem com a gente ver como alavancar os resultados, reduzir desperdício e melhorar a Eficiência do seu fluxo. Neste Workshop mostramos de maneira prática como mapeamos fluxos para atingir esses resultados."
   speakers:
     - name: Juliana Cainelli
+      email: jufitz@gmail.com
       bio: "Mãe, Professora e Agilista dedicada aos desafios do Ágil com visão estratégica de pesquisa e foco em resultados. Guia equipes multidisciplinares na adoção e execução dos métodos ágeis por meio de uma cultura de pensamento enxuto e criativo com transparência buscando fortalecer o mindset ágil da organização."
     - name: Vanessa de Campos Lacerda
+      email: vanelacerda@gmail.com
       bio: "Atuando a 15 anos na área de TI, já trabalhei nas mais diversas áreas. Iniciei na área comercial de soluções especialistas, implantação e desenvolvimento de soluções com otimização matemática, minha área de formação, suporte na área de planejamento de produção, testes e automação, até que me apaixonei pelo Scrum. Agilista desde 2017 com objetivo de impulsionar os resultados dos times, buscando maior produtividade com eficácia e eficiência utilizando conceitos e práticas ágeis. Apaixonada por conhecer e experimentar coisas novas, acima de tudo apaixonada por pessoas e oportunidades de trocas de conhecimento e experiência. Acredito na essência do ágil, na capacidade de adaptação, em entregas incrementais de valor com foco em melhoria contínua."
 
 - date: 2021-10-09
@@ -1199,8 +1154,10 @@
   description: "No nosso workshop vamos apresentar algumas técnicas e dicas para pessoas que nunca tiveram a oportunidade de facilitar uma cerimônia/um rito no dia a dia, e que não sabem por onde começar, além de algumas dicas de ferramentas que podem ajudar nesse desafio. Aqui você terá a oportunidade de conhecer essas técnicas e vivenciá-las na prática."
   speakers:
     - name: Carolina Silva
+      email: carollasilva@gmail.com
       bio: "Squad Leader na CI&T, Staff Member da Comunidade Mulheres Agilistas, Co-fundadora/Instrutora do projeto Cora Social e participo da organização do Lean Coffee São José do Rio Preto.Formada em Tecnologia para Negócios e pós graduada em Gerenciamento de Projetos, em 2017 conheci a agilidade e me apaixonei. Desde então sou uma agilista em constante mudança e evolução, sou apaixonada em ajudar as pessoas a se desenvolverem, realizarem o seu potencial e crescerem cada vez mais. Busco através da compreensão e empatia cultivar ambientes saudáveis que valorizem a criatividade para a resolução de problemas complexos. Acredito que possamos ser a diferença que buscamos no mundo, compartilhando conhecimento e experiências para impactar positivamente na vida das pessoas."
     - name: Alexandra Nascimento Alves
+      email: alessa.law@gmail.com
       bio: "Coordenadora de Desenvolvimento na Ramper e Staff Member da Comunidade Mulheres Agilistas.Graduada em Administração e em Análise e Desenvolvimento de Sistemas. Trabalho há 14 anos em empresas de tecnologia, nos últimos 4 anos atuei como Agile Master e me apaixonei pelas interações humanas e desenvolvimento de equipes. Busco ajudar as pessoas a desenvolverem o seu potencial e ajudar as equipes a evoluírem mais rapidamente, identificando as necessidades de melhorias para aplicar as técnicas de agilidade com técnicas e ferramentas de comportamento. Uma aspiração é ser mentora para ajudar outras mulheres no desenvolvimento da sua carreira."
 
 - date: 2021-10-09
@@ -1217,6 +1174,7 @@
   
   speakers:
     - name: Nicolas Paez
+      email: nicopaez@computer.org
       bio: "Nicolas Paez is a software engineering practitioner and professor. He shares his time between the industry and the academia. He teaches Software Engineering at Universidad de Buenos Aires and Universidad Nacional de Tres de Febrero. He has published several articles and a book about Agile Software Development. He has more than 18 years of experience working in the software industry. He has worked as developer, project leader, architect and coach. He currently works as an independent consultant helping teams to improve their software delivery practices."
 
 - date: 2021-10-09
@@ -1224,14 +1182,14 @@
   end: "14:30"
   show: true
   room: Sala 4
-  title: "Open Space: Comunidade 13"
+  title: "Open Space: Comunidade"
   kind: session
   type: "Open Space"
   track: "Comunidades"
   target: ""
   description: "Em breve maiores detalhes"
   speakers:
-    - name: Comunidade Y
+    - name: Comunidade
       bio: ""     
 
 - date: 2021-10-09
@@ -1248,6 +1206,7 @@
   
   speakers:
     - name: Márcia Soares Marques
+      email: marciasoaresmarques@gmail.com
       bio: "Atuo há 25 anos na área da TI, e desde 2013 tenho trabalhado no movimento de Transformação Ágil, em iniciativas públicas e sociais, com foco no cidadão. Hoje atuo como Auditora no TCE-RN e ministro treinamentos na Agiliza BR, empresa que fundei em 2020. Possuo mestrado de Ciência, Tecnologia e inovação, pela UFRN, e especialização em Sistemas Distribuídos e Gestão de Projetos pela UFRJ. Acredito que o potencial colaborativo do trabalho em equipe, com foco no cliente, aliado a uma gestão humanizada, podem transformar o mundo e melhorar a qualidade de vida das pessoas."
 
 - date: 2021-10-09
@@ -1255,14 +1214,14 @@
   end: "15:30"
   show: true
   room: Sala 4
-  title: "Open Space: Comunidade 14"
+  title: "Open Space: Comunidade"
   kind: session
   type: "Open Space"
   track: "Comunidades"
   target: ""
   description: "Em breve maiores detalhes"
   speakers:
-    - name: Comunidade Y
+    - name: Comunidade
       bio: ""
 
 - date: 2021-10-09
@@ -1278,8 +1237,10 @@
   description: "Esta é uma palestra que fará com que você entenda onde sua empresa pode ter ganhos de acessibilidade na esteira de desenvolvimento. Vamos te mostrar que existe o conceito de acessibilidade digital e que isto garante uma experiência única para todos os usuários, realizando pequenas mudanças na mentalidade das áreas de Negócios, UX Designer, UI Design, DevOps, Dev´s, Testers etc, todos seus clientes podem se beneficiar."
   speakers:
     - name: Maurício Ferreira Pereiro
+      email: mauricio.pereiro@yahoo.co.in
       bio: "Graduado em Ciências da Computação, com pós graduação em Gestão de Centrais de Atendimento e em Processos de Negócios. Com 21 anos de atuação profissional, sendo 12 anos no segmento bancário e 9 anos em consultoria. Trabalhando com elicitação de requisitos técnicos, funcionais, negócios e de acessibilidade e com identificação dos processos críticos para empresas. Responsável pela modelagem e execução de testes conforme regras de acessibilidade. Formador de equipe interna e externa com as principais definições de acessibilidade: legislação brasileira e internacional; princípios, padrões e verificações; alguns tipos de tecnologia assistiva; história do W3C, WebAIM, WCAG, ATAG, UAAG e eMAG, entre outros."
-    - name: Flávio Correia
+    - name: Flávio Correia	
+      email: flaviorscorreia@gmail.com
       bio: "Graduado em Musicoterapia pela Faculdade Paulista de Artes (FPA), pós-graduado em Governança de TI pela UNICAMP e graduando em Administração pela Universidade Estácio de Sá. Atua como analista de acessibilidade digital no Itaú Unibanco num papel que envolve, além dos testes de qualidade dos componentes front-end, a detecção antecipada de problemas de acessibilidade e consultorias a designers, UXers, engenheiros é afins., sempre orientado pelas práticas ágeis. É técnico em Emprego apoiado para inserção de pessoas com deficiência no Mercado de Trabalho e, voluntariamente, faz a gestão do INSEP (Instituto Socioesportivo Paratleta), onde também é instrutor na trilha de “Treinamento para QA em Acessibilidade Digital."
 
 - date: 2021-10-09
@@ -1295,8 +1256,10 @@
   description: "Workshop para você que já ouviu falar sobre Kanban mas nunca conseguiu colocar em prática. Nós iremos mostrar de forma lúdica os conceitos importantes para começar usar o kanban hoje e como replicar isso com os times."
   speakers:
     - name: Rafael de Oliveira
+      email: rafael.oliveira.cc@outlook.com
       bio: "Olá, sou o Rafael, trabalho na empresa Invillia, onde atuo como Agile Specialist. Sou formado em Ciência da Computação com Pós-graduação em Engenharia de Software e possuo algumas certificações com foco em agilidade. Sou Co-fundador do evento Agile Day Interior e Palestrante na comunidade ágil."
     - name: Greice Pecorari Vale
+      email: grepecorari@gmail.com
       bio: "Greice Pecorari – Agile Coach no banco BV, certificada em Management 3.0 e Scrum. Após anos trabalhando como Quality Assurance, com formação em MBA em Gestão de Qualidade de Software, resolvi me aventurar no mundo da agilidade e foi onde me encontrei. Apaixonada por agilidade, cultura/transformação organizacional e mudança de mindset. Me desafio diariamente no coaching de parceiros e alunos a entender como a agilidade pode ajudar e potencializar na entrega de valor."
 
 - date: 2021-10-09
@@ -1312,8 +1275,10 @@
   description: "Trabalhar com transformação organizacional é lidar com sistemas complexos adaptativos. As muitas escolas do pensamento sistêmico oferecem diferentes abordagens e ferramentas que podem ser úteis para agilistas e agentes de mudança que buscam promover mudanças significativas em suas organizações e times. Nessa sessão vamos explorar alguns conceitos e ferramentas para modelagem e desenho de intervenções e experimentos. Em outras palavras: como paramos de falar sobre mudança de mindset e começar a fazer algo para mudar o sistema?"
   speakers:
     - name: Rodrigo Bastos
+      email: rodrigo@targetteal.com
       bio: "Rodrigo é facilitador e designer organizacional. Formado em Engenharia de Materiais pela POLI-USP. Atuou por mais de 10 anos na criação e condução de programas que utilizam a educação experiencial como método para desenvolver líderes e equipes. Já foi engenheiro e gestor, hoje Rodrigo é sócio da Target Teal onde ajudou a criar a tecnologia social O2."
     - name: Ravi Resck
+      email: ravi@targetteal.com
       bio: "Ravi é um hacktivista social, facilitador, org designer e mapeador de sistemas. Pesquisa metodologias colaborativas e complexidade no contexto organizacional, relacional e ambiental. É parceiro na Target Teal, CollabDesign e Facilita.Social."
 
 - date: 2021-10-09
@@ -1329,8 +1294,10 @@
   description: "Muito se fala em diminuir batch size para diminuir risco de deploys. Muitos esquecem das práticas de engenharia nesse contexto. É preciso resgatar a importância da Integração Contínua nesse contexto – Como garantir que o código de todas pessoas funciona em conjunto? Integração Contínua provê feedback rápido quando há problema. Feature Toggle é uma técnica que faz com que as pessoas desenvolvedoras integrem mais frequentemente, por “esconder” aquela funcionalidade que ainda está incompleta. Venha explorar conosco como implementar features toggles; quais abordagens; seus benefícios e desafios."
   speakers:
     - name: Camilla Crispim
+      email: millafalconi@gmail.com
       bio: "Com mais de uma década de experiência na indústria de tecnologia, Camilla faz parte da ThoughtWorks desde 2013. Já foi desenvolvedora, líder técnica, tech account manager, entre outros papéis. Hoje, atua como Diretora de Tecnologia do Mercado Distribuído na ThoughtWorks Brasil, contribuindo com sua profunda experiência em práticas e técnicas ágeis de desenvolvimento e entrega de software. Camilla é integrante do Technology Advisory Board da ThoughtWorks e co-criadora do Technology Radar."
     - name: Gabriel Barreto
+      email: gabrieljbl@gmail.com
       bio: "Pernambucano de 31 anos, amante de tecnologia e entusiasta de Metodologias ágeis. Formado em Ciência da Computação (UFPE), atualmente trabalha como consultor em desenvolvimento de software na ThoughtWorks Brasil desde 2015. Gabriel, além de apaixonado por desenvolvimento de software, também advoga pela questão racial e por LGBTs na tecnologia."
 
 - date: 2021-10-09
@@ -1338,14 +1305,14 @@
   end: "17:00"
   show: true
   room: Sala 4
-  title: "Open Space: Comunidade 15"
+  title: "Open Space: Comunidade"
   kind: session
   type: "Open Space"
   track: "Comunidades"
   target: ""
   description: "Em breve maiores detalhes"
   speakers:
-    - name: Comunidade Y
+    - name: Comunidade
       bio: ""
 
 - date: 2021-10-09
@@ -1361,6 +1328,7 @@
   description: "Não interessa quanto tempo de experiência você tem com métodos ágeis, você certamente já passou por situações de dificuldades ao ter que passar a previsibilidade de uma entrega a um stakeholder ou cliente. Depois de anos de experiência e diversas tentativas e aprendizados, até hoje eu ainda tenho essa dificuldade em alguns momentos. Mas todas essas falhas me fizeram aprender demais a importância sobre diminuir cada vez mais a variabilidade entre as histórias. Além disso, me fizeram ver que escrever histórias pequenas traz ainda outras vantagens para as entregas e os times. Nessa sessão quero explicar um pouco sobre previsibilidade e variabilidade, trazer luz a importância de ter histórias pequenas e de quebra dar boas dicas e métodos de como fazer essas quebras na prática."
   speakers:
     - name: Gustavo Ayres Ferreira
+      email: tatoayres@gmail.com
       bio: "Delivery & Project Manager na ZBRA Soluções, consultoria de software que investe em entregas de qualidade e cultura de aprendizado. Atua no crescimento, apoio estratégico e operacional, buscando a melhoria contínua dos processos de entrega da empresa. Formado em Ciência da Computação pela UNESP, tem experiência no mundo da agilidade desde 2006 atuando desde o desenvolvimento e passando por diferentes papéis em equipes ágeis. Atuou como Gerente de TI, Business Development e Gerente de Desenvolvimento em inovação na Level Up Games, e posteriormente como Consultor Lead na ThoughtWorks. Tem grande experiência no apoio e cultivo de pessoas, construção de times de alta performance e transformação ágil com foco na mudança de mentalidade, usando a entrega de software como direcionador. Em constante atualização, tem uma vasta experiência no processo de entrega e métricas, advogando pelo bom uso destas para que gerem valor, mas focando no equilibrio e bem estar do time. Pai do Eduardo, amante de video-games, quadrinhos, arte e literatura."
 
 - date: 2021-10-09
@@ -1376,6 +1344,7 @@
   description: "A lei de Gall diz que todo sistema complexo evolui de sistemas mais simples que provaram que funcionam. Deixe-me apresentar uma abordagem de pequenos passos seguros para começar e crescer em complexidade com o seu domínio. Mostrando as pistas, técnicas e ferramentas que podem ajudar neste caminho. Usando como base uma história real, que cresceu de 50 para mais de 2 milhões usuários em um curto espaço de tempo."
   speakers:
     - name: Fabricio Nogueira Buzeto
+      email: nuk.anime13@gmail.com
       bio: "Fabricio has a Ph.D. in Computer Science and is currently CTO at bxblue. Since 2002 have been developing software in distributed teams focused on digital products consulting for both big and small organizations. Amongst its ventures, it can be highlighted Qualcanal (500 Startups) and currently bxblue (Y Combinator), with more than 1 million users in Brazil."
 
 - date: 2021-10-09
@@ -1383,14 +1352,14 @@
   end: "18:00"
   show: true
   room: Sala 4
-  title: "Open Space: Comunidade 16"
+  title: "Open Space: Comunidade"
   kind: session
   type: "Open Space"
   track: "Comunidades"
   target: ""
   description: "Em breve maiores detalhes"
   speakers:
-    - name: Comunidade Y
+    - name: Comunidade
       bio: ""
 
 - date: 2021-10-09
@@ -1406,12 +1375,13 @@
   description: "Vamos observar como utilizar previsões para discutir datas de entrega de projetos e, a partir destas previsões, tomar decisões informadas diante de cenários incertos. A teoria estará ancorada à prática, com o estudo de caso de um time de desenvolvimento, no qual vamos observar também como a implementação de práticas Kanban e de agilidade técnica tornaram as métricas do time mais consistentes, consequentemente permitindo o uso de ferramentas mais robustas de previsibilidade."
   speakers:
     - name: Déborah Lage Alvarenga
+      email: deborah@arkhi.com.br
       bio: "Líder de consultoria e Agile Coach pela Arkhi Business Agility, busca trazer agilidade de negócio para empresas por meio de práticas de gestão modernas, utilizando principalmente o Kanban, sendo certificada pela Kanban University como Kanban Management Professional."
 
 - date: 2021-10-09
   start: "17:30"
   end: "18:00"
-  show: true
+  show: false
   room: Sala 5
   title: "Trunk Based Development"
   kind: session
@@ -1421,6 +1391,7 @@
   description: "Fazer os pushes dos commits diretamente na mainline traz benefícios para o time, ainda que traga junto uma certa dose de risco. Vamos conversar um pouco sobre as vantagens de usar essa abordagem, possíveis problemas – com sugestões de tratamento – e entender como um time de desenvolvimento pode se beneficiar com essa prática."
   speakers:
     - name: Thiago Palma
+      email: 
       bio: "Formado em Engenharia de Computação Unicamp, 19 anos no mercado de TI; trabalhei na Petrobras de 2008-2016, quando me muito a estudo e aplicação de métodos ágeis, com foco em desenvolvimento (qualidade de código, cobertura de testes e modelagem ágil, principalmente) e algumas questões de gestão (retrospectivas, estimativas).Desde 2016 sou consultor de desenvolvimento de software Sr na Thoughtworks, onde tenho desempenhado o papel de desenvolvedor em time ágil e também o de divulgar e consolidar a cultura de desenvolvimento seguro."
 
 - date: 2021-10-06
