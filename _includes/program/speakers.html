@@ -30,20 +30,22 @@
                     <div class="elementor-speaker-wrapper speaker-style-2">
                       <div class="row" data-elementor-columns="6" data-elementor-columns-tablet="2"
                         data-elementor-columns-mobile="1">
-                        {% assign sessions = site.data.sessions | where: "kind", "session" | map: "speakers" %}
+                        {% assign sessions = site.data.sessions | where: "show", true | where: "kind", "session" | map: "speakers" %}
                         {% assign speakers = sessions | uniq | sort: "name" %}
                         {% for s in speakers %}
                           {% assign speaker = s | json %}
-                          <article class="column-item">
-                            <div class="speaker-item">
-                              <div class="speaker-image">
-                                <img width="600" height="660" src="{% include gravatar.html speaker=speaker %}" class="attachment-post-thumbnail size-post-thumbnail wp-post-image ls-is-cached lazyloaded" alt="" loading="lazy">
+                          {% unless speaker.name == '' %}
+                            <article class="column-item">
+                              <div class="speaker-item">
+                                <div class="speaker-image">
+                                  <img width="600" height="660" src="{% include gravatar.html speaker=speaker %}" class="attachment-post-thumbnail size-post-thumbnail wp-post-image ls-is-cached lazyloaded" alt="" loading="lazy">
+                                </div>
+                                <div class="speaker-details">
+                                  <h3 class="speaker-name"><a>{{ speaker.name }}{{ speaker.name != blank }}</a></h3>
+                                </div>
                               </div>
-                              <div class="speaker-details">
-                                <h3 class="speaker-name"><a>{{ speaker.name }}</a></h3>
-                              </div>
-                            </div>
-                          </article>
+                            </article>
+                          {% endunless %}
                         {% endfor %}
                       </div>
                     </div>

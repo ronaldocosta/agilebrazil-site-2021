@@ -199,11 +199,11 @@
   title: "Slot Patrocinado"
   kind: session
   type: "Apresentação"
-  track:  "?"
-  target: "?"
+  track:  ""
+  target: ""
   description: "Detalhes em breve"
   speakers:
-    - name: "?"
+    - name: ""
       bio: ""   
 
 - date: 2021-10-05
@@ -240,7 +240,7 @@
   target: ""
   description: "Aqui irão os detalhes da sessão"
   speakers:
-    - name: "?"
+    - name: ""
       bio: ""
       
 ###############################
@@ -692,11 +692,11 @@
   title: "Slot Patrocinado"
   kind: session
   type: "Apresentação"
-  track:  "?"
-  target: "?"
+  track:  ""
+  target: ""
   description: "Em breve maiores detalhes"
   speakers:
-    - name: "?"
+    - name: ""
       bio: ""
       
 - date: 2021-10-07
