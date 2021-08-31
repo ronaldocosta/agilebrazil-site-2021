@@ -34,14 +34,14 @@
                         {% assign speakers = sessions | uniq | sort: "name" %}
                         {% for s in speakers %}
                           {% assign speaker = s | json %}
-                          {% unless speaker.name == '' %}
+                          {% unless speaker.name == '' or speaker.show == false %}
                             <article class="column-item">
                               <div class="speaker-item">
                                 <div class="speaker-image">
                                   <img width="600" height="660" src="{% include gravatar.html speaker=speaker %}" class="attachment-post-thumbnail size-post-thumbnail wp-post-image ls-is-cached lazyloaded" alt="" loading="lazy">
                                 </div>
                                 <div class="speaker-details">
-                                  <h3 class="speaker-name"><a>{{ speaker.name }}{{ speaker.name != blank }}</a></h3>
+                                  <h3 class="speaker-name"><a>{{ speaker.name }}</a></h3>
                                 </div>
                               </div>
                             </article>
