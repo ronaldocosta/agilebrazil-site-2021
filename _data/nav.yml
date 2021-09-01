@@ -8,7 +8,7 @@
 
 - name: Programação
   url: schedule
-  production: false 
+  production: true 
 
 - name: Patrocínio
   url: sponsorship
