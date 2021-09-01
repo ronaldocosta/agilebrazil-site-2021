@@ -1,23 +1,19 @@
-- name: Mariana Zaparolli
-  photo: assets/images/keynotes/mariana-zaparolli.png
-  legend: Keynote Nacional
+- name: Alisson Vale
+  photo: assets/images/speakers/alisson-vale.jpg
+  legend: "Experiência e Resultado: as duas faces da moeda Ágil"
+
+- name: Klaus Leopold
+  photo: assets/images/speakers/klaus-leopold.jpg
+  legend: Flight Levels - The Organisation's missing link to Business Agility
 
 - name: Linda Rising
-  photo: assets/images/keynotes/linda-rising.png
-  legend: Keynote de Abertura
+  photo: assets/images/speakers/linda-rising.png
+  legend: About trees, agility and me
 
-- name: Em breve!
-  photo: assets/images/keynotes/placeholder.png
-  legend: Keynote Nacional
+- name: Mariana Zaparolli
+  photo: assets/images/speakers/mariana-zaparolli.png
+  legend: As páginas (não) viradas da Agilidade
 
-- name: WBMA
-  photo: assets/images/keynotes/placeholder.png
-  legend: Keynote da Academia
-
-- name: Confirmando
-  photo: assets/images/keynotes/placeholder.png
-  legend: Keynote Internacional
-
-- name: Convidada
-  photo: assets/images/keynotes/placeholder.png
-  legend: Keynote fora da caixa
+- name: Sandra Ávila
+  photo: assets/images/speakers/sandra-davila.jpg
+  legend: (Des)Construindo Vieses em Bases de Dados

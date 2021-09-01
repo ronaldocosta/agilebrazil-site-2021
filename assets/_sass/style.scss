@@ -54,20 +54,6 @@ body.custom-background { background-color: #f4f4fb; }
   }
 }
 
-section.home-program {
-  margin-top: 5rem;
-
-  .program-callout {
-    background-color: $logo-yellow !important;
-    color: $logo-dark-blue;
-
-    h2 {
-      color: $logo-dark-blue !important;
-      padding-left: 0;
-    }
-  }
-}
-
 .code-of-conduct {
   .mensagem-principal {
     color: #b7b7b7;
@@ -252,5 +238,42 @@ section.home-program {
         border-radius: 50px;
       }
     }
+  }
+}
+
+.program-section {
+  &.keynotes {
+    margin-top: 5rem;
+
+    .program-callout {
+      background-color: $logo-yellow !important;
+      color: $logo-dark-blue;
+
+      h2 {
+        color: $logo-dark-blue !important;
+        padding-left: 0;
+      }
+    }
+    .speaker-itens {
+      margin-top: 2rem;
+      .speaker-item:hover h3 { color: $logo-dark-green }
+
+      .speaker-image img {
+        width: 263px;
+        height: 290px;
+      }
+    }
+  }
+  &.speakers {
+    .speaker-item img {
+      width: 220px;
+      height: 220px;
+    }
+  }
+}
+
+.schedule-section {
+  .schedules-day:before {
+    border-left: 15px solid $logo-light-green !important;
   }
 }
