@@ -1,11 +1,15 @@
+- name: Bain & Company
+  logo: assets/images/sponsor-logo-bain.png
+  url: https://www.bain.com
+
 - name: DTI
   logo: assets/images/sponsor-logo-dti.png
   url: https://www.dtidigital.com.br
 
-- name: Thoughtworks
-  logo: assets/images/sponsor-logo-thoughtworks.png
-  url: https://www.thoughtworks.com/
-
+- name: Globant
+  logo: assets/images/sponsor-logo-globant.png
+  url: https://www.globant.com/pt-br
+  
 - name: Globo.com
   logo: assets/images/sponsor-logo-globo.png
   url: https://vempraglobo.recruiterbox.com
@@ -13,3 +17,7 @@
 - name: SoftDesign
   logo: assets/images/sponsor-logo-softdesign.png
   url: https://softdesign.com.br/
+
+- name: Thoughtworks
+  logo: assets/images/sponsor-logo-thoughtworks.png
+  url: https://www.thoughtworks.com/
