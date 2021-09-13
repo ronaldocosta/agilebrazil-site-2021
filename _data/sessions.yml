@@ -245,14 +245,14 @@
   end: "19:00"
   show: true
   room: Sala Principal
-  title: Keynote WBMA
+  title: Jeff Sutherland
   kind: keynote
   type: "Keynote"
   track: ""
   target: ""
   description: "Detalhes em breve"
   speakers:
-    - name: Keynote WBMA
+    - name: Keynote 
       show: false
       bio: ""
       
@@ -371,31 +371,20 @@
   end: "17:00"
   show: true
   room: Sala 1
-  title: "Inove na estrutura dos times - Um case prático da RDStation que vai além de tribos e squads"
+  title: "Alinhamento de Expectativas para uma cadência de entregas eficazes e pessoas felizes"
   kind: session
   type: "Apresentação"
   track: "Culturas de Trabalho"
-  target: "Intermediário"
-  description: "Se você sente que na sua empresa há dificuldade de alinhamento das equipes, sente que as equipes têm muitos canais de comunicação, há sentimento generalizado de que as decisões demoram e você está a procura de opções para resolver esses problemas, então esta palestra é para você!
-                Nós da RDStation, uma startup com 10 anos de crescimento acelerado, já passamos por algumas formações de times, no final de 2020 aplicamos na prática os conceitos do livro Team Topologies e Domain Driven Design para reorganizar a estrutura do time de Produto e Engenharia.
-                Esperamos que você possa se inspirar e considerar o Team Topologies como referência para sua estrutura de times."
-  speakers:
-    - name: Caco - Cleiton Mafra
-      email: cleitonmafra@gmail.com
+  target: "Inicial"
+  description: "Liderando equipes de desenvolvimento de produtos digitais por vários anos, percebe-se a importância de ter o alinhamento de expectativas em três dimensões: Equipe, Cliente e Organização.
+                As pessoas gestoras possuem como responsabilidade cuidar das entregas dos projetos, da satisfação do cliente, satisfação e jornada profissional das pessoas do time no decorrer do projeto. Para que isso ocorra de forma efetiva na organização, o alinhamento de expectativas é feito de forma intencional para atender essas responsabilidades.
+                O objetivo é compartilhar a experiência de alinhar, acompanhar e renovar as expectativas ao longo do tempo de vida dos projetos, e os impactos nas entregas e nas pessoas."
+  speakers:          
+    - name: Marcely Santos
+      email: marcely@gmail.com
       show: true
-      bio: "Enterprise Agile Coach na Resultados Digitais, atua junto aos times de Engenharia e Produto e conectando com a estratégia da empresa. A Resultados Digitais (RDStation) tem um cenário de alta tecnologia e um crescimento acelerado, além disso, está entre as maiores empresas de marketing Digital do Mundo e está presente em mais de 20 países
-            Caco é especialista no método Kanban, já treinou mais de 600 pessoas no Método Kanban e ajudou mais de 80 times a adotar o método.
-            Como Agile Coach ajuda empresas de tecnologia a terem sucesso, resultados de longo prazo e equipes de alta performance.
-            Histórico de palestras:
-            No ano de 2017 realizou 15 palestras em eventos pelos Brasil como Agile Trends, TDC Floripa, TDC SP, Lean Kanban Brazil, TDC Porto Alegre e outros eventos menores.
-            Neste ano de 2018, já palestrou no Agile Trends e TDC Floripa, Scrum Rio, Agile Brazil, Lean Kanban e Agile Floripa.
-            Todas as minhas palestras estão disponíveis no slideshare https://pt.slideshare.net/cleitonmafra"     
-            
-    - name: Juliemar Berri
-      email: juliemar.berri@gmail.com
-      show: true
-      bio: "MBA em Gestão estratégica em TI pela FGV, Com mais de 10 anos de experiência em diferentes papeis no ciclo de entrega de software, tive a oportunidade de vivenciar a transformação de processos convencionais para a agilidade. Hoje sou coordenador dos times 100% remotos que estão construindo a plataforma de dados da Resultados Digitais."     
-                
+      bio: "No mercado desde 1999 trabalhando com produtos digitais e agilidade desde 2007 sendo uma experimentadora e disseminadora da cultura, apoiando pessoas e Organizações a passarem por seu processo de transformação em busca de uma relação mais humana, colaboração, efetividade e um trabalho mais enxuto."     
+
 - date: 2021-10-06
   start: "16:00"
   end: "17:00"
@@ -422,20 +411,23 @@
   end: "18:00"
   show: true
   room: Sala 1
-  title: "Alinhamento de Expectativas para uma cadência de entregas eficazes e pessoas felizes"
+  title: "F4P e OKR: a organização orientada à estratégia"
   kind: session
   type: "Apresentação"
   track: "Culturas de Trabalho"
-  target: "Inicial"
-  description: "Liderando equipes de desenvolvimento de produtos digitais por vários anos, percebe-se a importância de ter o alinhamento de expectativas em três dimensões: Equipe, Cliente e Organização.
-                As pessoas gestoras possuem como responsabilidade cuidar das entregas dos projetos, da satisfação do cliente, satisfação e jornada profissional das pessoas do time no decorrer do projeto. Para que isso ocorra de forma efetiva na organização, o alinhamento de expectativas é feito de forma intencional para atender essas responsabilidades.
-                O objetivo é compartilhar a experiência de alinhar, acompanhar e renovar as expectativas ao longo do tempo de vida dos projetos, e os impactos nas entregas e nas pessoas."
-  speakers:          
-    - name: Marcely Santos
-      email: marcely@gmail.com
+  target: "Intermediário"
+  description: "Muito esforço, todos ocupados, pouco resultado. Comemoramos entregas, mas as métricas de negócios estão em risco. Como criar uma estratégia matadora e engajar toda a organização para conquistar o mercado? Falaremos sobre quebrar o espírito tarefeiro e sair da armadilha de tombar times para o ágil sem a mudança na camada estratégica da organização."  
+  speakers:
+    - name: Andressa Chiara
+      email: andressa@gmail.com
       show: true
-      bio: "No mercado desde 1999 trabalhando com produtos digitais e agilidade desde 2007 sendo uma experimentadora e disseminadora da cultura, apoiando pessoas e Organizações a passarem por seu processo de transformação em busca de uma relação mais humana, colaboração, efetividade e um trabalho mais enxuto."     
-                
+      bio: "Agile Coach na K21, trabalha na criação de produtos digitais há 10 anos. Certificada como CSP, PMP, CSM, PSMI, CSPO, Lean-Kanban. Contribui com iniciativas de inclusão como a Code Like a Girl."
+
+    - name: Marco Dubovski
+      email: dubovski@gmail.com
+      show: true
+      bio: "Marco Dubovski é Product Owner no PagSeguro. Há mais de 15 anos trabalha com desenvolvimento de soluções de negócio nos segmentos de Telecom, TI e e-commerce e há 4 anos é agilista. Atua na criação de produtos orientados às pessoas e acredita que é possível conciliar letras e números de forma harmônica. Certificado como CSPO, CSM e Lean-Kanban. Faz parte da iniciativa TOT, voltada para inovação e solução de problemas através da aplicação do mindset ágil. Palestrante em eventos de agilidade como Scrum Gathering (2016, 2017) e Agile Trends (2018), além de atuar como disseminador da cultura ágil tanto nos meetups do TOT para o público externo quanto em workshops e no dia-a-dia dos times do PagSeguro."
+
 - date: 2021-10-06
   start: "17:00"
   end: "17:30"
@@ -638,28 +630,18 @@
   end: "17:00"
   show: true
   room: Sala 1
-  title: "Como garantir qualidade no software durante todo o fluxo de trabalho - além dos cenários de teste"
+  title: "Arquitetura de software: de startup a unicórnio"
   kind: session
   type: "Apresentação"
   track: "Mão no Código"
-  target: "Intermediário"
-  description: "Nos cenários de desenvolvimento de software muitas vezes atribuímos o papel da pessoa QA apenas como o de tester, ignorando que a Qualidade de Software pode começar muito antes do refinamento, da quebra de histórias e da escrita dos cenários de teste.
-                Mas como podemos ajudar a pessoa QA para que ela possa desempenhar esse papel além de teste?
-                Como podemos fazer para que as validações, e o processo de qualidade como um todo, existam durante todo o fluxo de trabalho?
-                Como podemos empoderar o time todo para garantir qualidade sem depender unicamente da pessoa QA?
-                Através de alguns cases práticos que estamos construindo vamos trazer a resposta para essas perguntas e ainda mostrar como a organização do fluxo de trabalho pode ajudar na qualidade das entregas feitas pelo time."
+  target: "Profundo"
+  description: "No mundo real, é muito difícil que tenhamos informações, dinheiro, tempo ou pessoas o suficiente para fazermos o sistema ideal. Então é necessário fazer escolhas arquiteturais (tradeoffs) em cada uma das fases da empresa que em geral sacrificam algo, esperando gerar o maior valor possível no que é importante para aquele momento.
+                Esta palestra vai navegar pelas fases do Nubank, explicando decisões arquiteturais que alavancaram o seu crescimento e que foram em grande parte responsáveis pelo seu sucesso."
   speakers:
-    - name: Samir Bravo
-      email: sambravo@gmail.com
+    - name: Lucas Cavalcanti
+      email: lucas@cavalcanti.me
       show: true
-      bio: "Radialista, nerd, geek, pai do Miguel e da Lívia, viciado em boardgames, hoje estou Agility Lead no willbank. Atuo com agilidade e participo da comunidade a mais ou menos 4 anos. Atualmente sonho com menos discussões sobre e frameworks e mais discussões sobre como solucionar problemas."
-
-    - name: Matheus Bereta
-      email: matheus_bereta@hotmail.com
-      show: true
-      bio: "Trabalho como QA no Willbank, trabalhando em cima de processos e qualidade junto aos times de desenvolvimento.
-            Antes disso, trabalhei na Getnet, Grupo Sabemi e Sicredi, ambas na posição de QA atuando dentro e fora dos times de desenvolvimento.
-            Sou formado em análise e desenvolvimento de sistemas e possuo certificações na área de testes e agilidade."     
+      bio: "Lucas Cavalcanti é um engenheiro de software Principal na Nubank, o maior banco digital independente do mundo, construído numa arquitetura em microserviços que usam Clojure e Datomic. Lucas é um entusiasta de programação funcional e de boas práticas de desenvolvimento de software, com vasta experiência em aplicações reais em produção escritas em Java, Scala, Ruby e Clojure. É bacharel em Ciências da Computação pela Universidade de São Paulo."
 
 - date: 2021-10-07
   start: "16:00"
@@ -896,40 +878,59 @@
   end: "17:00"
   show: true
   room: Sala 1
-  title: "Arquitetura de software: de startup a unicórnio"
+  title: "Como garantir qualidade no software durante todo o fluxo de trabalho - além dos cenários de teste"
   kind: session
   type: "Apresentação"
   track: "Mão no Código"
-  target: "Profundo"
-  description: "No mundo real, é muito difícil que tenhamos informações, dinheiro, tempo ou pessoas o suficiente para fazermos o sistema ideal. Então é necessário fazer escolhas arquiteturais (tradeoffs) em cada uma das fases da empresa que em geral sacrificam algo, esperando gerar o maior valor possível no que é importante para aquele momento.
-                Esta palestra vai navegar pelas fases do Nubank, explicando decisões arquiteturais que alavancaram o seu crescimento e que foram em grande parte responsáveis pelo seu sucesso."
+  target: "Intermediário"
+  description: "Nos cenários de desenvolvimento de software muitas vezes atribuímos o papel da pessoa QA apenas como o de tester, ignorando que a Qualidade de Software pode começar muito antes do refinamento, da quebra de histórias e da escrita dos cenários de teste.
+                Mas como podemos ajudar a pessoa QA para que ela possa desempenhar esse papel além de teste?
+                Como podemos fazer para que as validações, e o processo de qualidade como um todo, existam durante todo o fluxo de trabalho?
+                Como podemos empoderar o time todo para garantir qualidade sem depender unicamente da pessoa QA?
+                Através de alguns cases práticos que estamos construindo vamos trazer a resposta para essas perguntas e ainda mostrar como a organização do fluxo de trabalho pode ajudar na qualidade das entregas feitas pelo time."
   speakers:
-    - name: Lucas Cavalcanti
-      email: lucas@cavalcanti.me
+    - name: Samir Bravo
+      email: sambravo@gmail.com
       show: true
-      bio: "Lucas Cavalcanti é um engenheiro de software Principal na Nubank, o maior banco digital independente do mundo, construído numa arquitetura em microserviços que usam Clojure e Datomic. Lucas é um entusiasta de programação funcional e de boas práticas de desenvolvimento de software, com vasta experiência em aplicações reais em produção escritas em Java, Scala, Ruby e Clojure. É bacharel em Ciências da Computação pela Universidade de São Paulo."
+      bio: "Radialista, nerd, geek, pai do Miguel e da Lívia, viciado em boardgames, hoje estou Agility Lead no willbank. Atuo com agilidade e participo da comunidade a mais ou menos 4 anos. Atualmente sonho com menos discussões sobre e frameworks e mais discussões sobre como solucionar problemas."
 
+    - name: Matheus Bereta
+      email: matheus_bereta@hotmail.com
+      show: true
+      bio: "Trabalho como QA no Willbank, trabalhando em cima de processos e qualidade junto aos times de desenvolvimento.
+            Antes disso, trabalhei na Getnet, Grupo Sabemi e Sicredi, ambas na posição de QA atuando dentro e fora dos times de desenvolvimento.
+            Sou formado em análise e desenvolvimento de sistemas e possuo certificações na área de testes e agilidade."     
+ 
+ 
 - date: 2021-10-08
   start: "16:00"
   end: "17:00"
   show: true
   room: Sala 2
-  title: "F4P e OKR: a organização orientada à estratégia"
+  title: "Inove na estrutura dos times - Um case prático da RDStation que vai além de tribos e squads"
   kind: session
   type: "Apresentação"
   track: "Culturas de Trabalho"
   target: "Intermediário"
-  description: "Muito esforço, todos ocupados, pouco resultado. Comemoramos entregas, mas as métricas de negócios estão em risco. Como criar uma estratégia matadora e engajar toda a organização para conquistar o mercado? Falaremos sobre quebrar o espírito tarefeiro e sair da armadilha de tombar times para o ágil sem a mudança na camada estratégica da organização."  
+  description: "Se você sente que na sua empresa há dificuldade de alinhamento das equipes, sente que as equipes têm muitos canais de comunicação, há sentimento generalizado de que as decisões demoram e você está a procura de opções para resolver esses problemas, então esta palestra é para você!
+                Nós da RDStation, uma startup com 10 anos de crescimento acelerado, já passamos por algumas formações de times, no final de 2020 aplicamos na prática os conceitos do livro Team Topologies e Domain Driven Design para reorganizar a estrutura do time de Produto e Engenharia.
+                Esperamos que você possa se inspirar e considerar o Team Topologies como referência para sua estrutura de times."
   speakers:
-    - name: Andressa Chiara
-      email: andressa@gmail.com
+    - name: Caco - Cleiton Mafra
+      email: cleitonmafra@gmail.com
       show: true
-      bio: "Agile Coach na K21, trabalha na criação de produtos digitais há 10 anos. Certificada como CSP, PMP, CSM, PSMI, CSPO, Lean-Kanban. Contribui com iniciativas de inclusão como a Code Like a Girl."
-
-    - name: Marco Dubovski
-      email: dubovski@gmail.com
+      bio: "Enterprise Agile Coach na Resultados Digitais, atua junto aos times de Engenharia e Produto e conectando com a estratégia da empresa. A Resultados Digitais (RDStation) tem um cenário de alta tecnologia e um crescimento acelerado, além disso, está entre as maiores empresas de marketing Digital do Mundo e está presente em mais de 20 países
+            Caco é especialista no método Kanban, já treinou mais de 600 pessoas no Método Kanban e ajudou mais de 80 times a adotar o método.
+            Como Agile Coach ajuda empresas de tecnologia a terem sucesso, resultados de longo prazo e equipes de alta performance.
+            Histórico de palestras:
+            No ano de 2017 realizou 15 palestras em eventos pelos Brasil como Agile Trends, TDC Floripa, TDC SP, Lean Kanban Brazil, TDC Porto Alegre e outros eventos menores.
+            Neste ano de 2018, já palestrou no Agile Trends e TDC Floripa, Scrum Rio, Agile Brazil, Lean Kanban e Agile Floripa.
+            Todas as minhas palestras estão disponíveis no slideshare https://pt.slideshare.net/cleitonmafra"     
+            
+    - name: Juliemar Berri
+      email: juliemar.berri@gmail.com
       show: true
-      bio: "Marco Dubovski é Product Owner no PagSeguro. Há mais de 15 anos trabalha com desenvolvimento de soluções de negócio nos segmentos de Telecom, TI e e-commerce e há 4 anos é agilista. Atua na criação de produtos orientados às pessoas e acredita que é possível conciliar letras e números de forma harmônica. Certificado como CSPO, CSM e Lean-Kanban. Faz parte da iniciativa TOT, voltada para inovação e solução de problemas através da aplicação do mindset ágil. Palestrante em eventos de agilidade como Scrum Gathering (2016, 2017) e Agile Trends (2018), além de atuar como disseminador da cultura ágil tanto nos meetups do TOT para o público externo quanto em workshops e no dia-a-dia dos times do PagSeguro."
+      bio: "MBA em Gestão estratégica em TI pela FGV, Com mais de 10 anos de experiência em diferentes papeis no ciclo de entrega de software, tive a oportunidade de vivenciar a transformação de processos convencionais para a agilidade. Hoje sou coordenador dos times 100% remotos que estão construindo a plataforma de dados da Resultados Digitais."     
 
 - date: 2021-10-08
   start: "17:00"
