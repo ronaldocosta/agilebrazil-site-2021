@@ -253,8 +253,8 @@
   description: "Detalhes em breve"
   speakers:
     - name: Keynote 
-      show: false
-      bio: ""
+      show: true
+      bio: "Dr. Jeff Sutherland é o inventor e co-criador do Scrum. Ele é formado pela West Point, foi piloto de caça, pesquisador sobre câncer, bem como CTO de onze companhias de software. Ele lançou o primeiro time scrum em 1993 e acompanhou seu crescimento em praticamente todas as indústrias: financeiro, saúde, ensino superior e telecom. É co-autor do bestseller 'Scrum: a arte de fazer o dobro na metade do tempo'. Seu livro mais recente é 'A Scrum Book: The Spirit of the Game'."
       
 ###############################
 ## DIA 02 - 06/10/2021        #
@@ -1365,23 +1365,19 @@
 - date: 2021-10-09
   start: "16:00"
   end: "17:00"
-  show: true
+  show: false
   room: Sala 3
-  title: "Como integrar código mais frequentemente com Feature Toggle"
+  title: "A definir"
   kind: session
-  type: "Mão na Massa"
-  track: "Mão no Código"
-  target: "Intermediário"
-  description: "Muito se fala em diminuir batch size para diminuir risco de deploys. Muitos esquecem das práticas de engenharia nesse contexto. É preciso resgatar a importância da Integração Contínua nesse contexto – Como garantir que o código de todas pessoas funciona em conjunto? Integração Contínua provê feedback rápido quando há problema. Feature Toggle é uma técnica que faz com que as pessoas desenvolvedoras integrem mais frequentemente, por “esconder” aquela funcionalidade que ainda está incompleta. Venha explorar conosco como implementar features toggles; quais abordagens; seus benefícios e desafios."
+  type: "A definir"
+  track: "A definir"
+  target: "A definir"
+  description: "A definir"
   speakers:
-    - name: Camilla Crispim
-      email: millafalconi@gmail.com
-      show: true
-      bio: "Com mais de uma década de experiência na indústria de tecnologia, Camilla faz parte da ThoughtWorks desde 2013. Já foi desenvolvedora, líder técnica, tech account manager, entre outros papéis. Hoje, atua como Diretora de Tecnologia do Mercado Distribuído na ThoughtWorks Brasil, contribuindo com sua profunda experiência em práticas e técnicas ágeis de desenvolvimento e entrega de software. Camilla é integrante do Technology Advisory Board da ThoughtWorks e co-criadora do Technology Radar."
-    - name: Gabriel Barreto
-      email: gabrieljbl@gmail.com
-      show: true
-      bio: "Pernambucano de 31 anos, amante de tecnologia e entusiasta de Metodologias ágeis. Formado em Ciência da Computação (UFPE), atualmente trabalha como consultor em desenvolvimento de software na ThoughtWorks Brasil desde 2015. Gabriel, além de apaixonado por desenvolvimento de software, também advoga pela questão racial e por LGBTs na tecnologia."
+    - name: A definir
+      email: A definir
+      show: false
+      bio: "A definir"
 
 - date: 2021-10-09
   start: "16:00"
