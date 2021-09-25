@@ -470,33 +470,39 @@
   end: "20:00"
   show: true
   room: Sala 1
-  title: "Open Space: Comunidade"
+  title: "Cases de Fracasso"
   kind: session
-  type: "Open Space"
+  type: "Lean Coffee"
   track: "Comunidades"
   target: ""
-  description: "Em breve maiores detalhes"
+  description: "Os facilitadores iniciam falando sobre um case de fracasso e depois incitaremos os participantes a compartilhar suas experiências sobre casos de fracasso vivenciados para compartilhamento com todos"
   speakers:
-    - name: Comunidade
-      show: false
+    - name: Agiliza Cerará
+      show: true
       bio: ""     
+    - name: Agile Maringá
+      show: true
+      bio: ""  
       
 - date: 2021-10-06
   start: "18:00"
   end: "20:00"
   show: true
   room: Sala 2
-  title: "Open Space: Comunidade"
+  title: "O que está rolando no Agile Brazil"
   kind: session
-  type: "Open Space"
+  type: "Lean Coffee"
   track: "Comunidades"
   target: ""
-  description: "Em breve maiores detalhes"
+  description: "Debate com dúvidas, cases e polêmicas sobre o temas que já rolaram em algumas palestras do Agile Brazil."
   speakers:
-    - name: Comunidade
-      show: false
+    - name: Agile ABC
+      show: true
       bio: ""          
-
+    - name: Agile ABC
+      show: true
+      bio: ""
+      
 ###############################
 ## DIA 03 - 07/10/2021        #
 ###############################
@@ -725,15 +731,15 @@
   end: "20:00"
   show: true
   room: Sala 1
-  title: "Open Space: Comunidade"
+  title: "O impacto do Lean Portfólio Management na Agilidade de negócios"
   kind: session
-  type: "Open Space"
+  type: "Bancada de Conversa"
   track: "Comunidades"
   target: ""
-  description: "Em breve maiores detalhes"
+  description: "Entrevisa com o convidado Mateus Piveta"
   speakers:
-    - name: Comunidade
-      show: false
+    - name: Papo Pinado
+      show: true
       bio: ""     
       
 - date: 2021-10-07
@@ -741,15 +747,19 @@
   end: "20:00"
   show: true
   room: Sala 2
-  title: "Open Space: Comunidade"
+  title: "Change Management"
   kind: session
-  type: "Open Space"
+  type: "Painel"
   track: "Comunidades"
   target: ""
-  description: "Em breve maiores detalhes"
+  description: "Painel de discussão com 4 panelistas que são referência no assunto: 
+                Alisson Vale
+                Gino Terentin 
+                Luiz Parzianello 
+                Mariana Zapparoli"
   speakers:
-    - name: Comunidade
-      show: false
+    - name: Agile Beer
+      show: true
       bio: ""        
       
 ###############################
@@ -1049,38 +1059,54 @@
       bio: "Agilista com mais de 11 anos em áreas de Tecnologia e Inovação, atualmente é Agilista na Easynvest, colaborando para construção de equipes e processos de alta performance. Acredita em modelos agnósticos de métodos na busca pela agilidade e com isso aplica de forma evolucionária práticas e conceitos conforme a necessidade e maturidade do contexto. Em suas horas livres gosta de cozinhar, ler, jogar videogame e ficar com a família.
             É voluntário, organizador e/ou participante em diversos eventos de agilidade (Agile Trends, Agile Brazil e TDC) e comunidades de empreendedorismo/startups (ZeroOnze, Cotton Valley, etc)."
 
-
 - date: 2021-10-09
   start: "10:00"
   end: "11:00"
   show: true
   room: Sala 3
-  title: "Open Space: Comunidade"
+  title: "Síndorme do Importor e Incertezas"
   kind: session
-  type: "Open Space"
+  type: "Lean Coffee"
   track: "Comunidades"
   target: ""
-  description: "Em breve maiores detalhes"
+  description: ""
   speakers:
-    - name: Comunidade
-      show: false
+    - name: Mulheres Agilistas
+      show: true
       bio: ""     
-
+      
+      
 - date: 2021-10-09
   start: "10:00"
-  end: "11:00"
+  end: "12:00"
   show: true
   room: Sala 4
-  title: "Open Space: Comunidade"
+  title: "Fishbowl"
   kind: session
-  type: "Open Space"
+  type: "Fishbowl"
   track: "Comunidades"
   target: ""
-  description: "Em breve maiores detalhes"
+  description: ""
   speakers:
-    - name: Comunidade
-      show: false
-      bio: ""     
+    - name: Agile Campinas
+      show: true
+      bio: ""  
+
+- date: 2021-10-09
+  start: "11:00"
+  end: "12:00"
+  show: true
+  room: Sala 3
+  title: "Liderança Ágil"
+  kind: session
+  type: "Debate"
+  track: "Comunidades"
+  target: ""
+  description: ""
+  speakers:
+    - name: Agile Joinville
+      show: true
+      bio: ""  
 
 - date: 2021-10-09
   start: "10:00"
@@ -1118,38 +1144,6 @@
     - name: WBMA
       show: false
       bio: ""
-
-- date: 2021-10-09
-  start: "11:00"
-  end: "12:00"
-  show: true
-  room: Sala 3
-  title: "Open Space: Comunidade"
-  kind: session
-  type: "Open Space"
-  track: "Comunidades"
-  target: ""
-  description: "Em breve maiores detalhes"
-  speakers:
-    - name: Comunidade
-      show: false
-      bio: ""     
-
-- date: 2021-10-09
-  start: "11:00"
-  end: "12:00"
-  show: true
-  room: Sala 4
-  title: "Open Space: Comunidade"
-  kind: session
-  type: "Open Space"
-  track: "Comunidades"
-  target: ""
-  description: "Em breve maiores detalhes"
-  speakers:
-    - name: Comunidade
-      show: false
-      bio: ""     
 
 - date: 2021-10-09
   start: "11:00"
@@ -1251,19 +1245,22 @@
 
 - date: 2021-10-09
   start: "13:30"
-  end: "14:30"
+  end: "15:30"
   show: true
   room: Sala 4
-  title: "Open Space: Comunidade"
+  title: "Comunidade Ágil de Empresas"
   kind: session
-  type: "Open Space"
+  type: "Fishbowl"
   track: "Comunidades"
   target: ""
-  description: "Em breve maiores detalhes"
+  description: "A importância das Comunidades para construir a agilidade dentro da empresa"
   speakers:
-    - name: Comunidade
-      show: false
+    - name: Petrobrás Ágil
+      show: true
       bio: ""     
+    - name: Nubank
+      show: false
+      bio: "" 
 
 - date: 2021-10-09
   start: "13:30"
@@ -1320,6 +1317,26 @@
       show: true
       bio: "Graduado em Musicoterapia pela Faculdade Paulista de Artes (FPA), pós-graduado em Governança de TI pela UNICAMP e graduando em Administração pela Universidade Estácio de Sá. Atua como analista de acessibilidade digital no Itaú Unibanco num papel que envolve, além dos testes de qualidade dos componentes front-end, a detecção antecipada de problemas de acessibilidade e consultorias a designers, UXers, engenheiros é afins., sempre orientado pelas práticas ágeis. É técnico em Emprego apoiado para inserção de pessoas com deficiência no Mercado de Trabalho e, voluntariamente, faz a gestão do INSEP (Instituto Socioesportivo Paratleta), onde também é instrutor na trilha de “Treinamento para QA em Acessibilidade Digital."
 
+
+- date: 2021-10-09
+  start: "16:00"
+  end: "18:00"
+  show: true
+  room: Sala 4
+  title: "OKRs nas Organizações"
+  kind: session
+  type: "Fishbowl"
+  track: "Comunidades"
+  target: ""
+  description: "Vamos falar sobre OKRs e como tem sido o dia a dia dentro das empresas, como tem sido os aprendizados e como Agilidade está conectada a isso."
+  speakers:
+    - name: Agilidade na Veia
+      show: true
+      bio: ""     
+    - name: Floripa Ágil
+      show: true
+      bio: "" 
+      
 - date: 2021-10-09
   start: "16:00"
   end: "18:00"
@@ -1362,38 +1379,6 @@
       show: true
       bio: "Ravi é um hacktivista social, facilitador, org designer e mapeador de sistemas. Pesquisa metodologias colaborativas e complexidade no contexto organizacional, relacional e ambiental. É parceiro na Target Teal, CollabDesign e Facilita.Social."
 
-- date: 2021-10-09
-  start: "16:00"
-  end: "17:00"
-  show: false
-  room: Sala 3
-  title: "A definir"
-  kind: session
-  type: "A definir"
-  track: "A definir"
-  target: "A definir"
-  description: "A definir"
-  speakers:
-    - name: A definir
-      email: A definir
-      show: false
-      bio: "A definir"
-
-- date: 2021-10-09
-  start: "16:00"
-  end: "17:00"
-  show: true
-  room: Sala 4
-  title: "Open Space: Comunidade"
-  kind: session
-  type: "Open Space"
-  track: "Comunidades"
-  target: ""
-  description: "Em breve maiores detalhes"
-  speakers:
-    - name: Comunidade
-      show: false
-      bio: ""
 
 - date: 2021-10-09
   start: "16:00"
@@ -1429,21 +1414,6 @@
       show: true
       bio: "Fabricio has a Ph.D. in Computer Science and is currently CTO at bxblue. Since 2002 have been developing software in distributed teams focused on digital products consulting for both big and small organizations. Amongst its ventures, it can be highlighted Qualcanal (500 Startups) and currently bxblue (Y Combinator), with more than 1 million users in Brazil."
 
-- date: 2021-10-09
-  start: "17:00"
-  end: "18:00"
-  show: true
-  room: Sala 4
-  title: "Open Space: Comunidade"
-  kind: session
-  type: "Open Space"
-  track: "Comunidades"
-  target: ""
-  description: "Em breve maiores detalhes"
-  speakers:
-    - name: Comunidade
-      show: false
-      bio: ""
 
 - date: 2021-10-09
   start: "17:00"
