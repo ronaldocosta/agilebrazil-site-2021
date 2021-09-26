@@ -1104,22 +1104,6 @@
       bio: "Consultora formada em Psicologia (PUCRS). Trabalha nas Aceleradoras Inclusiva e Ágil, onde foi voluntária em 2018 e teve seu primeiro contato com metodologias ágeis. Seu sonho está se tornando realidade na medida em que colabora para tornar os espaços corporativos mais diversos."
 
 - date: 2021-10-09
-  start: "10:00"
-  end: "11:00"
-  show: true
-  room: Sala 6
-  title: "WBMA"
-  kind: session
-  type: "WBMA"
-  track: ""
-  target: ""
-  description: "Em breve maiores detalhes"
-  speakers:
-    - name: WBMA
-      show: false
-      bio: ""
-
-- date: 2021-10-09
   start: "11:00"
   end: "12:00"
   show: true
@@ -1174,21 +1158,24 @@
       bio: "Conheci a Agilidade em 2010, fez tanto sentido que foi como se eu já conhecesse desde que nasci. Como Analista de Sistemas na Petrobras, os anos seguintes foram de aprendizado teórico. CSM, CSPO, KMP1, Requisitos Ágeis, Scrum Gathering Rio 2015… até que em 2018 me juntei a um grupo de intraempreendedores autodenominados Transformadores, passando a atuar informalmente com aplicação e treinamento de Scrum, Kanban, Design Thinking, Lean Inception, e o que mais fazia sentido para os desafios da empresa que chegavam até nós. Hoje atuo integralmente como Agilista, contribuindo para o movimento de Transformação Ágil na maior empresa brasileira."
 
 - date: 2021-10-09
-  start: "11:00"
-  end: "12:00"
+  start: "13:30"
+  end: "14:00"
   show: true
   room: Sala 6
-  title: "WBMA"
+  title: "Assuring the Evolvability of Legacy Systems in Devops transformation/adoption: Insights of an experience report"
   kind: session
   type: "WBMA"
-  track: ""
+  track: "WBMA"
   target: ""
-  description: "Em breve maiores detalhes"
+  description: "While many studies have investigated on how to introduce DevOps into a software product from the organizational perspective, less is shared about the technical challenges developers and practitioners face when adopting DevOps practices, automation and culture in legacy codes. In this paper, in the context of web applications, we report our experience of refactoring four legacy open-source projects with the goal to enable DevOps. We want to understand which refactoring techniques and strategies influence developers' decisions. We analyze artifacts from two dependent variables: the techniques used and how/when they are deployed in the project. After every implementation, there was an overview of the process that just occurred and later a written report on how the strategies have been applied, their respective order, which strategy has been more fruitful, and such. This study aims to reveal insights into how developers decide which DevOps practices to adopt in legacy codes. The main findings of the study are that some strategies are more efficient when viewed from the evolution aspect and the sequence these techniques are employed matter."
   speakers:
-    - name: WBMA
-      show: false
-      bio: ""
-
+    - name: Alax Alves
+      show: true
+      bio: "- Bachelor in Software Engineering
+            - Lover of DevOps
+            - Free Software contributor
+            - Lover of learning/experiencing new stuff"
+            
 - date: 2021-10-09
   start: "13:30"
   end: "15:30"
@@ -1266,6 +1253,22 @@
       bio: ""     
 
 - date: 2021-10-09
+  start: "14:00"
+  end: "14:30"
+  show: true
+  room: Sala 6
+  title: "Aplicação de Métodos Ágeis na Gestão de Comunidades de Práticas e de Startups: um survey"
+  kind: session
+  type: "WBMA"
+  track: "WBMA"
+  target: ""
+  description: "O trabalho em comunidades vêm se expandindo desde a ascensão das empresas de base tecnológicas, hoje chamadas de startups. Seja criada de maneira informal ou possuindo uma empresa mantenedora por trás, é difícil encontrar alguma empresa que trabalhe com projetos que não possua um grupo que seja de discussões sobre o tema que está sendo desenvolvido ou até mesmo sobre práticas realizadas externamente ao ambiente de seu trabalho. Hoje, eventos, grupos formais e exclusivos e clubes de vantagens existem dentro deste ambiente colaborativo. Este trabalho tem o objetivo de entender as motivações que estas comunidades têm em adotar Métodos Ágeis em sua gestão e o quão benéfico isso pode se tornar para a gestão da transferência de conhecimento. 68 respondentes afirmaram que ambientes seguros ao aprendizado tornam as empresas mais bem posicionadas em seus ecossistemas e permitem que novos produtos sejam desenvolvidos de maneira mais colaborativa, mesmo que de forma não oficial, podendo gerar economias financeiras e aprendizados."
+  speakers:
+    - name: A definir
+      show: false
+      bio: ""
+      
+- date: 2021-10-09
   start: "13:30"
   end: "14:30"
   show: true
@@ -1283,6 +1286,22 @@
       show: true
       bio: "Atuo há 25 anos na área da TI, e desde 2013 tenho trabalhado no movimento de Transformação Ágil, em iniciativas públicas e sociais, com foco no cidadão. Hoje atuo como Auditora no TCE-RN e ministro treinamentos na Agiliza BR, empresa que fundei em 2020. Possuo mestrado de Ciência, Tecnologia e inovação, pela UFRN, e especialização em Sistemas Distribuídos e Gestão de Projetos pela UFRJ. Acredito que o potencial colaborativo do trabalho em equipe, com foco no cliente, aliado a uma gestão humanizada, podem transformar o mundo e melhorar a qualidade de vida das pessoas."
 
+- date: 2021-10-09
+  start: "14:30"
+  end: "15:00"
+  show: true
+  room: Sala 6
+  title: "Using a Teamwork Quality Instrument to improve Agile Teams' Effectiveness: Practical Use Cases"
+  kind: session
+  type: "WBMA"
+  track: "WBMA"
+  target: ""
+  description: "Agile Software Development (ASD) has become the most chosen development method. The core fundamentals of ASD are based on Teamwork factors and how valuable it considers individuals and their interactions over processes and tools. Researchers have shown the positive impact of teamwork quality in ASD and the importance of assessing it to increase the chances of succeeding projects in this context. Based on this, some researchers have proposed instruments that can assess ASD teamwork quality. One of these instruments is a bayesian network-based model (TWQ-BN), with its practical utility assessed in a case study presented in previous work. However, there is a lack of practical use cases documented using TWQ-BN to identify process improvement opportunities. This paper addresses this gap by presenting two industry-based use cases to help potential users understand how to use TWQ-BN to define action items to improve the team's effectiveness. This paper provides better guidance toward adopting TWQ-BN and shows how it can be used as a tool on iteration retrospectives to diagnose the teamwork quality."
+  speakers:
+    - name: Arthur Freire
+      show: true
+      bio: "Aluno de doutorado em Ciência da Computação, com foco na melhoria do Trabalho em Equipe em ambientes ágeis, na Universidade Federal de Campina Grande (UFCG), onde também concluiu graduação e mestrado. Também é Engenheiro de Desenvolvimento de Software na Amazon desde 2018, onde trabalha mais especificamente com compliance para operação do programa FBA no Brasil."
+      
 - date: 2021-10-09
   start: "14:30"
   end: "15:30"
@@ -1320,6 +1339,38 @@
       show: true
       bio: "Graduado em Musicoterapia pela Faculdade Paulista de Artes (FPA), pós-graduado em Governança de TI pela UNICAMP e graduando em Administração pela Universidade Estácio de Sá. Atua como analista de acessibilidade digital no Itaú Unibanco num papel que envolve, além dos testes de qualidade dos componentes front-end, a detecção antecipada de problemas de acessibilidade e consultorias a designers, UXers, engenheiros é afins., sempre orientado pelas práticas ágeis. É técnico em Emprego apoiado para inserção de pessoas com deficiência no Mercado de Trabalho e, voluntariamente, faz a gestão do INSEP (Instituto Socioesportivo Paratleta), onde também é instrutor na trilha de “Treinamento para QA em Acessibilidade Digital."
 
+- date: 2021-10-09
+  start: "15:00"
+  end: "15:30"
+  show: true
+  room: Sala 6
+  title: "Workshop Brasileiro de Métodos Ágeis - AgileBrazil: Uma década de testes de software"
+  kind: session
+  type: "WBMA"
+  track: "WBMA"
+  target: ""
+  description: "Decorrente das preocupações com os estudos do cenário de testes nos métodos ágeis no Brasil, este trabalho apresenta o mapeamento (2010-2019) e análise sobre o desenvolvimento da pesquisa em testes de software em trabalhos publicados no Workshop Brasileiro de Métodos Ágeis (WBMA), Agile Brazil. Tal esforço tem como objetivo verificar o crescimento, a diversidade de enfoques atrelados ao uso do teste no contexto mais amplo das metodologias ágeis e realizar apontamentos sobre o perfil dos trabalhos, tendo em vista o fortalecimento dos estudos na área na última década, em espaços de discussão acadêmica e aplicações na indústria. O artigo utilizou práticas de uma revisão sistemática da literatura, o que possibilitou uma análise qualitativa e quantitativa das evidências coletadas. Nós concluímos que o número de publicações vêm crescendo ao longo dos anos, mas o número absoluto de trabalhos publicados em todas as edições do evento ainda não é tão expressivo, principalmente quando consideramos o grande número de tópicos de teste de software que existem ou precisam de melhorias. Emergem como resultados desse trabalho apontamentos sobre a relação de autores e instituições com a pesquisa de teste de software."
+  speakers:
+    - name: Acássio Araújo
+      show: false
+      bio: ""
+
+- date: 2021-10-09
+  start: "16:00"
+  end: "16:30"
+  show: true
+  room: Sala 6
+  title: "Agile requirements engineering practices: a survey in Brazilian software development companies"
+  kind: session
+  type: "WBMA"
+  track: "WBMA"
+  target: ""
+  description: "Requirements Engineering (RE – Requirements Engineering) is one of the key areas in software development. Since agile software development encompasses several emerging techniques and advocates continuous improvement, the question arises as to which agile RE practices are currently most used, what are their characteristics and challenges in their use. The objective of this work is to investigate and classify the practices of gathering and specifying agile requirements based on how professionals perceive their importance for a software project that uses agile methodologies. For this, we carried out a survey with 46 Brazilian software development professionals, asking which methods are used to gather and specify requirements, characteristics, benefits and challenges when using the methods. The respondents' answers allowed us to perform a data analysis and identify some relationships between the respondents' experience and their view on the use of agile requirements survey and specification methods, we also learned that the use of these methods is still very recent. Most have been used for less than five years. In addition, we realized that, for most respondents, there are still great challenges and improvements to be made for better efficiency when putting the method into practice."
+  speakers:
+    - name: Juan Carlos Barata
+      show: true
+      bio: ""
+      
 - date: 2021-10-09
   start: "16:00"
   end: "18:00"
@@ -1362,6 +1413,7 @@
       show: true
       bio: "Ravi é um hacktivista social, facilitador, org designer e mapeador de sistemas. Pesquisa metodologias colaborativas e complexidade no contexto organizacional, relacional e ambiental. É parceiro na Target Teal, CollabDesign e Facilita.Social."
 
+      
 - date: 2021-10-09
   start: "16:00"
   end: "17:00"
@@ -1412,6 +1464,43 @@
       show: true
       bio: "Delivery & Project Manager na ZBRA Soluções, consultoria de software que investe em entregas de qualidade e cultura de aprendizado. Atua no crescimento, apoio estratégico e operacional, buscando a melhoria contínua dos processos de entrega da empresa. Formado em Ciência da Computação pela UNESP, tem experiência no mundo da agilidade desde 2006 atuando desde o desenvolvimento e passando por diferentes papéis em equipes ágeis. Atuou como Gerente de TI, Business Development e Gerente de Desenvolvimento em inovação na Level Up Games, e posteriormente como Consultor Lead na ThoughtWorks. Tem grande experiência no apoio e cultivo de pessoas, construção de times de alta performance e transformação ágil com foco na mudança de mentalidade, usando a entrega de software como direcionador. Em constante atualização, tem uma vasta experiência no processo de entrega e métricas, advogando pelo bom uso destas para que gerem valor, mas focando no equilibrio e bem estar do time. Pai do Eduardo, amante de video-games, quadrinhos, arte e literatura."
 
+- date: 2021-10-09
+  start: "16:30"
+  end: "17:00"
+  show: true
+  room: Sala 6
+  title: "Estudo das Adaptações de uma Equipe de Desenvolvimento de Software para o Trabalho Remoto Durante a Pandemia de COVID-19"
+  kind: session
+  type: "WBMA"
+  track: "WBMA"
+  target: ""
+  description: "As práticas de distanciamento social adotadas para conter a propagação da pandemia de COVID-19 levaram muitas empresas a migrar para o trabalho remoto de forma obrigatória e não planejada. Essa transição repentina para o trabalho em casa causou mudanças profundas nas relações pessoais e profissionais. Neste artigo, apresentamos os resultados de um estudo observacional qualitativo sobre as adaptações feitas nas atividades de processo de software de uma coordenadoria de desenvolvimento de software de uma universidade brasileira. Essas adaptações visaram apoiar a transição para o trabalho remoto durante a pandemia, sem deixar que organização perca sua essência na adoção de práticas ágeis. Essas adaptações foram analisadas com base no referencial teórico de Olson e Olson para colaboração distribuída."
+  speakers:
+    - name: Diego Lisbôa
+      show: true
+      bio: "Mestrando em Ciência da Computação (Universidade Federal do Pará – UFPA), Pós-graduando em JAVA Corporativo (Centro Universitário do Estado do Pará – CESUPA), Bacharel em Sistemas de Informação (Universidade Federal do Pará – UFPA), CSM pela Scrum Alliance.
+            Atuo como Coordenador de Tecnologia na Coordenadoria de Informação e Tecnologia da Pró-Reitoria de Ensino e Graduação da UFPA (COTIC-PROEG).
+            Sou membro ativo da Comunidade Tá Safo. Desde 2012 tenho contribuído com organização/voluntariado em eventos de Agilidade como Ta Safo Conf, Agile Trends e Agile Brazil.
+            Já atuei como palestrante nas duas edições que tivemos do Ta Safo Conf (2012 e 2015) e em vários mini-eventos da Comunidade denominados Ta Safo em Ação.
+            Atua como pesquisador nas áreas de Sistemas Colaborativos e Métologias Ágeis."
+
+- date: 2021-10-09
+  start: "17:00"
+  end: "17:30"
+  show: true
+  room: Sala 6
+  title: "UX-Painter: Fostering UX improvement in an Agile Setting"
+  kind: session
+  type: "WBMA"
+  track: "WBMA"
+  target: ""
+  description: "It is generally difficult in agile teams, specially those geographically distributed, to keep up with the user experience (UX) issues that emerge on each product increment. UX designers need the help of developers to set up user testing environments and to code improvements to the user interface, while developers are too busy with functionality issues. This paper describes a tool called UX-Painter and shows through a case study, how it may help in the above setting to synchronize UX practices and allow for continuous UX improvement during an agile development.
+                UX-Painter allows designers to set up A/B testing environments, exploring interface design alternatives without the need of programming skills, through predefined transformations called client-side web refactorings. Once a design alternative is selected to be implemented in the application's codebase, UX-Painter may also facilitate this step, exporting the applied refactorings to different frontend frameworks. Thus, we foster a method where UX backlog items can be systematically tackled and resolved in an agile setting."
+  speakers:
+    - name: Juan Cruz Gardey
+      show: true
+      bio: "Juan Cruz Gardey is a PhD student at Facultad de Informática, Universidad Nacional de La Plata. His research is focused on automating the usability evaluation of web applications."
+            
 - date: 2021-10-09
   start: "17:00"
   end: "18:00"
@@ -1480,7 +1569,42 @@
       bio: "Formado em Engenharia de Computação Unicamp, 19 anos no mercado de TI; trabalhei na Petrobras de 2008-2016, quando me muito a estudo e aplicação de métodos ágeis, com foco em desenvolvimento (qualidade de código, cobertura de testes e modelagem ágil, principalmente) e algumas questões de gestão (retrospectivas, estimativas).Desde 2016 sou consultor de desenvolvimento de software Sr na Thoughtworks, onde tenho desempenhado o papel de desenvolvedor em time ágil e também o de divulgar e consolidar a cultura de desenvolvimento seguro."
 
 - date: 2021-10-09
+  start: "17:30"
+  end: "18:00"
+  show: true
+  room: Sala 6
+  title: "Experience in implementing the Scrum framework in incubated companies"
+  kind: session
+  type: "WBMA"
+  track: "WBMA"
+  target: ""
+  description: "This article presents the experience of training and implementing the Scrum framework in incubated companies in the Information Technology field. The main goal of this case study was to demystify the idea that a senior team is required for the Scrum application and good performance. Another goal was to verify the minimum time needed for companies to start using the framework and to identify the time it takes for teams to achieve project stability. In addition, were observed velocity rates, if there was an increase in productivity during the project execution, and the differences between what was planned and what was carried out."
+  speakers:
+    - name: Ludimila Casagrande
+      show: true
+      bio: "Mestre em Ciência da Computação pela Universidade de São Paulo (USP - 2001) e graduada, também em Ciência da Computação, pela Universidade Federal de Viçosa (UFV - 1999). Possui 20 anos de experiência profissional, sendo que durante 11 anos atuou como líder, gerente de projetos de software ou como Scrum Master.
+            Já trabalhou em projetos para empresas nacionais e internacionais como Motorola, IBM, Votorantim Celulose e Papel (VCP), eWise, PayWithMyBank, PicPay, entre outras. Especializou-se em gestão ágil de produtos e serviços e possui as certificações Professional Scrum Master e Professional Scrum Product Owner da Scrum.org, CSM e CSPO da Scrum Alliance e Agile Scrum Foundation e Lean IT Foundation da EXIN. Atualmente trabalha como instrutora e consultora na implantação de métodos e práticas ágeis."
+
+
+- date: 2021-10-09
   start: "18:00"
+  end: "19:00"
+  show: true
+  room: Sala Principal
+  title: "10 anos da Aceleradora Ágil e Inclusiva: como unir industria e academia para melhorar a aprendizagem e a inclusão no setor de Tecnologia" 
+  kind: keynote
+  type: "Keynote"
+  track: ""
+  target: ""
+  description: ""
+  speakers:
+    - name: Rafael Prikladnicki
+      photo: assets/images/speakers/rafael-prikladnicki.png
+      show: true
+      bio: ""
+      
+- date: 2021-10-09
+  start: "19:00"
   end: "22:00"
   title: Encerramento - Happy Hour
   kind: alert
