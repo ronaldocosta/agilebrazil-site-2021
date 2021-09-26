@@ -1,45 +1,46 @@
+{% assign master_sponsors = site.data.sponsors | where: "kind", "master" | sort: "name" %}
+{% assign diversity_sponsors = site.data.sponsors | where: "kind", "diversity" | sort: "name" %}
+{% assign support_sponsors = site.data.sponsors | where: "kind", "support" | sort: "name" %}
 <footer id="colophon" class="site-footer">
   <div class="wrap">
-    
     <div class="container grey-box">
-      {% if site.data.sponsors %}
       <div class="row sponsors mt-5">
-          <div class="col-12 item text-center">
-            <h4 class="elementor-heading-title elementor-size-default">patrocinadores</h4>
-            {% for sponsor in site.data.sponsors %}
-              <a href="{{sponsor.url}}" target="_blank"><img class="img-fluid" src="{{sponsor.logo}}" title="{{sponsor.name}}" alt="{{sponsor.name}}"></a>
-            {% endfor %}
-          </div>
+        <div class="col-12 item text-center">
+          <h4 class="elementor-heading-title elementor-size-default">patrocinadores</h4>
+          {% for sponsor in master_sponsors %}
+            <a href="{{sponsor.url}}" target="_blank"><img class="img-fluid" src="{{sponsor.logo}}" title="{{sponsor.name}}" alt="{{sponsor.name}}"></a>
+          {% endfor %}
+        </div>
       </div>
-      <div class="row mt-1">
+      <div class="row mt-1 mb-5">
         <div class="col-12 text-center">
           <a href="sponsorship" class="btn btn-lg" role="button">
             Seja um patrocinador
           </a>
         </div>
       </div>
-      {% endif %}
+      <div class="row sponsors sponsors-diversity mt-5">
+        <div class="col-12 item text-center mt-3">
+          <h5 class="elementor-heading-title elementor-size-default">Patrocinadores - Diversidade e Inclusão</h5>
+          {% for sponsor in diversity_sponsors %}
+            <a href="{{sponsor.url}}" target="_blank"><img class="img-fluid" src="{{sponsor.logo}}" title="{{sponsor.name}}" alt="{{sponsor.name}}"></a>
+          {% endfor %}
+        </div>
+      </div>
+      <div class="row sponsors sponsors-support mt-4">
+        <div class="col-12 item text-center mt-3">
+          <h6 class="elementor-heading-title elementor-size-default">Apoio</h6>
+          {% for sponsor in support_sponsors %}
+            <a href="{{sponsor.url}}" target="_blank"><img class="img-fluid" src="{{sponsor.logo}}" title="{{sponsor.name}}" alt="{{sponsor.name}}"></a>
+          {% endfor %}
+        </div>
+      </div>
       <div class="row mt-5 mb-3">
-        <div class="col-md-7">
+        <div class="col-md-8">
           <h4 class="elementor-heading-title elementor-size-default">Sobre a Agile Brazil</h4>
           <p>{{site.description}}</p>
         </div>
-        <div class="col-md-2 text-center made-by">
-          <h4 class="elementor-heading-title elementor-size-default">Apoio</h4>
-          <div class="col">
-            <div>
-              <a href="http://criativaeventos.net" target="_blank">
-                <img class="img-fluid criativa" src="assets/images/logo-criativa.png" title="Criativa Soluções em Eventos" alt="Criativa Soluções em Eventos">
-              </a>
-            </div>
-            <div>
-              <a href="https://www.agilealliance.org/agilealliancebrazil" target="_blank">
-                <img class="img-fluid" src="assets/images/logo-agile-alliance.png" title="Agile Alliance" alt="Agile Alliance">
-              </a>
-            </div>
-          </div>              
-        </div>
-        <div class="col-md-3 text-center">
+        <div class="col-md-4 text-center">
           <div class="row">
             <div class="col-12">
               <h4 class="elementor-heading-title elementor-size-default mb-0">Fale com a Agile Brazil</h4>

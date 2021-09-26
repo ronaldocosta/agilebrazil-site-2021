@@ -1,27 +1,54 @@
 - name: AmbevTech
   logo: assets/images/sponsor-logo-ambev.png
   url: https://ambevtech.com.br/
+  kind: master
 
 - name: Bain & Company
   logo: assets/images/sponsor-logo-bain.png
   url: https://www.bain.com
+  kind: master
 
-- name: DTI
+- name: Os Agilistas - DTI
   logo: assets/images/sponsor-logo-dti.png
   url: https://www.dtidigital.com.br
+  kind: master
 
 - name: Globant
   logo: assets/images/sponsor-logo-globant.png
   url: https://www.globant.com/pt-br
+  kind: master
   
 - name: Globo.com
   logo: assets/images/sponsor-logo-globo.png
   url: https://vempraglobo.recruiterbox.com
+  kind: master
 
 - name: SoftDesign
   logo: assets/images/sponsor-logo-softdesign.png
   url: https://softdesign.com.br/
+  kind: master
 
 - name: Thoughtworks
   logo: assets/images/sponsor-logo-thoughtworks.png
   url: https://www.thoughtworks.com/
+  kind: master
+
+- name: Rafael Albino
+  logo: assets/images/sponsor-logo-rafael-albino.png
+  url: https://linktr.ee/rapha_albino
+  kind: diversity
+
+- name: GFT
+  logo: assets/images/sponsor-logo-gft.png
+  url: https://www.gft.com/br
+  kind: diversity
+
+- name: Criativa Soluções em Eventos
+  logo: assets/images/sponsor-logo-criativa.png
+  url: http://criativaeventos.net
+  kind: support
+
+- name: Agile Alliance
+  logo: assets/images/sponsor-logo-agile-alliance.png
+  url: https://www.agilealliance.org/agilealliancebrazil
+  kind: support

@@ -7,7 +7,7 @@ footer {
     background-color: $footer-bg-color;
   }
 
-  h4 {
+  h4, h5, h6 {
     color: $footer-font-color;
   }
 
@@ -27,13 +27,20 @@ footer {
     }
   }
 
-
-  .sponsors {
+  .sponsors, .sponsors-diversity, .sponsors-support {
     img {
       max-height: 100px;
       filter: brightness(0) invert(1);
       opacity: .35;
     }
+  }
+
+  .sponsors-diversity img {
+    max-height: 75px;
+  }
+
+  .sponsors-support img {
+    max-height: 50px;
   }
 
   .made-by img {
