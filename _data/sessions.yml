@@ -13,7 +13,7 @@
   start: "10:00"
   end: "11:00"
   show: true
-  room: Sala Principal
+  room: Sala Donella Meadows
   title: About trees, agility and me
   kind: keynote
   type: "Keynote"
@@ -30,7 +30,7 @@
   start: "11:00"
   end: "11:30"
   show: true
-  room: Sala 1
+  room: Sala Karen Sparck Jones
   title: "Startup as a Service: um modelo ágil para criação e desenvolvimento de negócios de inovação"
   kind: session
   type: "Apresentação"
@@ -50,7 +50,7 @@
   start: "11:00"
   end: "11:30"
   show: true
-  room: Sala 2
+  room: Sala Dorothy Vaughan
   title: "Criando jurídicos menos jurássicos"
   kind: session
   type: "Apresentação"
@@ -76,7 +76,7 @@
   start: "11:30"
   end: "12:00"
   show: true
-  room: Sala 1
+  room: Sala Karen Sparck Jones
   title: "Lean Inception: 7 dicas de como turbina-la"
   kind: session
   type: "Apresentação"
@@ -99,7 +99,7 @@
   start: "11:30"
   end: "12:00"
   show: true
-  room: Sala 2
+  room: Sala Dorothy Vaughan
   title: "DESOBEDEÇA: Será que conseguiremos inovar se continuarmos seguindo todas as regras?"
   kind: session
   type: "Apresentação"
@@ -124,7 +124,7 @@
   start: "16:00"
   end: "17:00"
   show: true
-  room: Sala 1
+  room: Sala Karen Sparck Jones
   title: "Agilidade e sistemas legados: sair de um pântano de BUGS, manter a operação e criar novos produtos"
   kind: session
   type: "Apresentação"
@@ -148,7 +148,7 @@
   start: "16:00"
   end: "17:00"
   show: true
-  room: Sala 2
+  room: Sala Dorothy Vaughan
   title: "A Quarta Década da Agilidade: Da Agilidade Operacional à Agilidade Estratégica"
   kind: session
   type: "Apresentação"
@@ -175,7 +175,7 @@
   start: "17:00"
   end: "17:30"
   show: true
-  room: Sala 1
+  room: Sala Karen Sparck Jones
   title: "Como as métricas salvaram um time do desastre total"
   kind: session
   type: "Apresentação"
@@ -205,7 +205,7 @@
   start: "17:00"
   end: "18:00"
   show: true
-  room: Sala 2
+  room: Sala Dorothy Vaughan
   title: "Uma grande mudança feita por uma soma de mudanças pequenas"
   kind: session
   type: "Apresentação"
@@ -225,7 +225,7 @@
   start: "17:30"
   end: "18:00"
   show: true
-  room: Sala 1
+  room: Sala Karen Sparck Jones
   title: "Produtividade Relacional - O Molho Secreto para Escalar a Agilidade de Negócios"
   kind: session
   type: "Apresentação"
@@ -248,15 +248,16 @@
   start: "18:00"
   end: "19:00"
   show: true
-  room: Sala Principal
-  title: Jeff Sutherland
+  room: Sala Donella Meadows
+  title: Scrum@Scale Origins
   kind: keynote
   type: "Keynote"
   track: ""
   target: ""
-  description: "Detalhes em breve"
+  description: "Nesta sessão, o Dr. Jeff Sutherland (inventor do Scrum@Scale e do framework Scrum) falará das origens do framework Scrum@Scale. Ele foi desenvolvido a partir dos padrões de times de alta performance, dos principais fundamentos do Scrum, da teoria Complex Adaptive Systems, Teoria dos jogos, Tecnologia orientada à objetos. Jeff compartilhará conceitos chave e estudos de casos da implementação do Scrum@Scale, mostrando como o framework possibilita que companhias escalem sem perder produtividade."
   speakers:
-    - name: Keynote 
+    - name: Jeff Sutherland 
+      photo: assets/images/speakers/jeff-sutherland.png
       show: true
       bio: "Dr. Jeff Sutherland é o inventor e co-criador do Scrum. Ele é formado pela West Point, foi piloto de caça, pesquisador sobre câncer, bem como CTO de onze companhias de software. Ele lançou o primeiro time scrum em 1993 e acompanhou seu crescimento em praticamente todas as indústrias: financeiro, saúde, ensino superior e telecom. É co-autor do bestseller 'Scrum: a arte de fazer o dobro na metade do tempo'. Seu livro mais recente é 'A Scrum Book: The Spirit of the Game'."
       
@@ -275,7 +276,7 @@
   start: "10:00"
   end: "11:00"
   show: true
-  room: Sala Principal
+  room: Sala Donella Meadows
   title: Flight Levels - The Organisation's missing link to Business Agility
   kind: keynote
   type: "Keynote"
@@ -292,7 +293,7 @@
   start: "11:00"
   end: "11:30"
   show: true
-  room: Sala 1
+  room: Sala Karen Sparck Jones
   title: "Promovendo a propriedade coletiva (collective ownership)"
   kind: session
   type: "Apresentação"
@@ -316,7 +317,7 @@
   start: "11:00"
   end: "11:30"
   show: true
-  room: Sala 2
+  room: Sala Dorothy Vaughan
   title: "Como a agilidade mudou meu contrato e sobrevivi ao desafio de entregar o Pix na Pandemia"
   kind: session
   type: "Apresentação"
@@ -334,7 +335,7 @@
   start: "11:30"
   end: "12:00"
   show: true
-  room: Sala 1
+  room: Sala Karen Sparck Jones
   title: "Análise de Código: precisamos falar disso!"
   kind: session
   type: "Apresentação"
@@ -357,7 +358,7 @@
   start: "11:30"
   end: "12:00"
   show: true
-  room: Sala 2
+  room: Sala Dorothy Vaughan
   title: "Agilidade como diferencial para a área da saúde na pandemia: uma história de sucesso!"
   kind: session
   type: "Apresentação"
@@ -374,7 +375,7 @@
   start: "16:00"
   end: "17:00"
   show: true
-  room: Sala 1
+  room: Sala Karen Sparck Jones
   title: "Alinhamento de Expectativas para uma cadência de entregas eficazes e pessoas felizes"
   kind: session
   type: "Apresentação"
@@ -393,7 +394,7 @@
   start: "16:00"
   end: "17:00"
   show: true
-  room: Sala 2
+  room: Sala Dorothy Vaughan
   title: "Criando um chapter de agilidade... ou três!"
   kind: session
   type: "Apresentação"
@@ -414,7 +415,7 @@
   start: "17:00"
   end: "18:00"
   show: true
-  room: Sala 1
+  room: Sala Karen Sparck Jones
   title: "F4P e OKR: a organização orientada à estratégia"
   kind: session
   type: "Apresentação"
@@ -436,7 +437,7 @@
   start: "17:00"
   end: "17:30"
   show: true
-  room: Sala 2
+  room: Sala Dorothy Vaughan
   title: "Como aumentamos a produtividade dos times fazendo trabalharem menos com Kanban e XP"
   kind: session
   type: "Apresentação"
@@ -455,7 +456,7 @@
   start: "17:30"
   end: "18:00"
   show: true
-  room: Sala 2
+  room: Sala Dorothy Vaughan
   title: "Como transformar a reunião diária em uma verdadeira coordenação tática"
   kind: session
   type: "Apresentação"
@@ -473,7 +474,7 @@
   start: "18:00"
   end: "20:00"
   show: true
-  room: Sala 1
+  room: Sala Open Space Comunidades 1
   title: "Cases de Fracasso"
   kind: session
   type: "Lean Coffee"
@@ -481,7 +482,7 @@
   target: ""
   description: "Os facilitadores iniciam falando sobre um case de fracasso e depois incitaremos os participantes a compartilhar suas experiências sobre casos de fracasso vivenciados para compartilhamento com todos"
   speakers:
-    - name: Agiliza Cerará
+    - name: Agiliza Ceará
       show: true
       bio: ""     
     - name: Agile Maringá
@@ -492,7 +493,7 @@
   start: "18:00"
   end: "20:00"
   show: true
-  room: Sala 2
+  room: Sala Open Space Comunidades 2
   title: "O que está rolando no Agile Brazil"
   kind: session
   type: "Lean Coffee"
@@ -503,7 +504,7 @@
     - name: Agile ABC
       show: true
       bio: ""          
-    - name: Agile ABC
+    - name: Agile 83
       show: true
       bio: ""
       
@@ -522,7 +523,7 @@
   start: "10:00"
   end: "11:00"
   show: true
-  room: Sala Principal
+  room: Sala Donella Meadows
   title: (Des)Construindo Vieses em Bases de Dados
   kind: keynote
   type: "Keynote"
@@ -539,7 +540,7 @@
   start: "11:00"
   end: "11:30"
   show: true
-  room: Sala 1
+  room: Sala Karen Sparck Jones
   title: "O tal do limite WIP - Como começar? Erros comuns e 5 dicas práticas"
   kind: session
   type: "Apresentação"
@@ -570,7 +571,7 @@
   start: "11:00"
   end: "11:30"
   show: true
-  room: Sala 2
+  room: Sala Dorothy Vaughan
   title: "Discovery Kanban: por um Fluxo de Desenvolvimento de Produtos"
   kind: session
   type: "Apresentação"
@@ -588,7 +589,7 @@
   start: "11:30"
   end: "12:00"
   show: true
-  room: Sala 1
+  room: Sala Karen Sparck Jones
   title: "#ExtremeScale: Fluxo Unificado, além do balancemento de capacidade vs demanda"
   kind: session
   type: "Apresentação"
@@ -611,7 +612,7 @@
   start: "11:30"
   end: "12:00"
   show: true
-  room: Sala 2
+  room: Sala Dorothy Vaughan
   title: "Map to Map - Não basta ser iterativo, também é preciso ser incremental"
   kind: session
   type: "Apresentação"
@@ -639,7 +640,7 @@
   start: "16:00"
   end: "17:00"
   show: true
-  room: Sala 1
+  room: Sala Karen Sparck Jones
   title: "Arquitetura de software: de startup a unicórnio"
   kind: session
   type: "Apresentação"
@@ -657,7 +658,7 @@
   start: "16:00"
   end: "17:00"
   show: true
-  room: Sala 2
+  room: Sala Dorothy Vaughan
   title: "A aplicação de ferramentas do Design promovendo melhorias em times ágeis"
   kind: session
   type: "Apresentação"
@@ -683,7 +684,7 @@
   start: "17:00"
   end: "17:30"
   show: true
-  room: Sala 1
+  room: Sala Karen Sparck Jones
   title: "Qual deve ser o tamanho da minha unidade de testes?"
   kind: session
   type: "Apresentação"
@@ -700,7 +701,7 @@
   start: "17:30"
   end: "18:00"
   show: true
-  room: Sala 1
+  room: Sala Karen Sparck Jones
   title: "Aplicando a governança para facilitar o trabalho do dev team"
   kind: session
   type: "Apresentação"
@@ -718,7 +719,7 @@
   start: "17:00"
   end: "18:00"
   show: true
-  room: Sala 2
+  room: Sala Dorothy Vaughan
   title: "Slot Patrocinado"
   kind: session
   type: "Apresentação"
@@ -734,15 +735,15 @@
   start: "18:00"
   end: "20:00"
   show: true
-  room: Sala 1
+  room: Sala Open Space Comunidades 1
   title: "O impacto do Lean Portfólio Management na Agilidade de negócios"
   kind: session
   type: "Bancada de Conversa"
   track: "Comunidades"
   target: ""
-  description: "Entrevisa com o convidado Mateus Piveta"
+  description: "Entrevista com o convidado Mateus Piveta"
   speakers:
-    - name: Papo Pinado
+    - name: Papopinado
       show: true
       bio: ""     
       
@@ -750,7 +751,7 @@
   start: "18:00"
   end: "20:00"
   show: true
-  room: Sala 2
+  room: Sala Open Space Comunidades 2
   title: "Change Management"
   kind: session
   type: "Painel"
@@ -781,7 +782,7 @@
   start: "10:00"
   end: "11:00"
   show: true
-  room: Sala Principal
+  room: Sala Donella Meadows
   title: "Experiência e Resultado: as duas faces da moeda Ágil"
   kind: keynote
   type: "Keynote"
@@ -798,7 +799,7 @@
   start: "11:00"
   end: "11:30"
   show: true
-  room: Sala 1
+  room: Sala Karen Sparck Jones
   title: "Escalando entregas por meio de plataformas digitais"
   kind: session
   type: "Apresentação"
@@ -816,7 +817,7 @@
   start: "11:00"
   end: "11:30"
   show: true
-  room: Sala 2
+  room: Sala Dorothy Vaughan
   title: "Agilidade em escala: É possível ser simples?"
   kind: session
   type: "Apresentação"
@@ -840,7 +841,7 @@
   start: "11:30"
   end: "12:00"
   show: true
-  room: Sala 1
+  room: Sala Karen Sparck Jones
   title: "Como o Relatório A3 pode potencializar a melhoria contínua de Squads e Tribos"
   kind: session
   type: "Apresentação"
@@ -867,7 +868,7 @@
   start: "11:30"
   end: "12:00"
   show: true
-  room: Sala 2
+  room: Sala Dorothy Vaughan
   title: "O Agilista Jedi: A força do Soft Skill"
   kind: session
   type: "Apresentação"
@@ -891,7 +892,7 @@
   start: "16:00"
   end: "17:00"
   show: true
-  room: Sala 1
+  room: Sala Karen Sparck Jones
   title: "Como garantir qualidade no software durante todo o fluxo de trabalho - além dos cenários de teste"
   kind: session
   type: "Apresentação"
@@ -920,7 +921,7 @@
   start: "16:00"
   end: "17:00"
   show: true
-  room: Sala 2
+  room: Sala Dorothy Vaughan
   title: "Inove na estrutura dos times - Um case prático da RDStation que vai além de tribos e squads"
   kind: session
   type: "Apresentação"
@@ -950,7 +951,7 @@
   start: "17:00"
   end: "18:00"
   show: true
-  room: Sala 1
+  room: Sala Karen Sparck Jones
   title: "Experiência de uso, heurísticas de Nielsen e o que nós, do desenvolvimento, temos a ver com isso?"
   kind: session
   type: "Apresentação"
@@ -968,7 +969,7 @@
   start: "17:00"
   end: "18:00"
   show: true
-  room: Sala 2
+  room: Sala Dorothy Vaughan
   title: "O onboarding como acelerador da construção de times"
   kind: session
   type: "Apresentação"
@@ -992,7 +993,7 @@
   start: "18:00"
   end: "19:00"
   show: true
-  room: Sala Principal
+  room: Sala Donella Meadows
   title: "As páginas (não) viradas da Agilidade"
   kind: keynote
   type: "Keynote"
@@ -1020,7 +1021,7 @@
   start: "10:00"
   end: "12:00"
   show: true
-  room: Sala 1
+  room: Sala Karen Sparck Jones
   title: "Scrum Lúdico: Ensinando e Aprendendo Scrum em 60 minutos"
   kind: session
   type: "Mão na Massa"
@@ -1038,7 +1039,7 @@
   start: "10:00"
   end: "12:00"
   show: true
-  room: Sala 2
+  room: Sala Dorothy Vaughan
   title: "OKR: não é lista de entregas, é a bússola para caminharmos para a mesma direção"
   kind: session
   type: "Mão na Massa"
@@ -1067,8 +1068,8 @@
   start: "10:00"
   end: "11:00"
   show: true
-  room: Sala 3
-  title: "Síndorme do Importor e Incertezas"
+  room: Sala Open Space Comunidades 1
+  title: "Síndrome do Importor e Incertezas"
   kind: session
   type: "Lean Coffee"
   track: "Comunidades"
@@ -1084,8 +1085,8 @@
   start: "10:00"
   end: "12:00"
   show: true
-  room: Sala 4
-  title: "Fishbowl"
+  room: Sala Open Space Comunidades 2
+  title: "Como medir a eficácia"
   kind: session
   type: "Fishbowl"
   track: "Comunidades"
@@ -1100,7 +1101,7 @@
   start: "11:00"
   end: "12:00"
   show: true
-  room: Sala 3
+  room: Sala Open Space Comunidades 1
   title: "Liderança Ágil"
   kind: session
   type: "Debate"
@@ -1116,7 +1117,7 @@
   start: "10:00"
   end: "11:00"
   show: true
-  room: Sala 5
+  room: Sala Grace Hopper
   title: "Inclusão e Agilidade: Reinventando a educação em desenvolvimento de software em programas inclusivos"
   kind: session
   type: "Apresentação"
@@ -1137,7 +1138,7 @@
   start: "11:00"
   end: "12:00"
   show: true
-  room: Sala 5
+  room: Sala Grace Hopper
   title: "Agilidade no enfrentamento à COVID-19: desafios, práticas, aprendizados, e o impacto final"
   kind: session
   type: "Apresentação"
@@ -1159,7 +1160,7 @@
   start: "13:30"
   end: "15:30"
   show: true
-  room: Sala 1
+  room: Sala Karen Sparck Jones
   title: "Alavancando resultados através do Mapeamento de Fluxo de Valor"
   kind: session
   type: "Mão na Massa"
@@ -1180,7 +1181,7 @@
   start: "13:30"
   end: "15:30"
   show: true
-  room: Sala 2
+  room: Sala Dorothy Vaughan
   title: "Iniciei na Agilidade mas nunca facilitei uma cerimônia e agora, o que fazer?"
   kind: session
   type: "Mão na Massa"
@@ -1201,7 +1202,7 @@
   start: "13:30"
   end: "15:30"
   show: true
-  room: Sala 3
+  room: Sala Enedina Alves
   title: "Exploring Heuristic for Test-Driven Development"
   kind: session
   type: "Mão na Massa"
@@ -1219,7 +1220,7 @@
   start: "13:30"
   end: "15:30"
   show: true
-  room: Sala 4
+  room: Sala Open Space Comunidades 1
   title: "Comunidade Ágil de Empresas"
   kind: session
   type: "Fishbowl"
@@ -1238,7 +1239,7 @@
   start: "13:30"
   end: "14:30"
   show: true
-  room: Sala 5
+  room: Sala Grace Hopper
   title: "Você sabe o propósito do seu cliente ao te escolher?Conheça Fit for Purpose e pare de voar às cegas!"
   kind: session
   type: "Apresentação"
@@ -1256,23 +1257,7 @@
   start: "14:30"
   end: "15:30"
   show: true
-  room: Sala 4
-  title: "Open Space: Comunidade"
-  kind: session
-  type: "Open Space"
-  track: "Comunidades"
-  target: ""
-  description: "Em breve maiores detalhes"
-  speakers:
-    - name: Comunidade
-      show: false
-      bio: ""
-
-- date: 2021-10-09
-  start: "14:30"
-  end: "15:30"
-  show: true
-  room: Sala 5
+  room: Sala Grace Hopper
   title: "Acessibilidade e agilidade uma parceria de sucesso"
   kind: session
   type: "Apresentação"
@@ -1294,7 +1279,7 @@
   start: "16:00"
   end: "18:00"
   show: true
-  room: Sala 4
+  room: Sala Open Space Comunidades 1
   title: "OKRs nas Organizações"
   kind: session
   type: "Fishbowl"
@@ -1313,7 +1298,7 @@
   start: "16:00"
   end: "18:00"
   show: true
-  room: Sala 1
+  room: Sala Karen Sparck Jones
   title: "Fun Kanban"
   kind: session
   type: "Mão na Massa"
@@ -1334,7 +1319,7 @@
   start: "16:00"
   end: "18:00"
   show: true
-  room: Sala 2
+  room: Sala Dorothy Vaughan
   title: "Ferramentas do Pensamento Sistêmico para Agentes de Mudança"
   kind: session
   type: "Mão na Massa"
@@ -1356,7 +1341,7 @@
   start: "16:00"
   end: "17:00"
   show: true
-  room: Sala 5
+  room: Sala Grace Hopper
   title: "Quebrando histórias e ajudando sua previsibilidade"
   kind: session
   type: "Apresentação"
@@ -1373,7 +1358,7 @@
   start: "17:00"
   end: "18:00"
   show: true
-  room: Sala 3
+  room: Sala Enedina Alves
   title: "Navegando pela incerteza guiando-se pela Lei de Gall"
   kind: session
   type: "Apresentação"
@@ -1391,7 +1376,7 @@
   start: "17:00"
   end: "17:30"
   show: true
-  room: Sala 5
+  room: Sala Grace Hopper
   title: "Previsibilidade na prática"
   kind: session
   type: "Apresentação"
@@ -1408,7 +1393,7 @@
   start: "17:30"
   end: "18:00"
   show: true
-  room: Sala 5
+  room: Sala Grace Hopper
   title: "Trunk Based Development"
   kind: session
   type: "Apresentação"
@@ -1425,7 +1410,7 @@
   start: "13:30"
   end: "14:00"
   show: true
-  room: Sala 6
+  room: Elza Furtado Gomide
   title: "Assuring the Evolvability of Legacy Systems in Devops transformation/adoption: Insights of an experience report"
   kind: session
   type: "WBMA"
@@ -1444,7 +1429,7 @@
   start: "14:30"
   end: "15:00"
   show: true
-  room: Sala 6
+  room: Elza Furtado Gomide
   title: "Using a Teamwork Quality Instrument to improve Agile Teams' Effectiveness: Practical Use Cases"
   kind: session
   type: "WBMA"
@@ -1460,7 +1445,7 @@
   start: "15:00"
   end: "15:30"
   show: true
-  room: Sala 6
+  room: Elza Furtado Gomide
   title: "Workshop Brasileiro de Métodos Ágeis - AgileBrazil: Uma década de testes de software"
   kind: session
   type: "WBMA"
@@ -1476,7 +1461,7 @@
   start: "16:00"
   end: "16:30"
   show: true
-  room: Sala 6
+  room: Elza Furtado Gomide
   title: "Agile requirements engineering practices: a survey in Brazilian software development companies"
   kind: session
   type: "WBMA"
@@ -1493,7 +1478,7 @@
   start: "16:30"
   end: "17:00"
   show: true
-  room: Sala 6
+  room: Elza Furtado Gomide
   title: "Estudo das Adaptações de uma Equipe de Desenvolvimento de Software para o Trabalho Remoto Durante a Pandemia de COVID-19"
   kind: session
   type: "WBMA"
@@ -1513,7 +1498,7 @@
   start: "17:00"
   end: "17:30"
   show: true
-  room: Sala 6
+  room: Elza Furtado Gomide
   title: "UX-Painter: Fostering UX improvement in an Agile Setting"
   kind: session
   type: "WBMA"
@@ -1530,7 +1515,7 @@
   start: "17:30"
   end: "18:00"
   show: true
-  room: Sala 6
+  room: Elza Furtado Gomide
   title: "Experience in implementing the Scrum framework in incubated companies"
   kind: session
   type: "WBMA"
@@ -1562,14 +1547,25 @@
 
 
 
-
-
-
-
-
-
 - date: 2021-10-09
   start: "18:00"
+  end: "19:00"
+  show: true
+  room: Sala Donella Meadows
+  title: "10 anos da Aceleradora Ágil e Inclusiva: como unir industria e academia para melhorar a aprendizagem e a inclusão no setor de Tecnologia" 
+  kind: keynote
+  type: "Keynote"
+  track: ""
+  target: ""
+  description: ""
+  speakers:
+    - name: Rafael Prikladnicki
+      photo: assets/images/speakers/rafael-prikladnicki.jpg
+      show: true
+      bio: ""
+
+- date: 2021-10-09
+  start: "19:00"
   end: "22:00"
   title: Encerramento - Happy Hour
   kind: alert

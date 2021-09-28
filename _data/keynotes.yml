@@ -17,3 +17,7 @@
 - name: Sandra Ávila
   photo: assets/images/speakers/sandra-davila.jpg
   legend: (Des)Construindo Vieses em Bases de Dados
+
+- name: Jeff Sutherland
+  photo: assets/images/speakers/jeff-sutherland.png
+  legend: Scrum@Scale Origins

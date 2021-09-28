@@ -43,6 +43,11 @@
   url: https://www.gft.com/br
   kind: diversity
 
+- name: Bain & Company
+  logo: assets/images/sponsor-logo-bain.png
+  url: https://www.bain.com
+  kind: diversity
+
 - name: Criativa Soluções em Eventos
   logo: assets/images/sponsor-logo-criativa.png
   url: http://criativaeventos.net
@@ -51,4 +56,9 @@
 - name: Agile Alliance
   logo: assets/images/sponsor-logo-agile-alliance.png
   url: https://www.agilealliance.org/agilealliancebrazil
+  kind: support
+
+- name: Casa do Código
+  logo: assets/images/sponsor-logo-casa-codigo.png
+  url: https://www.casadocodigo.com.br
   kind: support
