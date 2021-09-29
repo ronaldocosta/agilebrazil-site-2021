@@ -171,35 +171,22 @@
             projetos de aceleração de negócios.
             Co Autor da abordagem Full Stack Agile Business Analysis."  
 
-- date: 2021-10-05
+- date: 2021-10-09
   start: "17:00"
   end: "17:30"
   show: true
-  room: Sala Karen Sparck Jones
-  title: "Como as métricas salvaram um time do desastre total"
+  room: Sala Grace Hopper
+  title: "Previsibilidade na prática"
   kind: session
   type: "Apresentação"
-  track: "Práticas de Trabalho"
+  track: "Práticas De Trabalho"
   target: "Inicial"
-  description: "O lançamento inadiável de um produto-chave da empresa está chegando e uma lista imensa de tarefas precisam ser entregues no prazo ou a empresa estará em maus-lençóis. Já viveu algo assim? Tem solução?
-                Não, não vamos ensinar você a escrever um e-mail pedindo mais prazo. E nem vamos revelar nenhum truque de mágica. Na verdade, Cristina Agilera, a agilista, vai contar como ajudou o time a lidar com as restrições desse contexto adverso e criar/executar planos de ação baseados em métricas para vencer esse desafio.
-                E de quebra descubra que métricas são essas que podem salvar o time, como elas podem ajudar no dia-a-dia, como as lemos e quais conclusões podemos tirar delas (que podem ser úteis, quem sabe, no seu time)."
-  
+  description: "Vamos observar como utilizar previsões para discutir datas de entrega de projetos e, a partir destas previsões, tomar decisões informadas diante de cenários incertos. A teoria estará ancorada à prática, com o estudo de caso de um time de desenvolvimento, no qual vamos observar também como a implementação de práticas Kanban e de agilidade técnica tornaram as métricas do time mais consistentes, consequentemente permitindo o uso de ferramentas mais robustas de previsibilidade."
   speakers:
-    - name: Samir Bravo
-      email: sambravo@gmail.com
+    - name: Déborah Lage Alvarenga
+      email: deborah@arkhi.com.br
       show: true
-      bio: "Radialista, nerd, geek, pai do Miguel e da Lívia, viciado em boardgames, hoje estou Agility Lead no willbank. Atuo com agilidade e participo da comunidade a mais ou menos 4 anos. Atualmente sonho com menos discussões sobre e frameworks e mais discussões sobre como solucionar problemas."
-            
-    - name: Beatriz Sena
-      email: beatrizsenaarruda@gmail.com
-      show: true
-      bio: "Técnica em Redes de Computadores pelo Senai e Bacharel em Sistemas de informação pela Universidade Federal de Pernambuco. Iniciei minha jornada profissional como desenvolvedora, onde tive a oportunidade de trabalhar com idealização de produtos e gerenciamento ágil de projetos.
-            Há pouco mais de 2 anos comecei a trilhar meu caminho no mundo da agilidade e hoje sou membro da equipe de Agilidade da Easynvest by Nubank onde conduzo equipes especializadas e multifuncionais, adotando metodologias como Scrum, Kanban e Lean.
-            Durante essa jornada na agilidade participei de alguns cursos/certificações como Software Zen, Workshop de Métricas Ágeis, Técnicas Ágeis de Facilitação e KMP1.
-            Todas essas experiências me permitiram aprender como comunicação e cooperação eficazes tornam as coisas mais fáceis, sobre gerenciamento de impedimentos e conflitos, priorização de demandas e o poder do trabalho em equipe.
-            Sou um entusiasta de metodologias ágeis e acredito que compartilhar experiências e conhecimento nos traz crescimento e ajuda a todos na busca pela melhoria contínua."
-
+      bio: "Líder de consultoria e Agile Coach pela Arkhi Business Agility, busca trazer agilidade de negócio para empresas por meio de práticas de gestão modernas, utilizando principalmente o Kanban, sendo certificada pela Kanban University como Kanban Management Professional."
 
 - date: 2021-10-05
   start: "17:00"
@@ -1026,25 +1013,28 @@
   start: "10:00"
   end: "12:00"
   show: true
-  room: Sala Karen Sparck Jones
-  title: "Scrum Lúdico: Ensinando e Aprendendo Scrum em 60 minutos"
+  room: Sala Enedina Alves
+  title: "Alavancando resultados através do Mapeamento de Fluxo de Valor"
   kind: session
   type: "Mão na Massa"
-  track: "Práticas de Trabalho"
+  track: "Práticas De Trabalho"
   target: "Inicial"
-  description: "Aprender Scrum é fácil! Você vai lá lê o Guia Scrum e pronto você já consegue compreender este método. Agora, e na prática? Qual o papel de um Dono do Produto? Como um Scrum Master pode facilitar e ter a certeza de que o time está engajado com o objetivo em comum? Como o time se organiza para entender, estimar e realizar a entrega? Todas essas questões são resolvidas na prática com o Scrum Lúdico!"
-  
+  description: "Você sabe como fazer mapa de fluxo de valor? O Value Stream Mapping é uma ferramenta extremamente eficaz para mapear seus processos com foco na agregação de valor das atividades desenvolvidas. Com o mapeamento correto de um fluxo de valor é possível aumentar de forma estrtuturada e exponencial o desempenho de uma organização o em todos os níveis por meio da Melhoria Contínua. Vem com a gente ver como alavancar os resultados, reduzir desperdício e melhorar a Eficiência do seu fluxo. Neste Workshop mostramos de maneira prática como mapeamos fluxos para atingir esses resultados."
   speakers:
-    - name: Ana Carolina Moises de Souza
-      email: carol.moises@gmail.com
+    - name: Juliana Cainelli
+      email: jufitz@gmail.com
       show: true
-      bio: "Atualmente Ana Carolina é Professora nos cursos da Escola Politécnica na PUCPR. Durante o mestrado pesquisou sobre Engenharia de Software Sustentável no setor financeiro. Neste mesmo período em conjunto com o grupo de pesquisa de engenharia de software pesquisou sobre modelos de maturidade no desenvolvimento de software ágil. Iniciou sua carreira de TI como programadora atuando em empresas do setor de financeiro, petróleo e aviação. Desde 2009 trabalhando em times ágeis, atuou como Scrum Master e Agile Master aplicando métodos ágeis como Scrum, Kanban e SAFe e se encantando com a agilidade a cada dia. Além da agilidade, teatro e canto são as suas paixões. Fui voluntária na comunidade TechLadies com objetivo de aumentar a participação de mulheres na TI e também na CareSchool ensinando inglês para estudantes do ensino fundamental público."
+      bio: "Mãe, Professora e Agilista dedicada aos desafios do Ágil com visão estratégica de pesquisa e foco em resultados. Guia equipes multidisciplinares na adoção e execução dos métodos ágeis por meio de uma cultura de pensamento enxuto e criativo com transparência buscando fortalecer o mindset ágil da organização."
+    - name: Vanessa de Campos Lacerda
+      email: vanelacerda@gmail.com
+      show: true
+      bio: "Atuando a 15 anos na área de TI, já trabalhei nas mais diversas áreas. Iniciei na área comercial de soluções especialistas, implantação e desenvolvimento de soluções com otimização matemática, minha área de formação, suporte na área de planejamento de produção, testes e automação, até que me apaixonei pelo Scrum. Agilista desde 2017 com objetivo de impulsionar os resultados dos times, buscando maior produtividade com eficácia e eficiência utilizando conceitos e práticas ágeis. Apaixonada por conhecer e experimentar coisas novas, acima de tudo apaixonada por pessoas e oportunidades de trocas de conhecimento e experiência. Acredito na essência do ágil, na capacidade de adaptação, em entregas incrementais de valor com foco em melhoria contínua."
 
 - date: 2021-10-09
   start: "10:00"
   end: "12:00"
   show: true
-  room: Sala Dorothy Vaughan
+  room: Sala Ada Lovelace
   title: "OKR: não é lista de entregas, é a bússola para caminharmos para a mesma direção"
   kind: session
   type: "Mão na Massa"
@@ -1084,8 +1074,7 @@
     - name: Mulheres Agilistas
       show: true
       bio: ""     
-      
-      
+        
 - date: 2021-10-09
   start: "10:00"
   end: "12:00"
@@ -1122,7 +1111,7 @@
   start: "10:00"
   end: "11:00"
   show: true
-  room: Sala Grace Hopper
+  room: Sala Karen Sparck Jones
   title: "Inclusão e Agilidade: Reinventando a educação em desenvolvimento de software em programas inclusivos"
   kind: session
   type: "Apresentação"
@@ -1143,7 +1132,7 @@
   start: "11:00"
   end: "12:00"
   show: true
-  room: Sala Grace Hopper
+  room: Sala Karen Sparck Jones
   title: "Agilidade no enfrentamento à COVID-19: desafios, práticas, aprendizados, e o impacto final"
   kind: session
   type: "Apresentação"
@@ -1165,28 +1154,25 @@
   start: "13:30"
   end: "15:30"
   show: true
-  room: Sala Karen Sparck Jones
-  title: "Alavancando resultados através do Mapeamento de Fluxo de Valor"
+  room: Sala Enedina Alves
+  title: "Scrum Lúdico: Ensinando e Aprendendo Scrum em 60 minutos"
   kind: session
   type: "Mão na Massa"
-  track: "Práticas De Trabalho"
+  track: "Práticas de Trabalho"
   target: "Inicial"
-  description: "Você sabe como fazer mapa de fluxo de valor? O Value Stream Mapping é uma ferramenta extremamente eficaz para mapear seus processos com foco na agregação de valor das atividades desenvolvidas. Com o mapeamento correto de um fluxo de valor é possível aumentar de forma estrtuturada e exponencial o desempenho de uma organização o em todos os níveis por meio da Melhoria Contínua. Vem com a gente ver como alavancar os resultados, reduzir desperdício e melhorar a Eficiência do seu fluxo. Neste Workshop mostramos de maneira prática como mapeamos fluxos para atingir esses resultados."
+  description: "Aprender Scrum é fácil! Você vai lá lê o Guia Scrum e pronto você já consegue compreender este método. Agora, e na prática? Qual o papel de um Dono do Produto? Como um Scrum Master pode facilitar e ter a certeza de que o time está engajado com o objetivo em comum? Como o time se organiza para entender, estimar e realizar a entrega? Todas essas questões são resolvidas na prática com o Scrum Lúdico!"
+  
   speakers:
-    - name: Juliana Cainelli
-      email: jufitz@gmail.com
+    - name: Ana Carolina Moises de Souza
+      email: carol.moises@gmail.com
       show: true
-      bio: "Mãe, Professora e Agilista dedicada aos desafios do Ágil com visão estratégica de pesquisa e foco em resultados. Guia equipes multidisciplinares na adoção e execução dos métodos ágeis por meio de uma cultura de pensamento enxuto e criativo com transparência buscando fortalecer o mindset ágil da organização."
-    - name: Vanessa de Campos Lacerda
-      email: vanelacerda@gmail.com
-      show: true
-      bio: "Atuando a 15 anos na área de TI, já trabalhei nas mais diversas áreas. Iniciei na área comercial de soluções especialistas, implantação e desenvolvimento de soluções com otimização matemática, minha área de formação, suporte na área de planejamento de produção, testes e automação, até que me apaixonei pelo Scrum. Agilista desde 2017 com objetivo de impulsionar os resultados dos times, buscando maior produtividade com eficácia e eficiência utilizando conceitos e práticas ágeis. Apaixonada por conhecer e experimentar coisas novas, acima de tudo apaixonada por pessoas e oportunidades de trocas de conhecimento e experiência. Acredito na essência do ágil, na capacidade de adaptação, em entregas incrementais de valor com foco em melhoria contínua."
+      bio: "Atualmente Ana Carolina é Professora nos cursos da Escola Politécnica na PUCPR. Durante o mestrado pesquisou sobre Engenharia de Software Sustentável no setor financeiro. Neste mesmo período em conjunto com o grupo de pesquisa de engenharia de software pesquisou sobre modelos de maturidade no desenvolvimento de software ágil. Iniciou sua carreira de TI como programadora atuando em empresas do setor de financeiro, petróleo e aviação. Desde 2009 trabalhando em times ágeis, atuou como Scrum Master e Agile Master aplicando métodos ágeis como Scrum, Kanban e SAFe e se encantando com a agilidade a cada dia. Além da agilidade, teatro e canto são as suas paixões. Fui voluntária na comunidade TechLadies com objetivo de aumentar a participação de mulheres na TI e também na CareSchool ensinando inglês para estudantes do ensino fundamental público."
 
 - date: 2021-10-09
   start: "13:30"
   end: "15:30"
   show: true
-  room: Sala Dorothy Vaughan
+  room: Sala Ada Lovelace
   title: "Iniciei na Agilidade mas nunca facilitei uma cerimônia e agora, o que fazer?"
   kind: session
   type: "Mão na Massa"
@@ -1207,7 +1193,7 @@
   start: "13:30"
   end: "15:30"
   show: true
-  room: Sala Enedina Alves
+  room: Sala Grace Holper
   title: "Exploring Heuristic for Test-Driven Development"
   kind: session
   type: "Mão na Massa"
@@ -1236,16 +1222,16 @@
     - name: Petrobrás Ágil
       show: true
       bio: ""     
-    - name: Nubank
-      show: false
+    - name: Agilistas do Nubank
+      show: true
       bio: "" 
 
 - date: 2021-10-09
   start: "13:30"
   end: "14:30"
   show: true
-  room: Sala Grace Hopper
-  title: "Você sabe o propósito do seu cliente ao te escolher?Conheça Fit for Purpose e pare de voar às cegas!"
+  room: Sala Karen Sparck Jones
+  title: "Você sabe o propósito do seu cliente ao te escolher? Conheça Fit for Purpose e pare de voar às cegas!"
   kind: session
   type: "Apresentação"
   track: "Produtos e Negócios"
@@ -1262,7 +1248,7 @@
   start: "14:30"
   end: "15:30"
   show: true
-  room: Sala Grace Hopper
+  room: Sala Karen Sparck Jones
   title: "Acessibilidade e agilidade uma parceria de sucesso"
   kind: session
   type: "Apresentação"
@@ -1303,7 +1289,7 @@
   start: "16:00"
   end: "18:00"
   show: true
-  room: Sala Karen Sparck Jones
+  room: Sala Enedina Alves
   title: "Fun Kanban"
   kind: session
   type: "Mão na Massa"
@@ -1324,7 +1310,7 @@
   start: "16:00"
   end: "18:00"
   show: true
-  room: Sala Dorothy Vaughan
+  room: Sala Ada Lovelace
   title: "Ferramentas do Pensamento Sistêmico para Agentes de Mudança"
   kind: session
   type: "Mão na Massa"
@@ -1346,7 +1332,7 @@
   start: "16:00"
   end: "17:00"
   show: true
-  room: Sala Grace Hopper
+  room: Sala Dorothy Vaughan
   title: "Quebrando histórias e ajudando sua previsibilidade"
   kind: session
   type: "Apresentação"
@@ -1360,10 +1346,10 @@
       bio: "Delivery & Project Manager na ZBRA Soluções, consultoria de software que investe em entregas de qualidade e cultura de aprendizado. Atua no crescimento, apoio estratégico e operacional, buscando a melhoria contínua dos processos de entrega da empresa. Formado em Ciência da Computação pela UNESP, tem experiência no mundo da agilidade desde 2006 atuando desde o desenvolvimento e passando por diferentes papéis em equipes ágeis. Atuou como Gerente de TI, Business Development e Gerente de Desenvolvimento em inovação na Level Up Games, e posteriormente como Consultor Lead na ThoughtWorks. Tem grande experiência no apoio e cultivo de pessoas, construção de times de alta performance e transformação ágil com foco na mudança de mentalidade, usando a entrega de software como direcionador. Em constante atualização, tem uma vasta experiência no processo de entrega e métricas, advogando pelo bom uso destas para que gerem valor, mas focando no equilibrio e bem estar do time. Pai do Eduardo, amante de video-games, quadrinhos, arte e literatura."
 
 - date: 2021-10-09
-  start: "17:00"
-  end: "18:00"
+  start: "16:00"
+  end: "17:00"
   show: true
-  room: Sala Enedina Alves
+  room: Sala Karen Sparck Jones
   title: "Navegando pela incerteza guiando-se pela Lei de Gall"
   kind: session
   type: "Apresentação"
@@ -1379,26 +1365,39 @@
 
 - date: 2021-10-09
   start: "17:00"
-  end: "17:30"
-  show: true
-  room: Sala Grace Hopper
-  title: "Previsibilidade na prática"
-  kind: session
-  type: "Apresentação"
-  track: "Práticas De Trabalho"
-  target: "Inicial"
-  description: "Vamos observar como utilizar previsões para discutir datas de entrega de projetos e, a partir destas previsões, tomar decisões informadas diante de cenários incertos. A teoria estará ancorada à prática, com o estudo de caso de um time de desenvolvimento, no qual vamos observar também como a implementação de práticas Kanban e de agilidade técnica tornaram as métricas do time mais consistentes, consequentemente permitindo o uso de ferramentas mais robustas de previsibilidade."
-  speakers:
-    - name: Déborah Lage Alvarenga
-      email: deborah@arkhi.com.br
-      show: true
-      bio: "Líder de consultoria e Agile Coach pela Arkhi Business Agility, busca trazer agilidade de negócio para empresas por meio de práticas de gestão modernas, utilizando principalmente o Kanban, sendo certificada pela Kanban University como Kanban Management Professional."
-
-- date: 2021-10-09
-  start: "17:30"
   end: "18:00"
   show: true
-  room: Sala Grace Hopper
+  room: Sala Dorothy Vaughan
+  title: "Como as métricas salvaram um time do desastre total"
+  kind: session
+  type: "Apresentação"
+  track: "Práticas de Trabalho"
+  target: "Inicial"
+  description: "O lançamento inadiável de um produto-chave da empresa está chegando e uma lista imensa de tarefas precisam ser entregues no prazo ou a empresa estará em maus-lençóis. Já viveu algo assim? Tem solução?
+                Não, não vamos ensinar você a escrever um e-mail pedindo mais prazo. E nem vamos revelar nenhum truque de mágica. Na verdade, Cristina Agilera, a agilista, vai contar como ajudou o time a lidar com as restrições desse contexto adverso e criar/executar planos de ação baseados em métricas para vencer esse desafio.
+                E de quebra descubra que métricas são essas que podem salvar o time, como elas podem ajudar no dia-a-dia, como as lemos e quais conclusões podemos tirar delas (que podem ser úteis, quem sabe, no seu time)."
+  
+  speakers:
+    - name: Samir Bravo
+      email: sambravo@gmail.com
+      show: true
+      bio: "Radialista, nerd, geek, pai do Miguel e da Lívia, viciado em boardgames, hoje estou Agility Lead no willbank. Atuo com agilidade e participo da comunidade a mais ou menos 4 anos. Atualmente sonho com menos discussões sobre e frameworks e mais discussões sobre como solucionar problemas."
+            
+    - name: Beatriz Sena
+      email: beatrizsenaarruda@gmail.com
+      show: true
+      bio: "Técnica em Redes de Computadores pelo Senai e Bacharel em Sistemas de informação pela Universidade Federal de Pernambuco. Iniciei minha jornada profissional como desenvolvedora, onde tive a oportunidade de trabalhar com idealização de produtos e gerenciamento ágil de projetos.
+            Há pouco mais de 2 anos comecei a trilhar meu caminho no mundo da agilidade e hoje sou membro da equipe de Agilidade da Easynvest by Nubank onde conduzo equipes especializadas e multifuncionais, adotando metodologias como Scrum, Kanban e Lean.
+            Durante essa jornada na agilidade participei de alguns cursos/certificações como Software Zen, Workshop de Métricas Ágeis, Técnicas Ágeis de Facilitação e KMP1.
+            Todas essas experiências me permitiram aprender como comunicação e cooperação eficazes tornam as coisas mais fáceis, sobre gerenciamento de impedimentos e conflitos, priorização de demandas e o poder do trabalho em equipe.
+            Sou um entusiasta de metodologias ágeis e acredito que compartilhar experiências e conhecimento nos traz crescimento e ajuda a todos na busca pela melhoria contínua."
+
+
+- date: 2021-10-09
+  start: "17:00"
+  end: "17:30"
+  show: true
+  room: Sala Karen Sparck Jones
   title: "Trunk Based Development"
   kind: session
   type: "Apresentação"
@@ -1429,6 +1428,22 @@
           - Lover of DevOps
           - Free Software contributor
           - Lover of learning/experiencing new stuff"
+          
+- date: 2021-10-09
+ start: "14:00"
+ end: "14:30"
+ show: true
+ room: Elza Furtado Gomide
+ title: "Aplicação de Métodos Ágeis na Gestão de Comunidades de Práticas e de Startups: um survey"
+ kind: session
+ type: "WBMA"
+ track: "WBMA"
+ target: ""
+ description: "O trabalho em comunidades vêm se expandindo desde a ascensão das empresas de base tecnológicas, hoje chamadas de startups. Seja criada de maneira informal ou possuindo uma empresa mantenedora por trás, é difícil encontrar alguma empresa que trabalhe com projetos que não possua um grupo que seja de discussões sobre o tema que está sendo desenvolvido ou até mesmo sobre práticas realizadas externamente ao ambiente de seu trabalho. Hoje, eventos, grupos formais e exclusivos e clubes de vantagens existem dentro deste ambiente colaborativo. Este trabalho tem o objetivo de entender as motivações que estas comunidades têm em adotar Métodos Ágeis em sua gestão e o quão benéfico isso pode se tornar para a gestão da transferência de conhecimento. 68 respondentes afirmaram que ambientes seguros ao aprendizado tornam as empresas mais bem posicionadas em seus ecossistemas e permitem que novos produtos sejam desenvolvidos de maneira mais colaborativa, mesmo que de forma não oficial, podendo gerar economias financeiras e aprendizados."
+ speakers:
+  - name: A definir
+   show: true
+   bio: ""
           
 - date: 2021-10-09
   start: "14:30"
@@ -1477,7 +1492,6 @@
     - name: Juan Carlos Barata
       show: true
       bio: ""
-
 
 - date: 2021-10-09
   start: "16:30"
