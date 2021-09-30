@@ -171,11 +171,11 @@
             projetos de aceleração de negócios.
             Co Autor da abordagem Full Stack Agile Business Analysis."  
 
-- date: 2021-10-09
+- date: 2021-10-05
   start: "17:00"
   end: "17:30"
   show: true
-  room: Sala Grace Hopper
+  room: Sala Karen Sparck Jones
   title: "Previsibilidade na prática"
   kind: session
   type: "Apresentação"
@@ -231,6 +231,199 @@
             a agilidade foi escalada em nível de times apenas (KMM ML1) e lá permaneceu. No segundo (sucesso) as lideranças exibiram mentalidade de contribuição, orientação por 
             propósito, a visão de serviços e fluxo unificado emergiu e a maturidade da organização escalou além dos níveis de times (KMM ML2 e ML3)."
       
+      
+- date: 2021-10-05
+  start: "11:00"
+  end: "11:40"
+  show: true
+  room: Sala Thoughtworks
+  title: "Data Mesh"
+  kind: session
+  type: "Apresentação"
+  track: ""
+  target: ""
+  description: ""
+  speakers:
+    - name: Ricardo Wendell
+      show: true
+      bio: "Possui mais de 16 anos de experiência desenvolvendo soluções em software e dados para diferentes indústrias. Como liderança técnica vem apoiando times e clientes, projetando e modernizando plataformas de dados para diferentes cenários nos últimos 6 anos. Atualmente é Principal Consultant na Thoughtworks apoiando projetos e iniciativas em Data & IA."
+    - name: Magna Fernandes
+      show: true
+      bio: ""
+
+- date: 2021-10-05
+  start: "11:40"
+  end: "12:00"
+  show: true
+  room: Sala Thoughtworks
+  title: "Por dentro da Thoughtworks: uma conversa sobre cultura e processos seletivos"
+  kind: session
+  type: "Apresentação"
+  track: ""
+  target: ""
+  description: ""
+  speakers:
+    - name: Carolina Souza
+      show: true
+      bio: ""
+    - name: Gustavo Neroni
+      show: true
+      bio: ""
+    - name: Layne Carvalho
+      show: true
+      bio: ""
+
+- date: 2021-10-05
+  start: "13:30"
+  end: "14:05"
+  show: true
+  room: Sala Thoughtworks
+  title: "Green Cloud"
+  kind: session
+  type: "Apresentação"
+  track: ""
+  target: ""
+  description: "É inegável o poder de transformação das nuvens. O impacto no meio ambiente também é. Por que é importante falarmos disto e o que podemos fazer para minimizar o dano?"
+  speakers:
+    - name: Amanda Mattos
+      show: true
+      bio: "Com mais de 20 anos de carreira profissional, ele é muito experiente na construção de equipes, lançamento de produtos e na adoção de métodos Lean, ágeis e de design thinking para orientar o sucesso na criação e escala de negócios. Ele possui experiência prévia como empreendedor e no apoio do lançamento de novos negócios na Europa e América Latina."
+
+- date: 2021-10-05
+  start: "14:05"
+  end: "14:40"
+  show: true
+  room: Sala Thoughtworks
+  title: "Sensible Defaults"
+  kind: session
+  type: "Apresentação"
+  track: ""
+  target: ""
+  description: "Cada cliente tem suas necessidades, para cada uma delas podem existir diferentes possibilidades de soluções, e em cada um desses ambientes é necessário manter um ritmo de entrega contínua e com qualidade. Para fazer isso, a Thoughtworks tem seus Valores Centrais, e os Padrões Sensatos são a maneira como trazemos esses valores centrais para a rotina dos times. Venha conhecer um pouco de nosso modelo de trabalho."
+  speakers:
+    - name: Mariana Thiago
+      show: true
+      bio: "Pessoa desenvolvedora há mais de 20 anos, 4 deles na Thoughtworks; cada vez mais dedicado em como montar e manter ambientes de engenharia que permitam ao time aumentar o seu impacto."
+    - name: Thiago Palma
+      show: true
+      bio: "Analista de Negócios com mais de 12 anos de experiência, 5 deles na Thoughtworks, entregando projetos digitais em diferentes domínios. Trazendo aos times o propósito pelo qual construímos o que construímos na intersecção de tecnologia e negócios, buscando soluções simples para problemas complexos."
+
+- date: 2021-10-05
+  start: "14:40"
+  end: "15:15"
+  show: true
+  room: Sala Thoughtworks
+  title: "Relato de caso - Os impactos de uma transformação digital no dia a dia de equipes"
+  kind: session
+  type: "Apresentação"
+  track: ""
+  target: ""
+  description: "A transformação digital geralmente se inicia como uma iniciativa estratégica da empresa, de cima para baixo. Mas, no final de contas, são as equipes de produtos digitais as últimas responsáveis pela entrega de valor. Sendo assim, é natural que haja impacto em seu dia-a-dia, sendo portanto essencial incluir a perspectiva das equipes durante todo o trabalho de transformação. Nesta sessão iremos trazer alguns relatos de como se dá esse processo, quais fatores devem ser considerados, pontos de atenção e alguns insights que podem ser muito úteis caso sua empresa esteja passando ou pensando em passar por um processo de transformação digital."
+  speakers:
+    - name: Alexandre Klaser
+      show: true
+      bio: "Alexandre é o líder da linha de serviço de Digital Transformation & Operations na Thoughtworks Brasil. Nesse papel, ele lidera engajamentos de transformação digital em clientes ao redor do globo, trabalhando com executivas para definir e avançar em suas transformações digitais e estratégias de inovação corporativa, liderando assessments e equipes de transformação.
+Com mais de 20 anos de carreira profissional, ele é muito experiente na construção de equipes, lançamento de produtos e na adoção de métodos Lean, ágeis e de design thinking para orientar o sucesso na criação e escala de negócios. Ele possui experiência prévia como empreendedor e no apoio do lançamento de novos negócios na Europa e América Latina.
+Previamente na Thoughtworks ele foi o Head of Global Health para a região da América Latina e membro do grupo de liderança de uma das maiores contas da empresa na região, baseada no Chile.
+Trabalhando para a Thoughtworks, o Alexandre já fez parte de equipes em diversas partes do mundo, tendo trabalhado com clientes e parceiras em países como Estados Unidos, Brasil, Chile, Equador, Índia, Espanha, Guatemala e Haiti."
+
+- date: 2021-10-05
+  start: "15:15"
+  end: "15:50"
+  show: true
+  room: Sala Thoughtworks
+  title: "Inception Remota"
+  kind: session
+  type: "Apresentação"
+  track: ""
+  target: ""
+  description: "A talk Lean Inception Remota irá apresentar os nossos aprendizados, desafios e atalhos que desenvolvemos facilitando Inceptions Remotas, tanto nesses tempo desafiadores de pandemia quanto em outras experiências com times distribuídos."
+  speakers:
+    - name: Gabriel Viégas
+      show: true
+      bio: "Consultor de Desenvolvimento na ThoughtWorks de Porto Alegre, atua como Agilista, Product Owner, Analista de Negócios, Gerente de Projetos e Facilitador nas equipes de projetos. Também é professor externo do MBA de Gerenciamento de Negócios Digitais da PUC-RS."
+    - name: Gabriel Sixel
+      show: true
+      bio: "Consultor de Desenvolvimento na ThoughtWorks de São Paulo e criador de confusão, já fez de tudo um pouco, tendo sido Product Owner, Program Manager, Analista de Negócios e Gerente de Projetos. É também contribuidor do blog tecnocriticas no Instagram."
+
+- date: 2021-10-05
+  start: "15:50"
+  end: "16:25"
+  show: true
+  room: Sala Thoughtworks
+  title: "10 maneiras de destruir um time 'educadamente'"
+  kind: session
+  type: "Apresentação"
+  track: ""
+  target: ""
+  description: "Vamos falar rapidamente sobre o que é uma Lean Inception, quais os desafios de facilitá-las remotamente, evitando a carga excessiva em vídeo chamadas, esquivando-se das armadilhas e se planejando para o sucesso."
+  speakers:
+    - name: Rafael Debus 
+      show: true
+      bio: "Pessoa consultora na Thoughtworks, pós-graduado em arquitetura de software e a 10 anos trabalhando na gestão de pessoas e projetos. Apaixonado por Pets, estudante de violão e um curioso sobre dinâmica de times e relações interpessoais."
+    - name: Gustavo Porpino (Globo)
+      show: true
+      bio: "Engenheiro de Software graduado em Sistemas de Informação, trabalhando como Fullstack a mais de 15 anos, experiência de 7 anos em Gestão de Inovação Educational, Mentor do Células Empreendedoras, Músico, Compositor e Poeta nas horas vagas e apaixonado por educação, CNV e por impactar pessoas positivamente."
+
+- date: 2021-10-05
+  start: "16:25"
+  end: "17:00"
+  show: true
+  room: Sala Thoughtworks
+  title: "Por que empresas deveriam investir em projetos de impacto social?"
+  kind: session
+  type: "Apresentação"
+  track: ""
+  target: ""
+  description: "Será que é legal investir em projetos sociais dentro das empresas? O que isso traz de valor? E se eu te falar que isso pode se tornar algo natural se conseguirmos investir em cultura de transformação social e diversidade?  Vem com a gente entender um pouco de como isso pode impactar o seu negócio e a sociedade através de alguns cases de sucesso que surgiram dentro da Thoughtworks."
+  speakers:
+    - name: Fernando Fernandes
+      show: true
+      bio: "Tecnologista entusiasta em envolver tecnologia junto com projetos de impacto social com 9 anos de experiência na área de desenvolvimento de software, sendo 7 atuando como backend e 2 atuando como frontend."
+
+- date: 2021-10-05
+  start: "17:00"
+  end: "17:35"
+  show: true
+  room: Sala Thoughtworks
+  title: "Como aplicar a abordagem Shift-left Testing?"
+  kind: session
+  type: "Apresentação"
+  track: ""
+  target: ""
+  description: "Em um processo de desenvolvimento de software tradicional, o esforço de testes é previsto para acontecer somente no final do processo. Por esse motivo, os testes estão 'à direita' no processo.
+Antecipar as atividades de testes pode ser visto como 'deslocar essas atividades para a esquerda'. Nesta sessão, veremos como aplicar shift left testing na prática em um modelo de desenvolvimento ágil."
+  speakers:
+    - name: Tainara Reis
+      show: true
+      bio: "Consultora de Qualidade na Thoughtworks, tem como hobbie a criação de conteúdos sobre qualidade de software. É co-fundadora da iniciativa QAcheadas, formada em Engenharia de Software e possui MBA em Gestão da Qualidade."
+
+- date: 2021-10-05
+  start: "17:35"
+  end: "18:00"
+  show: true
+  room: Sala Thoughtworks
+  title: "Boas práticas para reduzir os impactos do trabalho remoto"
+  kind: session
+  type: "Apresentação"
+  track: ""
+  target: ""
+  description: "Não podemos negar que o trabalho remoto se tornou uma realidade para grande parte das pessoas. E como toda mudança na rotina, é exigido um período de adaptação onde muitas de nós nos sentimos sobrecarregadas e exaustas boa parte do tempo.
+                Como aliviar os momentos de estresse do trabalho com o ambiente familiar ? 
+                O que fazer para melhorar a qualidade e o desempenho do trabalho e das relações ?
+                Venha conferir algumas boas práticas para reduzir os impactos dessa mudança."
+  speakers:
+    - name: Andressa Quintino
+      show: true
+      bio: "É Cientista da Computação (UNIP), Professional Agile Coach (PACC), Kanban Management Professional e tem especializações de Scrum Master, Product Owner, Design Sprint, Lean Inception e Product Backlog Building. Atualmente atua como Business Analyst na Thoughtworks, apoiando Times no entendimento de práticas ágeis, construção de produtos inovadores.
+            Possui uma jornada profissional de +10 anos de experiência onde já exerceu os papéis de Analista de Suporte, Quality Assurance, Analista de Negócios, Scrum Master e facilitadora de práticas ágeis.
+            É mentora voluntária da Comunidade Mulheres Agilistas e Mentora Webflow, escritora onde conta histórias, experiências e aprendizados."
+   - name: Gabriel Loureiro
+      show: true
+      bio: "É tecnólogo em Banco de Dados (UNINOVE) e atualmente atua como Consultant Developer na Thoughtworks.
+            Exerceu o cargo de analista de testes focado em automação de testes por mais de 2 anos e recentemente migrou para desenvolvimento com foco nas linguagens Kotlin e Java."
+
+
 - date: 2021-10-05
   start: "18:00"
   end: "19:00"
@@ -753,7 +946,8 @@
                 Alisson Vale
                 Gino Terentin 
                 Luiz Parzianello 
-                Mariana Zapparoli"
+                Mariana Zapparoli
+                Tatiana Rocha"
   speakers:
     - name: Agile Beer
       show: true
@@ -1064,7 +1258,7 @@
   end: "11:00"
   show: true
   room: Sala Open Space Comunidades 1
-  title: "Síndrome do Importor e Incertezas"
+  title: "Síndrome do Impostor e Incertezas"
   kind: session
   type: "Lean Coffee"
   track: "Comunidades"
@@ -1414,7 +1608,7 @@
   start: "13:30"
   end: "14:00"
   show: true
-  room: Elza Furtado Gomide
+  room: Sala Elza Furtado Gomide
   title: "Assuring the Evolvability of Legacy Systems in Devops transformation/adoption: Insights of an experience report"
   kind: session
   type: "WBMA"
@@ -1433,7 +1627,7 @@
   start: "14:00"
   end: "14:30"
   show: true
-  room: Elza Furtado Gomide
+  room: Sala Elza Furtado Gomide
   title: "Aplicação de Métodos Ágeis na Gestão de Comunidades de Práticas e de Startups: um survey"
   kind: session
   type: "WBMA"
@@ -1449,7 +1643,7 @@
   start: "14:30"
   end: "15:00"
   show: true
-  room: Elza Furtado Gomide
+  room: Sala Elza Furtado Gomide
   title: "Using a Teamwork Quality Instrument to improve Agile Teams' Effectiveness: Practical Use Cases"
   kind: session
   type: "WBMA"
@@ -1465,7 +1659,7 @@
   start: "15:00"
   end: "15:30"
   show: true
-  room: Elza Furtado Gomide
+  room: Sala Elza Furtado Gomide
   title: "Workshop Brasileiro de Métodos Ágeis - AgileBrazil: Uma década de testes de software"
   kind: session
   type: "WBMA"
@@ -1481,7 +1675,7 @@
   start: "16:00"
   end: "16:30"
   show: true
-  room: Elza Furtado Gomide
+  room: Sala Elza Furtado Gomide
   title: "Agile requirements engineering practices: a survey in Brazilian software development companies"
   kind: session
   type: "WBMA"
@@ -1497,7 +1691,7 @@
   start: "16:30"
   end: "17:00"
   show: true
-  room: Elza Furtado Gomide
+  room: Sala Elza Furtado Gomide
   title: "Estudo das Adaptações de uma Equipe de Desenvolvimento de Software para o Trabalho Remoto Durante a Pandemia de COVID-19"
   kind: session
   type: "WBMA"
@@ -1517,7 +1711,7 @@
   start: "17:00"
   end: "17:30"
   show: true
-  room: Elza Furtado Gomide
+  room: Sala Elza Furtado Gomide
   title: "UX-Painter: Fostering UX improvement in an Agile Setting"
   kind: session
   type: "WBMA"
@@ -1534,7 +1728,7 @@
   start: "17:30"
   end: "18:00"
   show: true
-  room: Elza Furtado Gomide
+  room: Sala Elza Furtado Gomide
   title: "Experience in implementing the Scrum framework in incubated companies"
   kind: session
   type: "WBMA"
@@ -1546,25 +1740,6 @@
       show: true
       bio: "Mestre em Ciência da Computação pela Universidade de São Paulo (USP - 2001) e graduada, também em Ciência da Computação, pela Universidade Federal de Viçosa (UFV - 1999). Possui 20 anos de experiência profissional, sendo que durante 11 anos atuou como líder, gerente de projetos de software ou como Scrum Master.
         Já trabalhou em projetos para empresas nacionais e internacionais como Motorola, IBM, Votorantim Celulose e Papel (VCP), eWise, PayWithMyBank, PicPay, entre outras. Especializou-se em gestão ágil de produtos e serviços e possui as certificações Professional Scrum Master e Professional Scrum Product Owner da Scrum.org, CSM e CSPO da Scrum Alliance e Agile Scrum Foundation e Lean IT Foundation da EXIN. Atualmente trabalha como instrutora e consultora na implantação de métodos e práticas ágeis."
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 - date: 2021-10-09
   start: "18:00"
