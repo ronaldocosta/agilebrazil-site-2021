@@ -62,3 +62,18 @@
   logo: assets/images/sponsor-logo-casa-codigo.png
   url: https://www.casadocodigo.com.br
   kind: support
+
+- name: Taller
+  logo: assets/images/sponsor-logo-taller.png
+  url: https://www.taller.net.br
+  kind: diversity
+
+- name: K21
+  logo: assets/images/sponsor-logo-k21.png
+  url: https://k21.global
+  kind: diversity
+
+- name: Verum
+  logo: assets/images/sponsor-logo-verum.png
+  url: https://verumpartners.com.br
+  kind: diversity

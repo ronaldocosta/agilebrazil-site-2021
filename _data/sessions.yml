@@ -418,7 +418,7 @@ Antecipar as atividades de testes pode ser visto como 'deslocar essas atividades
       bio: "É Cientista da Computação (UNIP), Professional Agile Coach (PACC), Kanban Management Professional e tem especializações de Scrum Master, Product Owner, Design Sprint, Lean Inception e Product Backlog Building. Atualmente atua como Business Analyst na Thoughtworks, apoiando Times no entendimento de práticas ágeis, construção de produtos inovadores.
             Possui uma jornada profissional de +10 anos de experiência onde já exerceu os papéis de Analista de Suporte, Quality Assurance, Analista de Negócios, Scrum Master e facilitadora de práticas ágeis.
             É mentora voluntária da Comunidade Mulheres Agilistas e Mentora Webflow, escritora onde conta histórias, experiências e aprendizados."
-   - name: Gabriel Loureiro
+    - name: Gabriel Loureiro
       show: true
       bio: "É tecnólogo em Banco de Dados (UNINOVE) e atualmente atua como Consultant Developer na Thoughtworks.
             Exerceu o cargo de analista de testes focado em automação de testes por mais de 2 anos e recentemente migrou para desenvolvimento com foco nas linguagens Kotlin e Java."
