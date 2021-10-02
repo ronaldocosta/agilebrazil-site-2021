@@ -498,19 +498,24 @@ Antecipar as atividades de testes pode ser visto como 'deslocar essas atividades
   end: "11:30"
   show: true
   room: Sala Dorothy Vaughan
-  title: "Como a agilidade mudou meu contrato e sobrevivi ao desafio de entregar o Pix na Pandemia"
+  title: "Agilidade em escala: É possível ser simples?"
   kind: session
   type: "Apresentação"
-  track: "Relatos de Experiência"
-  target: "Inicial"
-  description: "Vamos falar como foi nossa experiência em implantar uma equipe ágil para um cliente que precisou adequar sua realidade de criação de produtos para atender a criticidade e acompanhar o mercado disponibilizando o Pagamento Instantâneo – Pix para seus clientes.
-                Sabemos que o Ecossistema de pagamentos Pix trouxe um grande desafio para as fintechs e bancos e iremos mostrar como conseguimos contornar o desafio de trabalhar com métodos ágeis, mesmo possuindo um contrato com o cliente e suas cobranças totalmente voltados ao processo cascata. Iremos tratar como conseguimos conscientizar o cliente de que a forma de contratação não conseguiria acompanhar o dinamismo esperado pelo BACEN e quais foram as experiências vividas até hoje com as evoluções constantes do Pix."
+  track: "Produtos e Negócio"
+  target: "Intermediário"
+  description: "Agilidade em Escala pode soar, para muitos, como uma utopia.
+                Se ter apenas um time atuando de forma ágil pode ser um grande desafio, como realizar a gestão de diversos times e produtos de forma ágil, com as melhores práticas de desenvolvimento e maximizando o retorno das entregas? E ainda: como fazer isso sem “revolucionar” e sem alterar (as vezes até bagunçar!) radicalmente o negócio e a forma que os times atuam?
+                Nesse case de Agilidade em Escala será contado como “criamos”, de forma incremental e natural, um “framework customizado” para conseguimos o alinhamento entre diversos times e suas estratégias, além de ter transparência das entregas, métricas e engajamento das pessoas."
   speakers:
-    - name: Paula Daniele de Oliveira Moreira
-      email: paula.moreira@vibetecnologia.com
+    - name: Felipe Polovanick Blazquez
+      email: fpolovanick@hotmail.com
       show: true
-      bio: "Mestre em Ciências da Computação (UFPA) possuo 9 anos de experiência em desenvolvimento e 3 anos de experiência com métodos ágeis. Sou Gerente de TI das soluções de internet banking de uma instituição financeira. A filosofia Lean Thinking e as melhorias pequenas e continuas (Kaizen) me inspiram."     
-            
+      bio: "Gerente de produtos, agile coach, professor, músico e geek!
+            Experiência em construção de produtos, desde a imersão, ideação, validação até o desenvolvimento e delivery, liderança e formação de equipes e squads de alta performance.
+            Objetivo em auxiliar pessoas, times e empresas na Transformação Digital, Ágil e Cultural para chegarem a um cenário de Business Agility.
+            Atuação com métricas de eficiência e eficácia, metodologia ORK, além de frameworks, métodos e técnicas como Scrum, Kanban, design thinking, design sprint, lean inception, MVP, Value Stream Mapping (mapeamento de cadeias de valor), entre outros.
+            MBA em Gestão de Tecnologia da Informação, Pós-Graduação em Gestão de Negócios e Marketing e Graduação em Engenharia de Computação, além de certificações relacionadas a agilidade, gestão, processos, produtos e infraestrutura."
+
 - date: 2021-10-06
   start: "11:30"
   end: "12:00"
@@ -533,23 +538,33 @@ Antecipar as atividades de testes pode ser visto como 'deslocar essas atividades
             Doutorando em Ciência da Computação (UFRGS), na área de Engenharia de Software
             Palestrante, escritor (Livro de XP, Casa do Código) e autor do DR-Tools Suite (drtools.site)
             Mais informações em www.guilhermelacerda.net"
-                                   
+
 - date: 2021-10-06
   start: "11:30"
   end: "12:00"
   show: true
   room: Sala Dorothy Vaughan
-  title: "Agilidade como diferencial para a área da saúde na pandemia: uma história de sucesso!"
+  title: "Map to Map - Não basta ser iterativo, também é preciso ser incremental"
   kind: session
   type: "Apresentação"
-  track: "Relatos de Experiência"
-  target: "Inicial"
-  description: "Fui gerente de uma equipe hospitalar desde outubro de 2019 até maio de 2021, e por estudar metodologias ágeis decidi fazer a gestão da equipe usando práticas de Scrum e Kanban, que não são comumente encontradas na área da saúde. Em março de 2020 a pandemia de Covid-19 iniciou no Brasil e com a ajuda da agilidade conseguimos adaptar processos e viver momentos onde a transparência, inspeção e adaptação fizeram total diferença na condução do time, que atualmente tem todos as cerimônias Scrum implantadas, além de algumas métricas de Kanban e uma pincelada de Management 3.0."
+  track: "Produtos e Negócios"
+  target: "Intermediário"
+  description: "Às vezes nos encontramos em situações onde trabalhar em ciclos parece não fazer muito sentido. As reuniões de revisão se tornam monótonas e parecem não ter sentido, e acabamos repetindo estes eventos apenas para “seguir as boas práticas”.
+                O problema é que só iterar não basta. É preciso entender os benefícios de se partir um produto em fatias menores para poder de fato aproveitar os benefícios desta abordagem.
+                Mas, como cortar as fatias certas?
+                Neste webinar vamos mostrar como o bom entendimento de um problema facilita o desenvolvimento de um produto de forma iterativa e incremental, através de uma mescla envolvendo duas técnicas de mapeamento: Impact Mapping de Gojko Adzic com User Story Mapping de Jeff Patton."
   speakers:
-    - name: Thaís Eliana Carvalho Lima
-      email: thais.consultri@gmail.com
+    - name: Mário Melo
+      email: mariofdemelo@gmail.com
       show: true
-      bio: "Sou a Thaís Lima, agilista na GFT Brasil. Apaixonada por agilidade, pessoas e suas interações, fiz recentemente uma transição de carreira da área da saúde para a TI (atuei por 11 anos em grandes hospitais de São Paulo). Meu sonho é influenciar pessoas a utilizarem a agilidade nos mais diversos ambientes e contextos, incentivando relações trabalhistas mais colaborativas e humanas."     
+      bio: "Formado em Sistemas de Informação pela UFMG
+            Sun Certified Java Programmer 5
+            Certified Scrum Professional
+            Certified ScrumMaster
+            Certified Scrum Developer
+            Certified Scrum Product Owner
+            ScrumAlliance Registered Education Provider
+            É sócio fundador da Facta, uma empresa de desenvolvimento de software localizada em Belo Horizonte cujo lema é “code to happiness”. Atua também como trainer da GoToAgile e tem como meta pessoal 'fazer com que cada hora de seu trabalho economize um dia de esforço futuro'"    
 
 - date: 2021-10-06
   start: "16:00"
@@ -649,7 +664,196 @@ Antecipar as atividades de testes pode ser visto como 'deslocar essas atividades
       show: true
       bio: "Graduado em engenharia com MBA em gestão de projetos, com mais de 12 anos de experiência em T.I. Atua com metodologias ágeis há 7 anos, apaixonado por inovação. Com experiencia internacional, já trabalhou em diversos segmentos, como em consutorias, construtora, banco, telefonia e adquirencias.
             Participa da comunidades em meetups/eventos e conduzindo palestras nas empresas que atua."     
-            
+           
+- date: 2021-10-06
+  start: "11:00"
+  end: "11:40"
+  show: true
+  room: Sala Thoughtworks
+  title: "Quero migrar para produto... Como faço?"
+  kind: session
+  type: "Apresentação"
+  track: ""
+  target: ""
+  description: "Atualmente, podemos encher 4 maracanãs com as posições abertas no mundo para Gerentes de Produto. Só no Brasil, são mais de 1500 posições abertas. O salário de uma Product Manager iniciante é na média de 7 mil reais. O melhor momento para migrar para PM foi ontem, o segundo melhor é hoje. Quer saber como? Eu te conto."
+  speakers:
+    - name: Bernard De Luna
+      show: true
+      bio: "Bernard De Luna possui mais de 20 anos de experiência com produtos digitais. Sendo Head de Produto na ThoughtWorks, Fundador da Produtos Incríveis, Coordenador da primeira pós-graduação em Product Management do Brasil e um dos maiores criadores de conteúdo sobre Gestão de Produto do Brasil."        
+
+- date: 2021-10-06
+  start: "11:40"
+  end: "12:00"
+  show: true
+  room: Sala Thoughtworks
+  title: "Como a Thoughtworks tem construído o futuro da tecnologia através da Thoughtworks University"
+  kind: session
+  type: "Apresentação"
+  track: ""
+  target: ""
+  description: ""
+  speakers:
+    - name: Luê Ferreira
+      show: true
+      bio: ""      
+    - name: Dina Anunciada 
+      show: true
+      bio: ""        
+- name: Mariana Sá 
+      show: true
+      bio: ""    
+
+- date: 2021-10-06
+  start: "13:30"
+  end: "14:05"
+  show: true
+  room: Sala Thoughtworks
+  title: "Liderança Técnica"
+  kind: session
+  type: "Apresentação"
+  track: ""
+  target: ""
+  description: "Para liderar pessoas, é preciso acreditar nelas. E para acreditar, é preciso conhecê-las! Como liderar times colocando as pessoas acima das técnicas."
+
+  speakers:
+    - name: Rosi Teixeira
+      show: true
+      bio: "Sou tecnologista, bacharel em Ciência da Computação, especialista em Sistemas e Aplicações e em Consultoria em TI. Trabalho na área de TI há mais de 20 anos, sempre na área de desenvolvimento de software, tendo ocupado nestes anos vários papéis como desenvolvedora de software, arquiteta, tech lead, gerente de projetos. Sou amante e patrocinadora do trabalho em equipe, acredito na força do coletivo e como pessoas diferentes podem construir coisas incríveis juntas. É com esse espírito que trabalho para fazer dos produtos e serviços que entrego, elementos transformadores dos negócios e da sociedade."      
+    - name: Lais Gomes 
+      show: true
+      bio: "Uma inconformista, questionadora do status quo, ah! Sou tecnologista, desenvolvedora e líder técnica de equipes plurais. Nesses 11 anos,  sigo atuante e estudiosa sobre entrega ágil de software, liderança técnica, construção de produtos escaláveis e performáticos. Amo conversar sobre desenvolvimento de pessoas e produtos de software. Acredito que são as pessoas que fazem tudo isso ser tão incrível e tem espaço para todas na tecnologia. "        
+
+- date: 2021-10-06
+  start: "14:05"
+  end: "14:40"
+  show: true
+  room: Sala Thoughtworks
+  title: "Path to Production"
+  kind: session
+  type: "Apresentação"
+  track: ""
+  target: ""
+  description: "O Caminho para Produção (Path to Production) é um tipo de Value Stream Mapping que pode dar ao time uma visão não apenas 			das práticas de CI/CD adotadas, mas também dos acordos de time, da execução da estratégia de qualidade, e dos riscos que 				devem ser gerenciados. Também é uma ferramenta poderosa no onboarding de novos membros do time, seja de qual papel for.
+			Se bem construído, ajuda imensamente o time a construir sua big-picture da solução, seguindo a filosofia de one-page resume. O 			nível de detalhes em alguns aspectos específicos é que pode fazer as pessoas time terem aquela sensação de 'agora tudo faz 				sentido', sejam experientes ou não."
+
+  speakers:
+    - name: Patricia Muniz
+      show: true
+      bio: "Patrícia Muniz é consultora de software na Thoughtworks Recife há 5 anos. É apaixonada por desenvolvimento de software, liderança técnica, práticas ágeis, mentoring e a cultura de feedback."      
+
+- date: 2021-10-06
+  start: "14:40"
+  end: "15:15"
+  show: true
+  room: Sala Thoughtworks
+  title: "Criando e acompanhando sua árvore de testes"
+  kind: session
+  type: "Apresentação"
+  track: ""
+  target: ""
+  description: "Com o avanço da tecnologia e velocidade no desenvolvimento de software, como garantir que a aplicação será desenvolvida com qualidade através de testes eficazes, de alta cobertura e fácil manutenção? Dentre diversos modelos oriundos da referência literária Pirâmide de Testes, nessa talk será apresentado o conceito de Árvore de Testes, bem como o seu planejamento e como manter em dia a Estratégia de Testes para o produto."
+
+  speakers:
+    - name: Nathalia Torres
+      show: true
+      bio: "Consultora QA na Thoughtworks. Graduada em Bacharel em Ciência e Tecnologia pela UFABC e atualmente cursando Pós Graduação em Gestão de TI pelo IFSP."      
+
+- date: 2021-10-06
+  start: "15:15"
+  end: "15:50"
+  show: true
+  room: Sala Thoughtworks
+  title: "Padrões e Anti-padrões: As histórias que as histórias do teu time te contam"
+  kind: session
+  type: "Apresentação"
+  track: ""
+  target: ""
+  description: "Como as histórias podem te mostrar que algo não vai bem? Podemos identificar sinais da adoção de boas práticas ágeis pelo dia-a-dia das histórias? Há como saber se o relacionamento da BA com seu time e suas stakeholders está fluido e alinhado? Quais indicadores de um bom entendimento do valor de negócio elas podem trazer? Essas e outras perguntas motivam o conteúdo dessa palestra. Falaremos sobre padrões e anti-padrões que podem afetar esse importante artefato ágil ao longo de seu ciclo de vida."
+
+  speakers:
+    - name: Thiago Megale
+      show: true
+      bio: "Mineiro, marido e tutor de duas vira-latas. Passou por agências, startups, empresas de games e foi consultor de grandes empresas, dos mais diversos mercados. Na ThoughtWorks, onde está há 6 anos, foi analista de negócios, PO, facilitador e treinador de lean inceptions, gerente de projetos e atualmente está como líder de contas. Sempre se interessou em entender como poderia escrever melhores histórias de usuárias. Nos últimos anos têm focado em apoiar a jornada de outras pessoas. E também em propostas que melhorem a nossa convivência, focando na resolução de conflitos de equipes de TI usando técnicas de mediação, negociação, comunicação não-violenta, práticas restaurativas e cultura de paz."      
+
+- date: 2021-10-06
+  start: "15:50"
+  end: "16:25"
+  show: true
+  room: Sala Thoughtworks
+  title: "Como aumentar a velocidade das entregas com a gestão ágil de riscos"
+  kind: session
+  type: "Apresentação"
+  track: ""
+  target: ""
+  description: "Para as agilistas, a fase de desenvolvimento e de entrega do produto são super relevantes! Não podemos desperdiçar tempo com bloqueios e imprevistos, pois precisamos lançar nosso MVP e demais evoluções dentro do time-to-market, com a segurança necessária e uma qualidade de código satisfatória. Diante disso, gerenciar as incertezas do cotidiano nos ajudam a aumentar a velocidade de entrega dos produtos. Esta palestra foca em como a gestão de riscos no contexto da agilidade pode nos ajudar a reduzir os bloqueios do time na fase de desenvolvimento do produto e consequentemente, aumentar a velocidade das entregas do time."
+
+  speakers:
+    - name: Tamires da Mata
+      show: true
+      bio: "Possui mais de 10 anos de experiência liderando pessoas, e acredita que para times ágeis terem sucesso em suas entregas precisam enfrentar a complexidade com processos assertivos e criativos. Especialista em gestão e agilidade, participou do programa de Liderança na Inovação pelo MIT (Massachusetts Institute of Technology), faz parte da comunidade de mulheres agilistas e possui um canal no youtube para falar sobre liderança, gestão e inovação. Como consultora, já esteve à frente de diversos segmentos atuando fortemente em transformações gerenciais e digitais, e atualmente está no papel de Project Manager pela Thoughtworks."  
+
+- date: 2021-10-06
+  start: "16:25"
+  end: "17:00"
+  show: true
+  room: Sala Thoughtworks
+  title: "Desenho de times. O que precisamos observar?"
+  kind: session
+  type: "Apresentação"
+  track: ""
+  target: ""
+  description: "Em nosso contexto cada dia mais complexo,  a estratégia de formação e desenho de times é um fator que impacta diretamente os resultados alcançados pelos times. Nosso objetivo principal é compartilhar nossas experiências em papéis de liderança de times de produto. Falando sobre o que, para nós dois, são pontos importantes a se observar quando estamos criando ou gerindo times de alta performance em tecnologia e como, recordar alguns princípios da agilidade, nos coloca novamente no caminho da entrega de valor."
+
+  speakers:
+    - name: Laura Tissot
+      show: true
+      bio: "Publicitária de formação pela ESPM-Sul e pós graduada em Design Estratégico com foco em inovação e prototipagem de produtos pela Unisinos. Tenho passagem por grandes empresas nacionais como Ambev e Serasa Experian, nas áreas de marketing e Inteligência. Atuo no mercado de tecnologia desde 2016 e já passei por empresas como 4all Tecnologia, Sicredi Digital, Bergamotta Labs/Grendene e atualmente atuo como Sr. Product Owner na Thoughtworks. Gosto muito de trabalhar com gestão de times e produtos e foco em construir soluções digitais, produtos ou serviços, de ponta a ponta."  
+    - name: Rafael Gomes
+      show: true
+      bio: "Pai², pós graduado em Liderança e Inovação, na busca constante por impactar pessoas e, por consequência direta, organizações para buscarem em sua essência a melhoria contínua que habilita maior engajamento e melhores resultados. Mais de 14 anos de experiência com projetos e produtos nacionais e internacionais, com atuação em empresas como Vale, Honda, Terra, Latam e Renner S/A. Atualmente dedicado aos desafios de potencializar resultados e a cultura de produto como Lead Product Consultant na Thoughtworks." 
+
+- date: 2021-10-06
+  start: "17:00"
+  end: "17:35"
+  show: true
+  room: Sala Thoughtworks
+  title: "Diferença entre ferramentas de visualização do quadro Kanban. Vantagens e desvantagens."
+  kind: session
+  type: "Apresentação"
+  track: ""
+  target: ""
+  description: "Nesta talk vamos falar sobre como pessoas diferentes podem visualizar o quadro Kanban através de ferramentas que vão ao encontro das suas características marcantes, e usar essas particularidades a seu favor para desenvolver um trabalho incrível."
+
+  speakers:
+    - name: Natalia Molina
+      show: true
+      bio: "Lead Project Manager na ThoughtWorks Ltd. com 10 anos de experiência em Gestão de Projetos e 20 anos de experiência em Consultoria de TI e Planejamento. Experiência em iniciativas que incluem consultoria em desenvolvimento, Fintech (Banking, Pagamentos), Chatbots e Canais eletrônicos de atendimento, Saúde, Varejo, e-commerce e Infraestrutura de TI. Suas principais habilidades em gestão são a solução de problemas com práticas ágeis, gestão de stakeholders e equipes, entregando produtos e serviços de alto valor para companhias e clientes. "  
+
+- date: 2021-10-06
+  start: "17:35"
+  end: "18:00"
+  show: true
+  room: Sala Thoughtworks
+  title: "Para além da diversidade"
+  kind: session
+  type: "Apresentação"
+  track: ""
+  target: ""
+  description: "O que faz um time de sucesso? 
+Pesquisas recentes têm demonstrado como a criação de ambientes seguros incide diretamente no engajamento das pessoas e de times. São espaços que inspiram confiança e criatividade, possibilitando às pessoas, em toda a sua diversidade, trabalharem de forma mais colaborativa. A palestra incentiva lideranças corajosas a se responsabilizar por essa construção e traz como os conceitos de diversidade, equidade e inclusão se traduzem em práticas no dia-a-dia da Thoughtworks."
+
+  speakers:
+    - name: Grazi Mendes
+      show: true
+      bio: "Hoje está como Diretora de Diversidade, Equidade e Inclusão na ThoughtWorks. 
+		É também professora convidada em programas  de desenvolvimento de lideranças nas principais escolas de negócios do Brasil. 
+		Colunista da revista MIT Sloan Review Brasil, co-fundadora da PONTE, hub de diversidade e inclusão, e do cursinho popular Pré Enem 		Morro do Papagaio. Eleita pelo prêmio Ser Humano como personalidade profissional da área de Pessoas 2020 e TOP10 HR Influencer 		2021.
+		Em todos os papéis que ocupa se compromete com o futuro revolucionário que acredita: plural e inclusivo."  
+    - name: Juliana Oliveira
+      show: true
+      bio: "Publicitária de formação, produtora cultural de coração e uma people lover que ama criar experiências significativas e inclusivas para 		que as pessoas se enxerguem como potências nos espaços que ocupam.
+		Na Thoughtworks Brasil, Juliana já atuou como Líder de Recrutamento e, atualmente está Gerente da Thoughtworks University Brasil,   		programa de aprendizagem imersivo para pessoas negras que estão iniciando na área de Tecnologia."             
+
 - date: 2021-10-06
   start: "18:00"
   end: "20:00"
@@ -752,18 +956,19 @@ Antecipar as atividades de testes pode ser visto como 'deslocar essas atividades
   end: "11:30"
   show: true
   room: Sala Dorothy Vaughan
-  title: "Discovery Kanban: por um Fluxo de Desenvolvimento de Produtos"
+  title: "Como a agilidade mudou meu contrato e sobrevivi ao desafio de entregar o Pix na Pandemia"
   kind: session
   type: "Apresentação"
-  track: "Produtos e Negócios"
-  target: "Intermediário"
-  description: "É fácil gerar idéias para produtos, e elas são muito mais rápidas que a capacidade de entrega da organização, criando uma frustração constante nos clientes. Mas idéias são apenas idéias, e o processo de validação e aprendizado é muitas vezes separado da entrega, criando uma cascata que aumenta o time to market do produto, ou muitas vezes nem é feito, gerando muito desperdício.
-                O Discovery Kanban é a adoção dos princípios e praticas do Upstream Kanban para criação de um fluxo de validação e aprendizados contínuos em um contexto de inovação ou mudança. Nesse cenário, gargalos na entrega são usado para a melhoria do processo de criação e triagem de opções, melhorando a eficácia do sistema."
+  track: "Relatos de Experiência"
+  target: "Inicial"
+  description: "Vamos falar como foi nossa experiência em implantar uma equipe ágil para um cliente que precisou adequar sua realidade de criação de produtos para atender a criticidade e acompanhar o mercado disponibilizando o Pagamento Instantâneo – Pix para seus clientes.
+                Sabemos que o Ecossistema de pagamentos Pix trouxe um grande desafio para as fintechs e bancos e iremos mostrar como conseguimos contornar o desafio de trabalhar com métodos ágeis, mesmo possuindo um contrato com o cliente e suas cobranças totalmente voltados ao processo cascata. Iremos tratar como conseguimos conscientizar o cliente de que a forma de contratação não conseguiria acompanhar o dinamismo esperado pelo BACEN e quais foram as experiências vividas até hoje com as evoluções constantes do Pix."
   speakers:
-    - name: Rafael Caceres
-      email: rafael@taller.net.br
+    - name: Paula Daniele de Oliveira Moreira
+      email: paula.moreira@vibetecnologia.com
       show: true
-      bio: "Empreendedor-Fluxonomista-Desenvolvedor e Cientista da Computação pela Universidade Estadual do Oeste do Paraná tem 15 anos de experiência com desenvolvimento web. É um dos fundadores da Taller, um ateliê de negócios digitais que cria produtos sob medida para seus clientes, onde trabalha na gestão de fluxo. Entusiasta do software livre, viciado em seriados e livros, gosta muito de xadrez, anarquismo, cozinhar e gerar ideias mirabolantes."     
+      bio: "Mestre em Ciências da Computação (UFPA) possuo 9 anos de experiência em desenvolvimento e 3 anos de experiência com métodos ágeis. Sou Gerente de TI das soluções de internet banking de uma instituição financeira. A filosofia Lean Thinking e as melhorias pequenas e continuas (Kaizen) me inspiram."     
+ 
 
 - date: 2021-10-07
   start: "11:30"
@@ -788,33 +993,22 @@ Antecipar as atividades de testes pode ser visto como 'deslocar essas atividades
             Já palestrei no TDC, Agile Floripa, Agile Trends e nos últimos 4 anos participei com temas no Open Space do Scrum Rio Gathering e Agile Brazil."      
 
 
-- date: 2021-10-07
+- date: 2021-10-06
   start: "11:30"
   end: "12:00"
   show: true
   room: Sala Dorothy Vaughan
-  title: "Map to Map - Não basta ser iterativo, também é preciso ser incremental"
+  title: "Agilidade como diferencial para a área da saúde na pandemia: uma história de sucesso!"
   kind: session
   type: "Apresentação"
-  track: "Produtos e Negócios"
-  target: "Intermediário"
-  description: "Às vezes nos encontramos em situações onde trabalhar em ciclos parece não fazer muito sentido. As reuniões de revisão se tornam monótonas e parecem não ter sentido, e acabamos repetindo estes eventos apenas para “seguir as boas práticas”.
-                O problema é que só iterar não basta. É preciso entender os benefícios de se partir um produto em fatias menores para poder de fato aproveitar os benefícios desta abordagem.
-                Mas, como cortar as fatias certas?
-                Neste webinar vamos mostrar como o bom entendimento de um problema facilita o desenvolvimento de um produto de forma iterativa e incremental, através de uma mescla envolvendo duas técnicas de mapeamento: Impact Mapping de Gojko Adzic com User Story Mapping de Jeff Patton."
+  track: "Relatos de Experiência"
+  target: "Inicial"
+  description: "Fui gerente de uma equipe hospitalar desde outubro de 2019 até maio de 2021, e por estudar metodologias ágeis decidi fazer a gestão da equipe usando práticas de Scrum e Kanban, que não são comumente encontradas na área da saúde. Em março de 2020 a pandemia de Covid-19 iniciou no Brasil e com a ajuda da agilidade conseguimos adaptar processos e viver momentos onde a transparência, inspeção e adaptação fizeram total diferença na condução do time, que atualmente tem todos as cerimônias Scrum implantadas, além de algumas métricas de Kanban e uma pincelada de Management 3.0."
   speakers:
-    - name: Mário Melo
-      email: mariofdemelo@gmail.com
+    - name: Thaís Eliana Carvalho Lima
+      email: thais.consultri@gmail.com
       show: true
-      bio: "Formado em Sistemas de Informação pela UFMG
-            Sun Certified Java Programmer 5
-            Certified Scrum Professional
-            Certified ScrumMaster
-            Certified Scrum Developer
-            Certified Scrum Product Owner
-            ScrumAlliance Registered Education Provider
-            É sócio fundador da Facta, uma empresa de desenvolvimento de software localizada em Belo Horizonte cujo lema é “code to happiness”. Atua também como trainer da GoToAgile e tem como meta pessoal “fazer com que cada hora de seu trabalho economize um dia de esforço futuro”"     
-
+      bio: "Sou a Thaís Lima, agilista na GFT Brasil. Apaixonada por agilidade, pessoas e suas interações, fiz recentemente uma transição de carreira da área da saúde para a TI (atuei por 11 anos em grandes hospitais de São Paulo). Meu sonho é influenciar pessoas a utilizarem a agilidade nos mais diversos ambientes e contextos, incentivando relações trabalhistas mais colaborativas e humanas."     
 
 - date: 2021-10-07
   start: "16:00"
@@ -1004,24 +1198,18 @@ Antecipar as atividades de testes pode ser visto como 'deslocar essas atividades
   end: "11:30"
   show: true
   room: Sala Dorothy Vaughan
-  title: "Agilidade em escala: É possível ser simples?"
+  title: "Discovery Kanban: por um Fluxo de Desenvolvimento de Produtos"
   kind: session
   type: "Apresentação"
-  track: "Produtos e Negócio"
+  track: "Produtos e Negócios"
   target: "Intermediário"
-  description: "Agilidade em Escala pode soar, para muitos, como uma utopia.
-                Se ter apenas um time atuando de forma ágil pode ser um grande desafio, como realizar a gestão de diversos times e produtos de forma ágil, com as melhores práticas de desenvolvimento e maximizando o retorno das entregas? E ainda: como fazer isso sem “revolucionar” e sem alterar (as vezes até bagunçar!) radicalmente o negócio e a forma que os times atuam?
-                Nesse case de Agilidade em Escala será contado como “criamos”, de forma incremental e natural, um “framework customizado” para conseguimos o alinhamento entre diversos times e suas estratégias, além de ter transparência das entregas, métricas e engajamento das pessoas."
+  description: "É fácil gerar idéias para produtos, e elas são muito mais rápidas que a capacidade de entrega da organização, criando uma frustração constante nos clientes. Mas idéias são apenas idéias, e o processo de validação e aprendizado é muitas vezes separado da entrega, criando uma cascata que aumenta o time to market do produto, ou muitas vezes nem é feito, gerando muito desperdício.
+                O Discovery Kanban é a adoção dos princípios e praticas do Upstream Kanban para criação de um fluxo de validação e aprendizados contínuos em um contexto de inovação ou mudança. Nesse cenário, gargalos na entrega são usado para a melhoria do processo de criação e triagem de opções, melhorando a eficácia do sistema."
   speakers:
-    - name: Felipe Polovanick Blazquez
-      email: fpolovanick@hotmail.com
+    - name: Rafael Caceres
+      email: rafael@taller.net.br
       show: true
-      bio: "Gerente de produtos, agile coach, professor, músico e geek!
-            Experiência em construção de produtos, desde a imersão, ideação, validação até o desenvolvimento e delivery, liderança e formação de equipes e squads de alta performance.
-            Objetivo em auxiliar pessoas, times e empresas na Transformação Digital, Ágil e Cultural para chegarem a um cenário de Business Agility.
-            Atuação com métricas de eficiência e eficácia, metodologia ORK, além de frameworks, métodos e técnicas como Scrum, Kanban, design thinking, design sprint, lean inception, MVP, Value Stream Mapping (mapeamento de cadeias de valor), entre outros.
-            MBA em Gestão de Tecnologia da Informação, Pós-Graduação em Gestão de Negócios e Marketing e Graduação em Engenharia de Computação, além de certificações relacionadas a agilidade, gestão, processos, produtos e infraestrutura."
-   
+      bio: "Empreendedor-Fluxonomista-Desenvolvedor e Cientista da Computação pela Universidade Estadual do Oeste do Paraná tem 15 anos de experiência com desenvolvimento web. É um dos fundadores da Taller, um ateliê de negócios digitais que cria produtos sob medida para seus clientes, onde trabalha na gestão de fluxo. Entusiasta do software livre, viciado em seriados e livros, gosta muito de xadrez, anarquismo, cozinhar e gerar ideias mirabolantes."        
 
 - date: 2021-10-08
   start: "11:30"
