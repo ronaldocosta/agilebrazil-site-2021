@@ -699,7 +699,7 @@ Antecipar as atividades de testes pode ser visto como 'deslocar essas atividades
     - name: Dina Anunciada 
       show: true
       bio: ""        
-- name: Mariana Sá 
+    - name: Mariana Sá 
       show: true
       bio: ""    
 
