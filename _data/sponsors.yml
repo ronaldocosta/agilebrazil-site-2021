@@ -77,3 +77,9 @@
   logo: assets/images/sponsor-logo-verum.png
   url: https://verumpartners.com.br
   kind: diversity
+
+- name: Wildtech
+  logo: assets/images/sponsor-logo-wildtech.png
+  url: https://instagram.com/wildtech_br
+  kind: master
+  
