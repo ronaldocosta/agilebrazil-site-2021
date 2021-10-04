@@ -59,14 +59,17 @@ permalink: /schedule
                                       </div>
                                     {% endif %}
                                     {% if session.speakers.size > 0 %}
-                                      <!--div class="author-schedules">
+                                      <div class="author-schedules">
                                         <span class="author-schedules-icon"><i class="opal-icon-microphone-alt"></i></span> 
                                         <span class="author-schedules-group">
-                                          {% for speaker in session.speakers %}
-                                            <a href="#">{{speaker.name}}</a>
-                                          {% endfor %}
+                                            {% for speaker in session.speakers %}
+                                            <span class="item-image tooltipster-wrap"
+                                              <a href="#">{{speaker.name}}</a>
+                                              <div class="tooltipster-speaker-content"><div class="name">{{speaker.name}}</div><div class="job">{{speaker.bio}}</div></div>
+                                            </span>
+                                            {% endfor %}
                                         </span>
-                                      </div-->
+                                      </div>
                                     {% endif %}
                                   </div>
                                   <div class="item-wrapper">
