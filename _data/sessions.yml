@@ -359,9 +359,11 @@ Trabalhando para a Thoughtworks, o Alexandre já fez parte de equipes em diversa
   description: "Vamos falar rapidamente sobre o que é uma Lean Inception, quais os desafios de facilitá-las remotamente, evitando a carga excessiva em vídeo chamadas, esquivando-se das armadilhas e se planejando para o sucesso."
   speakers:
     - name: Rafael Debus 
+      email: rdebus@thoughtworks.com
       show: true
       bio: "Pessoa consultora na Thoughtworks, pós-graduado em arquitetura de software e a 10 anos trabalhando na gestão de pessoas e projetos. Apaixonado por Pets, estudante de violão e um curioso sobre dinâmica de times e relações interpessoais."
     - name: Gustavo Porpino (Globo)
+      email: gustavo.porpino@g.globo
       show: true
       bio: "Engenheiro de Software graduado em Sistemas de Informação, trabalhando como Fullstack a mais de 15 anos, experiência de 7 anos em Gestão de Inovação Educational, Mentor do Células Empreendedoras, Músico, Compositor e Poeta nas horas vagas e apaixonado por educação, CNV e por impactar pessoas positivamente."
 
