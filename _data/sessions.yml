@@ -1102,11 +1102,11 @@ Pesquisas recentes têm demonstrado como a criação de ambientes seguros incide
   description: "Iremos conversar sobre o equilíbrio necessário para se ter uma organização flexível e autônoma, passando pelo contexto das empresas ágeis, que vivem um ambiente complexo. Vamos trazer um case prático de como guiar as trajetórias dos seus colaboradores de forma ágil, dando o suporte necessário para que se tenha autonomia nas decisões."
   speakers:
     - name: Camila Palhares
-      email: camila.palhares@dtidigital.com.br
+      photo: assets/images/speakers/camila-palhares.jpeg
       show: false
       bio: "Camila Palhares é formada em design gráfico pela UEMG e especialista em Design de Interação pela PUC-MG. Atua como Product Designer na Dti há 3 anos, unindo desenvolvimento de produtos digitais e estratégias de negócio."
     - name: Vinicius Paiva
-      email: vinicius.paiva@dtidigital.com.br
+      photo: assets/images/speakers/vinicius-paiva.jpeg
       show: false
       bio: "Vinicius Paiva é fundador e COO da dti digital, uma empresa de transformação digital mineira. Além de ser Co-Host do podcast Os Agilistas, o maior podcast de agilismo do Brasil. Vinicius possui uma ampla experiência com metodologias ágeis aplicadas para negócios, mercado e empreendedorismo."
       
