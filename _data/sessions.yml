@@ -1536,23 +1536,27 @@ Pesquisas recentes têm demonstrado como a criação de ambientes seguros incide
       show: true
       bio: "Conheci a Agilidade em 2010, fez tanto sentido que foi como se eu já conhecesse desde que nasci. Como Analista de Sistemas na Petrobras, os anos seguintes foram de aprendizado teórico. CSM, CSPO, KMP1, Requisitos Ágeis, Scrum Gathering Rio 2015… até que em 2018 me juntei a um grupo de intraempreendedores autodenominados Transformadores, passando a atuar informalmente com aplicação e treinamento de Scrum, Kanban, Design Thinking, Lean Inception, e o que mais fazia sentido para os desafios da empresa que chegavam até nós. Hoje atuo integralmente como Agilista, contribuindo para o movimento de Transformação Ágil na maior empresa brasileira."
 
+
 - date: 2021-10-09
   start: "13:30"
   end: "15:30"
   show: true
   room: Sala Enedina Alves
-  title: "Scrum Lúdico: Ensinando e Aprendendo Scrum em 60 minutos"
+  title: "Fun Kanban"
   kind: session
   type: "Mão na Massa"
-  track: "Práticas de Trabalho"
-  target: "Inicial"
-  description: "Aprender Scrum é fácil! Você vai lá lê o Guia Scrum e pronto você já consegue compreender este método. Agora, e na prática? Qual o papel de um Dono do Produto? Como um Scrum Master pode facilitar e ter a certeza de que o time está engajado com o objetivo em comum? Como o time se organiza para entender, estimar e realizar a entrega? Todas essas questões são resolvidas na prática com o Scrum Lúdico!"
-  
+  track: "Práticas De Trabalho"
+  target: "Intermediário"
+  description: "Workshop para você que já ouviu falar sobre Kanban mas nunca conseguiu colocar em prática. Nós iremos mostrar de forma lúdica os conceitos importantes para começar usar o kanban hoje e como replicar isso com os times."
   speakers:
-    - name: Ana Carolina Moises de Souza
-      email: carol.moises@gmail.com
+    - name: Rafael de Oliveira
+      email: rafael.oliveira.cc@outlook.com
       show: true
-      bio: "Atualmente Ana Carolina é Professora nos cursos da Escola Politécnica na PUCPR. Durante o mestrado pesquisou sobre Engenharia de Software Sustentável no setor financeiro. Neste mesmo período em conjunto com o grupo de pesquisa de engenharia de software pesquisou sobre modelos de maturidade no desenvolvimento de software ágil. Iniciou sua carreira de TI como programadora atuando em empresas do setor de financeiro, petróleo e aviação. Desde 2009 trabalhando em times ágeis, atuou como Scrum Master e Agile Master aplicando métodos ágeis como Scrum, Kanban e SAFe e se encantando com a agilidade a cada dia. Além da agilidade, teatro e canto são as suas paixões. Fui voluntária na comunidade TechLadies com objetivo de aumentar a participação de mulheres na TI e também na CareSchool ensinando inglês para estudantes do ensino fundamental público."
+      bio: "Olá, sou o Rafael, trabalho na empresa Invillia, onde atuo como Agile Specialist. Sou formado em Ciência da Computação com Pós-graduação em Engenharia de Software e possuo algumas certificações com foco em agilidade. Sou Co-fundador do evento Agile Day Interior e Palestrante na comunidade ágil."
+    - name: Greice Pecorari Vale
+      email: grepecorari@gmail.com
+      show: true
+      bio: "Greice Pecorari – Agile Coach no banco BV, certificada em Management 3.0 e Scrum. Após anos trabalhando como Quality Assurance, com formação em MBA em Gestão de Qualidade de Software, resolvi me aventurar no mundo da agilidade e foi onde me encontrei. Apaixonada por agilidade, cultura/transformação organizacional e mudança de mindset. Me desafio diariamente no coaching de parceiros e alunos a entender como a agilidade pode ajudar e potencializar na entrega de valor."
 
 - date: 2021-10-09
   start: "13:30"
@@ -1585,7 +1589,9 @@ Pesquisas recentes têm demonstrado como a criação de ambientes seguros incide
   type: "Mão na Massa"
   track: "Mão no Código"
   target: "Intermediário"
-  description: "Test-Driven Development is a very popular agile practice but at the same time is one of the hardest practices. Even when the idea of TDD is easy to understand it could be really difficult to apply it to non-trivial projects. One key factor when applying TDD is the sequence of tests we select to guide our development. In this hands-on session we will explore several heuristics to apply TDD in an effective way. Prepare ahead: during the workshop we will do some mob/pair programming, here is the base project we will use for that: https://github.com/nicopaez/tdd-heuristics"
+  description: "During the workshop we will do some mob/pair programming, here is are the base projects we will use for that: 
+                https://github.com/nicopaez/tdd-heuristics
+                Test-Driven Development is a very popular agile practice but at the same time is one of the hardest practices. Even when the idea of TDD is easy to understand it could be really difficult to apply it to non-trivial projects. One key factor when applying TDD is the sequence of tests we select to guide our development. In this hands-on session we will explore several heuristics to apply TDD in an effective way. Prepare ahead: during the workshop we will do some mob/pair programming, here is the base project we will use for that: https://github.com/nicopaez/tdd-heuristics"
   
   speakers:
     - name: Nicolas Paez
@@ -1670,27 +1676,24 @@ Pesquisas recentes têm demonstrado como a criação de ambientes seguros incide
     - name: Floripa Ágil
       show: true
       bio: "" 
-      
+
 - date: 2021-10-09
   start: "16:00"
   end: "18:00"
   show: true
   room: Sala Enedina Alves
-  title: "Fun Kanban"
+  title: "Scrum Lúdico: Ensinando e Aprendendo Scrum em 60 minutos"
   kind: session
   type: "Mão na Massa"
-  track: "Práticas De Trabalho"
-  target: "Intermediário"
-  description: "Workshop para você que já ouviu falar sobre Kanban mas nunca conseguiu colocar em prática. Nós iremos mostrar de forma lúdica os conceitos importantes para começar usar o kanban hoje e como replicar isso com os times."
+  track: "Práticas de Trabalho"
+  target: "Inicial"
+  description: "Aprender Scrum é fácil! Você vai lá lê o Guia Scrum e pronto você já consegue compreender este método. Agora, e na prática? Qual o papel de um Dono do Produto? Como um Scrum Master pode facilitar e ter a certeza de que o time está engajado com o objetivo em comum? Como o time se organiza para entender, estimar e realizar a entrega? Todas essas questões são resolvidas na prática com o Scrum Lúdico!"
+  
   speakers:
-    - name: Rafael de Oliveira
-      email: rafael.oliveira.cc@outlook.com
+    - name: Ana Carolina Moises de Souza
+      email: carol.moises@gmail.com
       show: true
-      bio: "Olá, sou o Rafael, trabalho na empresa Invillia, onde atuo como Agile Specialist. Sou formado em Ciência da Computação com Pós-graduação em Engenharia de Software e possuo algumas certificações com foco em agilidade. Sou Co-fundador do evento Agile Day Interior e Palestrante na comunidade ágil."
-    - name: Greice Pecorari Vale
-      email: grepecorari@gmail.com
-      show: true
-      bio: "Greice Pecorari – Agile Coach no banco BV, certificada em Management 3.0 e Scrum. Após anos trabalhando como Quality Assurance, com formação em MBA em Gestão de Qualidade de Software, resolvi me aventurar no mundo da agilidade e foi onde me encontrei. Apaixonada por agilidade, cultura/transformação organizacional e mudança de mindset. Me desafio diariamente no coaching de parceiros e alunos a entender como a agilidade pode ajudar e potencializar na entrega de valor."
+      bio: "Atualmente Ana Carolina é Professora nos cursos da Escola Politécnica na PUCPR. Durante o mestrado pesquisou sobre Engenharia de Software Sustentável no setor financeiro. Neste mesmo período em conjunto com o grupo de pesquisa de engenharia de software pesquisou sobre modelos de maturidade no desenvolvimento de software ágil. Iniciou sua carreira de TI como programadora atuando em empresas do setor de financeiro, petróleo e aviação. Desde 2009 trabalhando em times ágeis, atuou como Scrum Master e Agile Master aplicando métodos ágeis como Scrum, Kanban e SAFe e se encantando com a agilidade a cada dia. Além da agilidade, teatro e canto são as suas paixões. Fui voluntária na comunidade TechLadies com objetivo de aumentar a participação de mulheres na TI e também na CareSchool ensinando inglês para estudantes do ensino fundamental público."
 
 - date: 2021-10-09
   start: "16:00"
