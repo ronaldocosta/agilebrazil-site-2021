@@ -1585,7 +1585,7 @@ Pesquisas recentes têm demonstrado como a criação de ambientes seguros incide
   type: "Mão na Massa"
   track: "Mão no Código"
   target: "Intermediário"
-  description: "Test-Driven Development is a very popular agile practice but at the same time is one of the hardest practices. Even when the idea of TDD is easy to understand it could be really difficult to apply it to non-trivial projects. One key factor when applying TDD is the sequence of tests we select to guide our development. In this hands-on session we will explore several heuristics to apply TDD in an effective way."
+  description: "Test-Driven Development is a very popular agile practice but at the same time is one of the hardest practices. Even when the idea of TDD is easy to understand it could be really difficult to apply it to non-trivial projects. One key factor when applying TDD is the sequence of tests we select to guide our development. In this hands-on session we will explore several heuristics to apply TDD in an effective way. Prepare ahead: during the workshop we will do some mob/pair programming, here is the base project we will use for that: https://github.com/nicopaez/tdd-heuristics"
   
   speakers:
     - name: Nicolas Paez
