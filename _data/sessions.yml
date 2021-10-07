@@ -1455,7 +1455,8 @@ Pesquisas recentes têm demonstrado como a criação de ambientes seguros incide
   type: "Lean Coffee"
   track: "Comunidades"
   target: ""
-  description: ""
+  description: "A síndrome do impostor é caracterizada por pessoas que têm tendência à autossabotagem. Ultimamente você tem se sentindo inseguro, com percepção de si mesmo de incompetência ou insuficiência? Se sim, possivelmente você está passando pela síndrome do impostor.
+                Vem com a gente bater um papo sobre! Essa conversa será em formato de Lean Coffee, bem iterativo!"
   speakers:
     - name: Mulheres Agilistas
       show: true
@@ -1471,7 +1472,7 @@ Pesquisas recentes têm demonstrado como a criação de ambientes seguros incide
   type: "Fishbowl"
   track: "Comunidades"
   target: ""
-  description: ""
+  description: "Não basta ser eficiente.. é preciso ser eficaz. Já ouviu algo parecido? Mas como é que se mede a tal eficácia? Que tal debater esse assunto (e o que mais surgir daí) com a gente e com convidados para lá de especiais? Aceitamos o desafio de rodar um Fishbowl 100% online em uma plataforma super interativa... bora?"
   speakers:
     - name: Agile Campinas
       show: true
@@ -1487,7 +1488,9 @@ Pesquisas recentes têm demonstrado como a criação de ambientes seguros incide
   type: "Debate"
   track: "Comunidades"
   target: ""
-  description: ""
+  description: "Como liderar em um mundo complexo e cheio de mudanças?
+                Vem com a gente trocar experiência em um roda de debate, onde vamos poder falar sobre experiências, como lidar, quais dificuldades, como solucionar?
+                Vamos conversar em um formato bem bacana, leve e dinâmico!"
   speakers:
     - name: Agile Joinville
       show: true
@@ -1589,9 +1592,8 @@ Pesquisas recentes têm demonstrado como a criação de ambientes seguros incide
   type: "Mão na Massa"
   track: "Mão no Código"
   target: "Intermediário"
-  description: "During the workshop we will do some mob/pair programming, here is are the base projects we will use for that: 
-                https://github.com/nicopaez/tdd-heuristics
-                Test-Driven Development is a very popular agile practice but at the same time is one of the hardest practices. Even when the idea of TDD is easy to understand it could be really difficult to apply it to non-trivial projects. One key factor when applying TDD is the sequence of tests we select to guide our development. In this hands-on session we will explore several heuristics to apply TDD in an effective way. Prepare ahead: during the workshop we will do some mob/pair programming, here is the base project we will use for that: https://github.com/nicopaez/tdd-heuristics"
+  description: "Test-Driven Development is a very popular agile practice but at the same time is one of the hardest practices. Even when the idea of TDD is easy to understand it could be really difficult to apply it to non-trivial projects. One key factor when applying TDD is the sequence of tests we select to guide our development. In this hands-on session we will explore several heuristics to apply TDD in an effective way. 
+                Prepare ahead: during the workshop we will do some mob/pair programming, here is the base project we will use for that: https://github.com/nicopaez/tdd-heuristics"
   
   speakers:
     - name: Nicolas Paez
@@ -1609,7 +1611,9 @@ Pesquisas recentes têm demonstrado como a criação de ambientes seguros incide
   type: "Fishbowl"
   track: "Comunidades"
   target: ""
-  description: "A importância das Comunidades para construir a agilidade dentro da empresa"
+  description: "Fomentando a Agilidade na Empresa Através de uma Comunidade Interna
+                Resumo (está desatualizado): Sua empresa tem um comunidade interna de Agilidade? Ou algo parecido com isso? Não tem mais você acha que seria bom ter? Vem com a gente trocar experiências e aprendizados sobre esse assunto nessa conversa aberta no formato Fish Bowl (*).
+                (*) Tem gente que diz que não dá pra fazer Fish Bowl remotamente, vamos tentar demonstrar que estão enganados!"
   speakers:
     - name: Petrobrás Ágil
       show: true
