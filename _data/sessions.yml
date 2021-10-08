@@ -1387,13 +1387,6 @@ Pesquisas recentes têm demonstrado como a criação de ambientes seguros incide
 ###############################
 ## DIA 05 - 09/10/2021        #
 ###############################
-- date: 2021-10-09
-  start: "09:30"
-  end: "10:00"
-  title: Abertura
-  kind: alert
-  show: true
-  speakers: []
   
 - date: 2021-10-09
   start: "10:00"
@@ -1606,13 +1599,12 @@ Pesquisas recentes têm demonstrado como a criação de ambientes seguros incide
   end: "15:30"
   show: true
   room: Sala Open Space Comunidades 1
-  title: "Comunidade Ágil de Empresas"
+  title: "Fomentando a Agilidade na Empresa Através de uma Comunidade Interna"
   kind: session
   type: "Fishbowl"
   track: "Comunidades"
   target: ""
-  description: "Fomentando a Agilidade na Empresa Através de uma Comunidade Interna
-                Resumo (está desatualizado): Sua empresa tem um comunidade interna de Agilidade? Ou algo parecido com isso? Não tem mais você acha que seria bom ter? Vem com a gente trocar experiências e aprendizados sobre esse assunto nessa conversa aberta no formato Fish Bowl (*).
+  description: "Sua empresa tem um comunidade interna de Agilidade? Ou algo parecido com isso? Não tem mais você acha que seria bom ter? Vem com a gente trocar experiências e aprendizados sobre esse assunto nessa conversa aberta no formato Fish Bowl (*).
                 (*) Tem gente que diz que não dá pra fazer Fish Bowl remotamente, vamos tentar demonstrar que estão enganados!"
   speakers:
     - name: Petrobrás Ágil
