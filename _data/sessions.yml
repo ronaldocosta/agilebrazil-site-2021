@@ -1826,7 +1826,7 @@ Pesquisas recentes têm demonstrado como a criação de ambientes seguros incide
   target: ""
   description: "O trabalho em comunidades vêm se expandindo desde a ascensão das empresas de base tecnológicas, hoje chamadas de startups. Seja criada de maneira informal ou possuindo uma empresa mantenedora por trás, é difícil encontrar alguma empresa que trabalhe com projetos que não possua um grupo que seja de discussões sobre o tema que está sendo desenvolvido ou até mesmo sobre práticas realizadas externamente ao ambiente de seu trabalho. Hoje, eventos, grupos formais e exclusivos e clubes de vantagens existem dentro deste ambiente colaborativo. Este trabalho tem o objetivo de entender as motivações que estas comunidades têm em adotar Métodos Ágeis em sua gestão e o quão benéfico isso pode se tornar para a gestão da transferência de conhecimento. 68 respondentes afirmaram que ambientes seguros ao aprendizado tornam as empresas mais bem posicionadas em seus ecossistemas e permitem que novos produtos sejam desenvolvidos de maneira mais colaborativa, mesmo que de forma não oficial, podendo gerar economias financeiras e aprendizados."
   speakers:
-    - name: A definir
+    - name: Rodrigo Cursino
       show: true
       bio: ""
 
@@ -1859,7 +1859,7 @@ Pesquisas recentes têm demonstrado como a criação de ambientes seguros incide
   description: "Decorrente das preocupações com os estudos do cenário de testes nos métodos ágeis no Brasil, este trabalho apresenta o mapeamento (2010-2019) e análise sobre o desenvolvimento da pesquisa em testes de software em trabalhos publicados no Workshop Brasileiro de Métodos Ágeis (WBMA), Agile Brazil. Tal esforço tem como objetivo verificar o crescimento, a diversidade de enfoques atrelados ao uso do teste no contexto mais amplo das metodologias ágeis e realizar apontamentos sobre o perfil dos trabalhos, tendo em vista o fortalecimento dos estudos na área na última década, em espaços de discussão acadêmica e aplicações na indústria. O artigo utilizou práticas de uma revisão sistemática da literatura, o que possibilitou uma análise qualitativa e quantitativa das evidências coletadas. Nós concluímos que o número de publicações vêm crescendo ao longo dos anos, mas o número absoluto de trabalhos publicados em todas as edições do evento ainda não é tão expressivo, principalmente quando consideramos o grande número de tópicos de teste de software que existem ou precisam de melhorias. Emergem como resultados desse trabalho apontamentos sobre a relação de autores e instituições com a pesquisa de teste de software."
   speakers:
     - name: Acássio Araújo
-      show: false
+      show: true
       bio: ""
 
 - date: 2021-10-09
